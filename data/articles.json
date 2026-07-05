@@ -1,11 +1,146 @@
 [
   {
-    "id": "sample-1",
+    "id": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
+    "source": "NPR Economy",
+    "title": "When falling housing prices are good news — and when they're not",
+    "summary": "Denver renters are celebrating falling housing costs. But sometimes cheaper housing is a sign of economic decline. How can you tell the difference?",
+    "link": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
+    "published": "Tue, 23 Jun 2026 06:30:00 -0400",
+    "collected_at": "2026-07-05T01:46:53.410653+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/06/24/nx-s1-5844631/high-gas-prices-hurt-even-if-you-travel-by-rubber-raft",
+    "source": "NPR Economy",
+    "title": "High gas prices hurt, even if you travel by rubber raft",
+    "summary": "River trips require car and truck shuttles to get floaters from the end back to where they started. High gas prices have some cancelling their plans.",
+    "link": "https://www.npr.org/2026/06/24/nx-s1-5844631/high-gas-prices-hurt-even-if-you-travel-by-rubber-raft",
+    "published": "Wed, 24 Jun 2026 16:59:20 -0400",
+    "collected_at": "2026-07-05T01:46:53.410645+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/06/25/nx-s1-5864247/two-former-governors-are-teaming-up-to-address-potential-job-losses-from-ai",
+    "source": "NPR Economy",
+    "title": "Two former governors are teaming up to address potential job losses from AI",
+    "summary": "NPR's Steve Inskeep talks with two former governors, Indiana Republican Eric Holcomb and Rhode Island Democrat Gina Raimondo, about combatting AI-related job losses.",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5864247/two-former-governors-are-teaming-up-to-address-potential-job-losses-from-ai",
+    "published": "Thu, 25 Jun 2026 04:45:05 -0400",
+    "collected_at": "2026-07-05T01:46:53.410639+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/06/25/nx-s1-5867374/could-high-inflation-be-the-new-normal",
+    "source": "NPR Economy",
+    "title": "Could high inflation be the new normal?",
+    "summary": "Inflation is at a three-year high. That's a problem for the Fed. Yet, under the leadership of new chair Kevin Warsh, it opted not to hike interest rates. So, who are inflation's winners and losers?",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5867374/could-high-inflation-be-the-new-normal",
+    "published": "Thu, 25 Jun 2026 04:45:51 -0400",
+    "collected_at": "2026-07-05T01:46:53.410634+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/01/nx-s1-5875160/if-wars-are-so-costly-why-do-we-keep-fighting-them",
+    "source": "NPR Economy",
+    "title": "If wars are so costly, why do we keep fighting them?",
+    "summary": "We dig into current conflicts to understand the incentives that lead countries into violence, and what keeps them stretching on and on.",
+    "link": "https://www.npr.org/2026/07/01/nx-s1-5875160/if-wars-are-so-costly-why-do-we-keep-fighting-them",
+    "published": "Wed, 01 Jul 2026 16:45:20 -0400",
+    "collected_at": "2026-07-05T01:46:53.410629+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
+    "source": "NPR Economy",
+    "title": "U.S. job market slows in June",
+    "summary": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
+    "link": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
+    "published": "Thu, 02 Jul 2026 04:49:28 -0400",
+    "collected_at": "2026-07-05T01:46:53.410623+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/02/nx-s1-5879205/june-gloom-for-the-job-market-as-employers-add-just-57-000-jobs",
+    "source": "NPR Economy",
+    "title": "June gloom for the job market as employers add just 57,000 jobs",
+    "summary": "U.S. employers added fewer jobs than expected last month. The unemployment rate fell, but only because a large number of people stopped looking for work.",
+    "link": "https://www.npr.org/2026/07/02/nx-s1-5879205/june-gloom-for-the-job-market-as-employers-add-just-57-000-jobs",
+    "published": "Thu, 02 Jul 2026 16:44:03 -0400",
+    "collected_at": "2026-07-05T01:46:53.410617+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/03/nx-s1-5859417/how-texas-bbq-deals-with-rising-beef-prices",
+    "source": "NPR Economy",
+    "title": "How Texas BBQ deals with rising beef prices",
+    "summary": "NPR's Scott Detrow speaks with <em>Texas Monthly</em> barbeque editor Daniel Vaughn about rising beef prices and how Texas barbecue joints are dealing with it.",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5859417/how-texas-bbq-deals-with-rising-beef-prices",
+    "published": "Fri, 03 Jul 2026 15:55:40 -0400",
+    "collected_at": "2026-07-05T01:46:53.410604+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
-    "title": "Sample: Stocks climb despite economic uncertainty",
-    "summary": "This is a sample entry. Once GitHub Actions runs for the first time, real articles will appear here automatically.",
-    "link": "https://www.bbc.com/business",
-    "published": "2026-07-05T00:00:00Z",
-    "collected_at": "2026-07-05T00:00:00Z"
+    "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+    "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 15:01:27 GMT",
+    "collected_at": "2026-07-05T01:46:53.161460+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
+    "summary": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
+    "link": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 11:24:03 GMT",
+    "collected_at": "2026-07-05T01:46:53.161451+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 23:02:09 GMT",
+    "collected_at": "2026-07-05T01:46:53.161446+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
+    "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
+    "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 02 Jul 2026 20:49:17 GMT",
+    "collected_at": "2026-07-05T01:46:53.161441+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham says there is some room for movement on tax",
+    "summary": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 12:44:09 GMT",
+    "collected_at": "2026-07-05T01:46:53.161436+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+    "summary": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
+    "link": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 09:50:56 GMT",
+    "collected_at": "2026-07-05T01:46:53.161430+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
+    "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+    "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 10:46:34 GMT",
+    "collected_at": "2026-07-05T01:46:53.161424+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+    "summary": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+    "link": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 03 Jul 2026 16:13:14 GMT",
+    "collected_at": "2026-07-05T01:46:53.161407+00:00"
   }
 ]
