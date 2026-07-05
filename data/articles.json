@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sample-1",
+    "source": "BBC Business",
+    "title": "Sample: Stocks climb despite economic uncertainty",
+    "summary": "This is a sample entry. Once GitHub Actions runs for the first time, real articles will appear here automatically.",
+    "link": "https://www.bbc.com/business",
+    "published": "2026-07-05T00:00:00Z",
+    "collected_at": "2026-07-05T00:00:00Z"
+  }
+]

@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>영어 공부장</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #EDEAE0;
+    --paper-card: #F6F4EC;
+    --ink: #2A2721;
+    --ink-soft: #6B6656;
+    --tape-teal: #3E7C74;
+    --tape-blue: #4C6785;
+    --tape-mustard: #C99A2E;
+    --highlight: #F2D94E;
+    --rule: #D8D3C2;
+    --shadow: rgba(42, 39, 33, 0.18);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(255,255,255,0.4), transparent 40%),
+      radial-gradient(circle at 90% 80%, rgba(0,0,0,0.03), transparent 50%);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    padding: 0 0 80px;
+  }
+
+  header {
+    padding: 56px 24px 28px;
+    text-align: center;
+    position: relative;
+  }
+
+  header .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 10px;
+  }
+
+  header h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: clamp(32px, 6vw, 52px);
+    margin: 0 0 12px;
+    line-height: 1.1;
+  }
+
+  header h1 em {
+    font-style: italic;
+    font-weight: 500;
+    color: var(--tape-teal);
+  }
+
+  header p.sub {
+    color: var(--ink-soft);
+    font-size: 15px;
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  .toolbar {
+    max-width: 720px;
+    margin: 32px auto 0;
+    padding: 0 24px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .toolbar input[type="text"] {
+    flex: 1;
+    min-width: 180px;
+    padding: 10px 16px;
+    border: 1.5px solid var(--rule);
+    border-radius: 999px;
+    background: var(--paper-card);
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color: var(--ink);
+    outline: none;
+  }
+
+  .toolbar input[type="text"]:focus {
+    border-color: var(--tape-teal);
+  }
+
+  .chip {
+    padding: 8px 16px;
+    border-radius: 999px;
+    border: 1.5px solid var(--rule);
+    background: var(--paper-card);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.15s ease;
+    white-space: nowrap;
+  }
+
+  .chip.active {
+    background: var(--ink);
+    color: var(--paper-card);
+    border-color: var(--ink);
+  }
+
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 24px 0;
+  }
+
+  .day-group {
+    margin-bottom: 44px;
+  }
+
+  .day-heading {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--ink-soft);
+    margin: 0 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 1.5px dashed var(--rule);
+  }
+
+  .card {
+    position: relative;
+    background: var(--paper-card);
+    border-radius: 3px;
+    padding: 26px 26px 22px;
+    margin-bottom: 28px;
+    box-shadow: 0 6px 16px var(--shadow), 0 1px 0 rgba(0,0,0,0.04);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .card:nth-child(3n+1) { transform: rotate(-0.6deg); }
+  .card:nth-child(3n+2) { transform: rotate(0.5deg); }
+  .card:nth-child(3n)   { transform: rotate(-0.2deg); }
+
+  .card:hover {
+    transform: rotate(0deg) translateY(-2px);
+    box-shadow: 0 10px 24px var(--shadow);
+  }
+
+  .tape {
+    position: absolute;
+    top: -12px;
+    left: 32px;
+    width: 74px;
+    height: 26px;
+    opacity: 0.85;
+    transform: rotate(-3deg);
+    border-radius: 1px;
+  }
+  .card:nth-child(3n+2) .tape { left: auto; right: 36px; transform: rotate(4deg); }
+  .card:nth-child(3n) .tape { left: 50%; margin-left: -37px; transform: rotate(-1.5deg); }
+
+  .tape.c-teal { background: var(--tape-teal); }
+  .tape.c-blue { background: var(--tape-blue); }
+  .tape.c-mustard { background: var(--tape-mustard); }
+
+  .card-source {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 8px;
+  }
+
+  .card h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 1.35;
+    margin: 0 0 12px;
+  }
+
+  .card h2 a {
+    color: var(--ink);
+    text-decoration: none;
+    background-image: linear-gradient(transparent 65%, var(--highlight) 65%);
+    background-repeat: no-repeat;
+    background-size: 0% 100%;
+    transition: background-size 0.3s ease;
+  }
+
+  .card h2 a:hover {
+    background-size: 100% 100%;
+  }
+
+  .card p.summary {
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: #4a4638;
+    margin: 0 0 16px;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  .read-toggle {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px;
+    color: var(--ink-soft);
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .read-toggle input {
+    accent-color: var(--tape-teal);
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+  }
+
+  .card.is-read {
+    opacity: 0.55;
+  }
+
+  .card.is-read h2 a {
+    background-size: 100% 100%;
+  }
+
+  .read-link {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px;
+    color: var(--tape-teal);
+    text-decoration: none;
+  }
+  .read-link:hover { text-decoration: underline; }
+
+  .empty-state, .loading-state {
+    text-align: center;
+    padding: 60px 24px;
+    color: var(--ink-soft);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-soft);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Daily English Notebook</div>
+  <h1>영어 <em>공부장</em></h1>
+  <p class="sub">매일 자동으로 쌓이는 비즈니스 뉴스 스크랩. 표현을 오려 붙이듯, 매일 조금씩 채워갑니다.</p>
+</header>
+
+<div class="toolbar">
+  <input type="text" id="searchInput" placeholder="검색 (제목, 요약)...">
+  <div class="chip active" data-source="all">전체</div>
+  <div class="chip" data-source="BBC Business">BBC</div>
+  <div class="chip" data-source="NPR Economy">NPR</div>
+  <div class="chip" id="unreadOnly" data-toggle="unread">안 읽은 것만</div>
+</div>
+
+<main id="main">
+  <div class="loading-state">불러오는 중...</div>
+</main>
+
+<footer>매일 06:00 KST · GitHub Actions로 자동 수집</footer>
+
+<script>
+  const state = {
+    articles: [],
+    sourceFilter: 'all',
+    query: '',
+    unreadOnly: false,
+    readIds: new Set(JSON.parse(localStorage.getItem('readIds') || '[]')),
+  };
+
+  const tapeClasses = ['c-teal', 'c-blue', 'c-mustard'];
+
+  function saveReadIds() {
+    localStorage.setItem('readIds', JSON.stringify([...state.readIds]));
+  }
+
+  function formatDayLabel(dateStr) {
+    const d = new Date(dateStr);
+    if (isNaN(d)) return '날짜 미상';
+    const opts = { month: 'long', day: 'numeric', weekday: 'short' };
+    return d.toLocaleDateString('ko-KR', opts);
+  }
+
+  function dayKey(dateStr) {
+    const d = new Date(dateStr);
+    if (isNaN(d)) return 'unknown';
+    return d.toISOString().slice(0, 10);
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str || '';
+    return div.innerHTML;
+  }
+
+  function render() {
+    const main = document.getElementById('main');
+
+    let filtered = state.articles.filter(a => {
+      if (state.sourceFilter !== 'all' && a.source !== state.sourceFilter) return false;
+      if (state.unreadOnly && state.readIds.has(a.id)) return false;
+      if (state.query) {
+        const q = state.query.toLowerCase();
+        const hay = (a.title + ' ' + a.summary).toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+
+    if (filtered.length === 0) {
+      main.innerHTML = '<div class="empty-state">조건에 맞는 기사가 없어요.<br>필터를 바꾸거나, 첫 자동 수집을 기다려보세요.</div>';
+      return;
+    }
+
+    // group by day (using published date, fallback to collected_at)
+    const groups = {};
+    filtered.forEach(a => {
+      const key = dayKey(a.published || a.collected_at);
+      if (!groups[key]) groups[key] = [];
+      groups[key].push(a);
+    });
+
+    const sortedKeys = Object.keys(groups).sort((a, b) => b.localeCompare(a));
+
+    let html = '';
+    sortedKeys.forEach(key => {
+      const items = groups[key];
+      const label = key === 'unknown' ? '날짜 미상' : formatDayLabel(items[0].published || items[0].collected_at);
+      html += `<div class="day-group"><div class="day-heading">${label}</div>`;
+      items.forEach((a, i) => {
+        const tape = tapeClasses[i % tapeClasses.length];
+        const isRead = state.readIds.has(a.id);
+        html += `
+          <div class="card ${isRead ? 'is-read' : ''}" data-id="${escapeHtml(a.id)}">
+            <div class="tape ${tape}"></div>
+            <div class="card-source">${escapeHtml(a.source)}</div>
+            <h2><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h2>
+            <p class="summary">${escapeHtml(a.summary)}</p>
+            <div class="card-footer">
+              <label class="read-toggle">
+                <input type="checkbox" ${isRead ? 'checked' : ''} data-id="${escapeHtml(a.id)}">
+                읽음 표시
+              </label>
+              <a class="read-link" href="${escapeHtml(a.link)}" target="_blank" rel="noopener">원문 읽기 →</a>
+            </div>
+          </div>
+        `;
+      });
+      html += `</div>`;
+    });
+
+    main.innerHTML = html;
+
+    main.querySelectorAll('input[type="checkbox"][data-id]').forEach(cb => {
+      cb.addEventListener('change', (e) => {
+        const id = e.target.getAttribute('data-id');
+        if (e.target.checked) state.readIds.add(id);
+        else state.readIds.delete(id);
+        saveReadIds();
+        e.target.closest('.card').classList.toggle('is-read', e.target.checked);
+      });
+    });
+  }
+
+  document.querySelectorAll('.chip[data-source]').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.chip[data-source]').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      state.sourceFilter = chip.getAttribute('data-source');
+      render();
+    });
+  });
+
+  document.getElementById('unreadOnly').addEventListener('click', (e) => {
+    state.unreadOnly = !state.unreadOnly;
+    e.target.classList.toggle('active', state.unreadOnly);
+    render();
+  });
+
+  document.getElementById('searchInput').addEventListener('input', (e) => {
+    state.query = e.target.value.trim();
+    render();
+  });
+
+  fetch('data/articles.json?_=' + Date.now())
+    .then(res => res.json())
+    .then(data => {
+      state.articles = data;
+      render();
+    })
+    .catch(err => {
+      document.getElementById('main').innerHTML =
+        '<div class="empty-state">데이터를 불러오지 못했어요.<br>data/articles.json 파일이 있는지 확인해주세요.</div>';
+      console.error(err);
+    });
+</script>
+
+</body>
+</html>
