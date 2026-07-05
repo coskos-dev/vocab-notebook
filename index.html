@@ -6,106 +6,103 @@
 <title>영어 공부장</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --paper: #EDEAE0;
-    --paper-card: #F6F4EC;
-    --ink: #2A2721;
-    --ink-soft: #6B6656;
-    --tape-teal: #3E7C74;
-    --tape-blue: #4C6785;
-    --tape-mustard: #C99A2E;
-    --highlight: #F2D94E;
-    --rule: #D8D3C2;
-    --shadow: rgba(42, 39, 33, 0.18);
+    --bg: #FAFAF9;
+    --surface: #FFFFFF;
+    --border: #E7E5E2;
+    --ink: #17171A;
+    --ink-soft: #71706B;
+    --accent: #2F5D50;
+    --accent-soft: #E7F0EC;
+    --amber: #B5822A;
+    --amber-soft: #FBF1E1;
+    --ring: rgba(23, 23, 26, 0.06);
   }
 
   * { box-sizing: border-box; }
 
   body {
     margin: 0;
-    background: var(--paper);
-    background-image:
-      radial-gradient(circle at 20% 10%, rgba(255,255,255,0.4), transparent 40%),
-      radial-gradient(circle at 90% 80%, rgba(0,0,0,0.03), transparent 50%);
+    background: var(--bg);
     color: var(--ink);
     font-family: 'Inter', sans-serif;
     min-height: 100vh;
     padding: 0 0 80px;
+    -webkit-font-smoothing: antialiased;
   }
 
   header {
-    padding: 56px 24px 28px;
-    text-align: center;
-    position: relative;
+    padding: 64px 24px 32px;
+    max-width: 720px;
+    margin: 0 auto;
   }
 
   header .eyebrow {
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 12px;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: var(--ink-soft);
-    margin-bottom: 10px;
+    color: var(--accent);
+    margin-bottom: 14px;
+    font-weight: 500;
   }
 
   header h1 {
-    font-family: 'Fraunces', serif;
+    font-family: 'Space Grotesk', sans-serif;
     font-weight: 600;
-    font-size: clamp(32px, 6vw, 52px);
+    font-size: clamp(30px, 5vw, 42px);
+    letter-spacing: -0.02em;
     margin: 0 0 12px;
-    line-height: 1.1;
-  }
-
-  header h1 em {
-    font-style: italic;
-    font-weight: 500;
-    color: var(--tape-teal);
+    line-height: 1.15;
   }
 
   header p.sub {
     color: var(--ink-soft);
     font-size: 15px;
-    max-width: 480px;
-    margin: 0 auto;
+    line-height: 1.5;
+    max-width: 460px;
+    margin: 0;
   }
 
   .toolbar {
     max-width: 720px;
-    margin: 32px auto 0;
+    margin: 8px auto 0;
     padding: 0 24px;
     display: flex;
-    gap: 10px;
+    gap: 8px;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: center;
   }
 
   .toolbar input[type="text"] {
     flex: 1;
     min-width: 180px;
-    padding: 10px 16px;
-    border: 1.5px solid var(--rule);
-    border-radius: 999px;
-    background: var(--paper-card);
+    padding: 10px 14px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--surface);
     font-family: 'Inter', sans-serif;
     font-size: 14px;
     color: var(--ink);
     outline: none;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
   }
 
   .toolbar input[type="text"]:focus {
-    border-color: var(--tape-teal);
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
   }
 
   .chip {
-    padding: 8px 16px;
-    border-radius: 999px;
-    border: 1.5px solid var(--rule);
-    background: var(--paper-card);
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 12px;
+    padding: 9px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
     color: var(--ink-soft);
     cursor: pointer;
     user-select: none;
@@ -113,104 +110,99 @@
     white-space: nowrap;
   }
 
+  .chip:hover {
+    border-color: var(--ink-soft);
+    color: var(--ink);
+  }
+
   .chip.active {
     background: var(--ink);
-    color: var(--paper-card);
+    color: var(--surface);
     border-color: var(--ink);
   }
 
   main {
     max-width: 720px;
     margin: 0 auto;
-    padding: 40px 24px 0;
+    padding: 36px 24px 0;
   }
 
   .day-group {
-    margin-bottom: 44px;
+    margin-bottom: 36px;
   }
 
   .day-heading {
-    font-family: 'Fraunces', serif;
-    font-style: italic;
+    font-family: 'JetBrains Mono', monospace;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
     color: var(--ink-soft);
-    margin: 0 0 20px;
-    padding-bottom: 10px;
-    border-bottom: 1.5px dashed var(--rule);
+    margin: 0 0 14px;
   }
 
   .card {
     position: relative;
-    background: var(--paper-card);
-    border-radius: 3px;
-    padding: 26px 26px 22px;
-    margin-bottom: 28px;
-    box-shadow: 0 6px 16px var(--shadow), 0 1px 0 rgba(0,0,0,0.04);
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 10px;
+    padding: 20px 22px;
+    margin-bottom: 12px;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
   }
 
-  .card:nth-child(3n+1) { transform: rotate(-0.6deg); }
-  .card:nth-child(3n+2) { transform: rotate(0.5deg); }
-  .card:nth-child(3n)   { transform: rotate(-0.2deg); }
+  .card.src-npr { border-left-color: var(--amber); }
 
   .card:hover {
-    transform: rotate(0deg) translateY(-2px);
-    box-shadow: 0 10px 24px var(--shadow);
+    box-shadow: 0 4px 16px var(--ring);
+    transform: translateY(-1px);
   }
-
-  .tape {
-    position: absolute;
-    top: -12px;
-    left: 32px;
-    width: 74px;
-    height: 26px;
-    opacity: 0.85;
-    transform: rotate(-3deg);
-    border-radius: 1px;
-  }
-  .card:nth-child(3n+2) .tape { left: auto; right: 36px; transform: rotate(4deg); }
-  .card:nth-child(3n) .tape { left: 50%; margin-left: -37px; transform: rotate(-1.5deg); }
-
-  .tape.c-teal { background: var(--tape-teal); }
-  .tape.c-blue { background: var(--tape-blue); }
-  .tape.c-mustard { background: var(--tape-mustard); }
 
   .card-source {
-    font-family: 'IBM Plex Mono', monospace;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 11px;
-    letter-spacing: 0.06em;
+    font-weight: 500;
+    letter-spacing: 0.04em;
     text-transform: uppercase;
-    color: var(--ink-soft);
-    margin-bottom: 8px;
+    color: var(--accent);
+    background: var(--accent-soft);
+    padding: 3px 9px;
+    border-radius: 5px;
+    margin-bottom: 12px;
+  }
+
+  .card.src-npr .card-source {
+    color: var(--amber);
+    background: var(--amber-soft);
   }
 
   .card h2 {
-    font-family: 'Fraunces', serif;
+    font-family: 'Space Grotesk', sans-serif;
     font-weight: 600;
-    font-size: 21px;
-    line-height: 1.35;
-    margin: 0 0 12px;
+    font-size: 17.5px;
+    letter-spacing: -0.01em;
+    line-height: 1.4;
+    margin: 0 0 8px;
   }
 
   .card h2 a {
     color: var(--ink);
     text-decoration: none;
-    background-image: linear-gradient(transparent 65%, var(--highlight) 65%);
-    background-repeat: no-repeat;
-    background-size: 0% 100%;
-    transition: background-size 0.3s ease;
   }
 
   .card h2 a:hover {
-    background-size: 100% 100%;
+    color: var(--accent);
   }
 
   .card p.summary {
-    font-size: 14.5px;
-    line-height: 1.65;
-    color: #4a4638;
-    margin: 0 0 16px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--ink-soft);
+    margin: 0 0 14px;
   }
 
   .card-footer {
@@ -218,38 +210,35 @@
     align-items: center;
     justify-content: space-between;
     gap: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
   }
 
   .read-toggle {
     display: flex;
     align-items: center;
     gap: 7px;
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 11.5px;
+    font-size: 12.5px;
     color: var(--ink-soft);
     cursor: pointer;
     user-select: none;
   }
 
   .read-toggle input {
-    accent-color: var(--tape-teal);
+    accent-color: var(--accent);
     width: 14px;
     height: 14px;
     cursor: pointer;
   }
 
   .card.is-read {
-    opacity: 0.55;
-  }
-
-  .card.is-read h2 a {
-    background-size: 100% 100%;
+    opacity: 0.5;
   }
 
   .read-link {
-    font-family: 'IBM Plex Mono', monospace;
-    font-size: 11.5px;
-    color: var(--tape-teal);
+    font-size: 12.5px;
+    font-weight: 500;
+    color: var(--accent);
     text-decoration: none;
   }
   .read-link:hover { text-decoration: underline; }
@@ -258,14 +247,14 @@
     text-align: center;
     padding: 60px 24px;
     color: var(--ink-soft);
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 13px;
   }
 
   footer {
     text-align: center;
     margin-top: 40px;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
     font-size: 11px;
     color: var(--ink-soft);
   }
@@ -275,8 +264,8 @@
 
 <header>
   <div class="eyebrow">Daily English Notebook</div>
-  <h1>영어 <em>공부장</em></h1>
-  <p class="sub">매일 자동으로 쌓이는 비즈니스 뉴스 스크랩. 표현을 오려 붙이듯, 매일 조금씩 채워갑니다.</p>
+  <h1>영어 공부장</h1>
+  <p class="sub">매일 자동으로 쌓이는 비즈니스 뉴스. 하루 5분, 꾸준히 채워갑니다.</p>
 </header>
 
 <div class="toolbar">
@@ -302,8 +291,6 @@
     readIds: new Set(JSON.parse(localStorage.getItem('readIds') || '[]')),
   };
 
-  const tapeClasses = ['c-teal', 'c-blue', 'c-mustard'];
-
   function saveReadIds() {
     localStorage.setItem('readIds', JSON.stringify([...state.readIds]));
   }
@@ -319,6 +306,10 @@
     const d = new Date(dateStr);
     if (isNaN(d)) return 'unknown';
     return d.toISOString().slice(0, 10);
+  }
+
+  function sourceClass(source) {
+    return source === 'NPR Economy' ? 'src-npr' : 'src-bbc';
   }
 
   function escapeHtml(str) {
@@ -346,7 +337,6 @@
       return;
     }
 
-    // group by day (using published date, fallback to collected_at)
     const groups = {};
     filtered.forEach(a => {
       const key = dayKey(a.published || a.collected_at);
@@ -361,12 +351,10 @@
       const items = groups[key];
       const label = key === 'unknown' ? '날짜 미상' : formatDayLabel(items[0].published || items[0].collected_at);
       html += `<div class="day-group"><div class="day-heading">${label}</div>`;
-      items.forEach((a, i) => {
-        const tape = tapeClasses[i % tapeClasses.length];
+      items.forEach((a) => {
         const isRead = state.readIds.has(a.id);
         html += `
-          <div class="card ${isRead ? 'is-read' : ''}" data-id="${escapeHtml(a.id)}">
-            <div class="tape ${tape}"></div>
+          <div class="card ${sourceClass(a.source)} ${isRead ? 'is-read' : ''}" data-id="${escapeHtml(a.id)}">
             <div class="card-source">${escapeHtml(a.source)}</div>
             <h2><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h2>
             <p class="summary">${escapeHtml(a.summary)}</p>
