@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/2026/07/08/nx-s1-5885946/iran-trump-oil-stock-inflation-gas-federal-reserve",
+    "source": "NPR Economy",
+    "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy",
+    "summary": "Crude oil prices jumped and stock prices fell after President Trump declared an end to the ceasefire with Iran, adding fresh uncertainty to an already shaky outlook for the global economy.",
+    "link": "https://www.npr.org/2026/07/08/nx-s1-5885946/iran-trump-oil-stock-inflation-gas-federal-reserve",
+    "published": "Wed, 08 Jul 2026 13:07:22 -0400",
+    "collected_at": "2026-07-09T09:01:21.085827+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+    "summary": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
+    "link": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 19:23:33 GMT",
+    "collected_at": "2026-07-09T09:01:21.008887+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Wealthy AI workers send San Francisco house prices soaring",
+    "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 23:11:35 GMT",
+    "collected_at": "2026-07-09T09:01:21.008873+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+    "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+    "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 11:24:05 GMT",
+    "collected_at": "2026-07-09T09:01:21.008869+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Life of Sizewell B extended by another 20 years",
+    "summary": "The power plant was due to reach the end of its life in 2035 but will now continue until 2055.",
+    "link": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 05:27:18 GMT",
+    "collected_at": "2026-07-09T09:01:21.008864+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+    "summary": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 05:04:17 GMT",
+    "collected_at": "2026-07-09T09:01:21.008858+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I run the UK's biggest bank, here are five ways to manage your money",
+    "summary": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+    "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 23:10:10 GMT",
+    "collected_at": "2026-07-09T09:01:21.008852+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why electric cars cost more to insure - and what's being done about it",
+    "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
+    "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 08 Jul 2026 23:09:55 GMT",
+    "collected_at": "2026-07-09T09:01:21.008835+00:00"
+  },
+  {
     "id": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy",
     "source": "NPR Economy",
     "title": "Meet 'Project 2029' — and its war on the annoyance economy",
