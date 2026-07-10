@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.npr.org/2026/07/09/nx-s1-5886168/oil-and-gasoline-prices-begin-to-climb-after-trump-says-ceasefire-with-iran-is-over",
+    "source": "NPR Economy",
+    "title": "Oil and gasoline prices begin to climb after Trump says ceasefire with Iran is over",
+    "summary": "Oil and gasoline prices are climbing again after President Trump declared an end to the ceasefire with Iran. That could put more upward pressure on inflation.",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5886168/oil-and-gasoline-prices-begin-to-climb-after-trump-says-ceasefire-with-iran-is-over",
+    "published": "Thu, 09 Jul 2026 04:59:43 -0400",
+    "collected_at": "2026-07-10T08:52:26.746480+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/09/nx-s1-5883797/new-fed-chair-kevin-warsh-isnt-as-focused-on-employment-part-of-the-dual-mandate",
+    "source": "NPR Economy",
+    "title": "New Fed Chair Kevin Warsh isn't as focused on employment, part of the dual mandate",
+    "summary": "The Federal Reserve has two main goals: price stability and maximum employment. But new Fed Chair Kevin Warsh seems to be leaning into price stability and away from full employment as equal goals.",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5883797/new-fed-chair-kevin-warsh-isnt-as-focused-on-employment-part-of-the-dual-mandate",
+    "published": "Thu, 09 Jul 2026 16:12:17 -0400",
+    "collected_at": "2026-07-10T08:52:26.746474+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/10/nx-s1-5887393/how-much-has-the-iran-war-cost-u-s-households",
+    "source": "NPR Economy",
+    "title": "How much has the Iran war cost U.S. households?",
+    "summary": "NPR's A Martinez speaks with Mark Zandi, chief economist at Moody's Analytics, who has estimated what the Iran war has cost the average U.S. household so far.",
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5887393/how-much-has-the-iran-war-cost-u-s-households",
+    "published": "Fri, 10 Jul 2026 04:45:43 -0400",
+    "collected_at": "2026-07-10T08:52:26.746463+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+    "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+    "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 14:41:54 GMT",
+    "collected_at": "2026-07-10T08:52:26.522927+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Pressure builds on Europe's biggest port to be greener",
+    "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+    "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 09 Jul 2026 23:00:51 GMT",
+    "collected_at": "2026-07-10T08:52:26.522922+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+    "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 02:48:18 GMT",
+    "collected_at": "2026-07-10T08:52:26.522917+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+    "summary": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 08:26:00 GMT",
+    "collected_at": "2026-07-10T08:52:26.522912+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Vapes to have less enticing names to protect children, under UK plans",
+    "summary": "People are being consulted about plans to stop vape companies using of enticing flavour descriptions that \"attract\" children into experimenting.",
+    "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 02:15:38 GMT",
+    "collected_at": "2026-07-10T08:52:26.522906+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+    "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+    "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 01:33:45 GMT",
+    "collected_at": "2026-07-10T08:52:26.522899+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+    "summary": "The airline says a bid from US firm Apollo has trumped a previous potential takeover offer from Castlelake.",
+    "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 10 Jul 2026 08:26:37 GMT",
+    "collected_at": "2026-07-10T08:52:26.522884+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/07/08/nx-s1-5885946/iran-trump-oil-stock-inflation-gas-federal-reserve",
     "source": "NPR Economy",
     "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy",
