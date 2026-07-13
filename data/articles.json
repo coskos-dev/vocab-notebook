@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/07/13/nx-s1-5872428/inflation-has-been-creeping-up-how-are-americans-coping",
+    "source": "NPR Economy",
+    "title": "Inflation has been creeping up. How are Americans coping?",
+    "summary": "NPR's Scott Detrow speaks with three people about how they're feeling the effects of inflation: Jennifer Browning, Alex Garcia and Chuck Lockhart.",
+    "link": "https://www.npr.org/2026/07/13/nx-s1-5872428/inflation-has-been-creeping-up-how-are-americans-coping",
+    "published": "Mon, 13 Jul 2026 16:00:49 -0400",
+    "collected_at": "2026-07-13T23:38:42.597577+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+    "summary": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+    "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 11:45:25 GMT",
+    "collected_at": "2026-07-13T23:38:42.448659+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How to change bank, energy or broadband provider and save money",
+    "summary": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
+    "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 12 Jul 2026 23:28:01 GMT",
+    "collected_at": "2026-07-13T23:38:42.448651+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Is tracking your food purchases good for your health?",
+    "summary": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
+    "link": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 23:04:58 GMT",
+    "collected_at": "2026-07-13T23:38:42.448646+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+    "summary": "The US military later said it had started the third consecutive night of strikes on Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 22:47:52 GMT",
+    "collected_at": "2026-07-13T23:38:42.448641+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+    "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 16:19:15 GMT",
+    "collected_at": "2026-07-13T23:38:42.448636+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
+    "summary": "The state, where the both studios have headquarters, has joined 11 others to halt the deal.",
+    "link": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 23:17:32 GMT",
+    "collected_at": "2026-07-13T23:38:42.448630+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
+    "summary": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 23:02:11 GMT",
+    "collected_at": "2026-07-13T23:38:42.448624+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The secretive crypto firm backed by Farage's biggest donor",
+    "summary": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 13 Jul 2026 23:00:59 GMT",
+    "collected_at": "2026-07-13T23:38:42.448608+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
     "source": "NPR Economy",
     "title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
