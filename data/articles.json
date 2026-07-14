@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/07/09/nx-s1-5862130/tacos-texas-beef-prices-barbacoa",
+    "source": "NPR Economy",
+    "title": "Even Taco Tuesday could be more expensive as beef prices continue to rise",
+    "summary": "Beef prices are continuing to rise due to drought, low herd sizes and concerns about the new world screwworm in the United States, but business owners in Texas say that raising prices could drive away customers.",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5862130/tacos-texas-beef-prices-barbacoa",
+    "published": "Fri, 10 Jul 2026 04:47:47 -0400",
+    "collected_at": "2026-07-14T23:38:06.107395+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/14/nx-s1-5887378-e1/what-a-monopoly-importer-learned-when-it-tried-to-make-things-in-the-u-s-a",
+    "source": "NPR Economy",
+    "title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
+    "summary": "After getting hit with a steep tariff bill for the imported board games he sells, Jonathan Silva wanted to see if he could produce a version of his Monopoly game in the United States.",
+    "link": "https://www.npr.org/2026/07/14/nx-s1-5887378-e1/what-a-monopoly-importer-learned-when-it-tried-to-make-things-in-the-u-s-a",
+    "published": "Tue, 14 Jul 2026 16:19:58 -0400",
+    "collected_at": "2026-07-14T23:38:06.107369+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+    "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 20:10:37 GMT",
+    "collected_at": "2026-07-14T23:38:05.833512+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Gas prices drive down US inflation - but will it last?",
+    "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
+    "link": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 17:34:55 GMT",
+    "collected_at": "2026-07-14T23:38:05.833504+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Midnight social media curfew proposed for older UK teens",
+    "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
+    "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 23:17:23 GMT",
+    "collected_at": "2026-07-14T23:38:05.833494+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
+    "summary": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
+    "link": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 18:05:11 GMT",
+    "collected_at": "2026-07-14T23:38:05.833489+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I changed jobs 10 times in 10 years to get the career I wanted",
+    "summary": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 23:04:15 GMT",
+    "collected_at": "2026-07-14T23:38:05.833484+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Buy Now Pay Later rules to bring refunds and rejections",
+    "summary": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 23:01:57 GMT",
+    "collected_at": "2026-07-14T23:38:05.833477+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Heating oil customers to get compensation after price hikes",
+    "summary": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
+    "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 14 Jul 2026 23:00:41 GMT",
+    "collected_at": "2026-07-14T23:38:05.833457+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/07/13/nx-s1-5872428/inflation-has-been-creeping-up-how-are-americans-coping",
     "source": "NPR Economy",
     "title": "Inflation has been creeping up. How are Americans coping?",
