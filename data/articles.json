@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+    "source": "NPR Economy",
+    "title": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
+    "summary": "Business is booming for Snap-on, a Wisconsin company that has made tools for professional mechanics for more than a century. It recently got a fact-finding visit from the head of the Chicago Federal Reserve Bank.",
+    "link": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+    "published": "Fri, 17 Jul 2026 05:00:00 -0400",
+    "collected_at": "2026-07-17T23:38:08.865170+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
+    "source": "NPR Economy",
+    "title": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
+    "summary": "President Trump's face will appear on a new commemorative coin honoring the nation's 250th birthday. It's one of the many unusual places his likeness has popped up this year.",
+    "link": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
+    "published": "Fri, 17 Jul 2026 14:59:36 -0400",
+    "collected_at": "2026-07-17T23:38:08.865166+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/17/nx-s1-5872424/following-your-aquarium-fish-back-to-its-home-in-the-amazon",
+    "source": "NPR Economy",
+    "title": "Following your aquarium fish back to its home in the Amazon",
+    "summary": "We trace the origins of the popular aquarium fish the cardinal tetra back to the Amazon to see how even the most remote corners of the world are transformed by the global economy.",
+    "link": "https://www.npr.org/2026/07/17/nx-s1-5872424/following-your-aquarium-fish-back-to-its-home-in-the-amazon",
+    "published": "Fri, 17 Jul 2026 16:42:49 -0400",
+    "collected_at": "2026-07-17T23:38:08.865154+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why has British Steel been nationalised?",
+    "summary": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 09:57:02 GMT",
+    "collected_at": "2026-07-17T23:38:08.586726+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "China hits out at British Steel nationalisation",
+    "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+    "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 16:44:22 GMT",
+    "collected_at": "2026-07-17T23:38:08.586712+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+    "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 16:53:04 GMT",
+    "collected_at": "2026-07-17T23:38:08.586709+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Brewdog founder faces data complaints over efforts to buy back firm",
+    "summary": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 16:44:15 GMT",
+    "collected_at": "2026-07-17T23:38:08.586704+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Five headaches Andy Burnham will have to deal with as PM",
+    "summary": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
+    "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 05:59:36 GMT",
+    "collected_at": "2026-07-17T23:38:08.586699+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+    "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+    "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 17 Jul 2026 05:00:08 GMT",
+    "collected_at": "2026-07-17T23:38:08.586684+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Who is the frontrunner to be the UK's next chancellor?",
