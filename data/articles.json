@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+    "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+    "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 10:12:36 GMT",
+    "collected_at": "2026-07-21T00:13:35.032426+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump imposes 50% tariff on Canadian imports",
+    "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 00:03:37 GMT",
+    "collected_at": "2026-07-21T00:13:35.032417+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
+    "summary": "Firms have to balance hi-tech and age-old skills when training up young workers.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 23:07:40 GMT",
+    "collected_at": "2026-07-21T00:13:35.032412+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The 20-somethings betting big on tech stocks",
+    "summary": "The BBC hears from people about the risks and rewards of investing in technology shares.",
+    "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 22:00:41 GMT",
+    "collected_at": "2026-07-21T00:13:35.032407+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham promises help with your money. How could it affect you?",
+    "summary": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
+    "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 18:22:46 GMT",
+    "collected_at": "2026-07-21T00:13:35.032402+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham has big ideas - but what will they cost?",
+    "summary": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
+    "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 21:47:14 GMT",
+    "collected_at": "2026-07-21T00:13:35.032396+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
+    "summary": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
+    "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 18:44:55 GMT",
+    "collected_at": "2026-07-21T00:13:35.032389+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
+    "summary": "Buying on social media live streams is fast becoming regular consumer behaviour for many.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 20 Jul 2026 23:06:04 GMT",
+    "collected_at": "2026-07-21T00:13:35.032369+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
