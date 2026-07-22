@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK borrows less than expected in June but public finances remain a challenge",
+    "summary": "Public finances for last month were better than expected but the UK is carrying major debt.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 12:36:29 GMT",
+    "collected_at": "2026-07-22T00:04:56.810736+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ryanair broken window may have been caused by 'foreign object'",
+    "summary": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 13:10:49 GMT",
+    "collected_at": "2026-07-22T00:04:56.810728+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Lindt's Easter chocolate sales fall after price hike",
+    "summary": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.",
+    "link": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 15:37:58 GMT",
+    "collected_at": "2026-07-22T00:04:56.810724+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
+    "summary": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
+    "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 10:30:45 GMT",
+    "collected_at": "2026-07-22T00:04:56.810719+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ozempic-maker accuses rival of false advertising",
+    "summary": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 15:20:10 GMT",
+    "collected_at": "2026-07-22T00:04:56.810713+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "VAT to be cut from household electricity bills in October",
+    "summary": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+    "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 14:25:22 GMT",
+    "collected_at": "2026-07-22T00:04:56.810707+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
+    "summary": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.",
+    "link": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 23:17:58 GMT",
+    "collected_at": "2026-07-22T00:04:56.810701+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Will AI help you do your job or replace you?",
+    "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+    "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 21 Jul 2026 23:04:42 GMT",
+    "collected_at": "2026-07-22T00:04:56.810684+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
