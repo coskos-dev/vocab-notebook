@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Most bus fares in England to be capped at £2 from January",
+    "summary": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+    "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 12:26:03 GMT",
+    "collected_at": "2026-07-23T00:15:53.694198+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+    "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 11:40:11 GMT",
+    "collected_at": "2026-07-23T00:15:53.694190+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjejx083jkeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Aston Martin secures £550m loan deal",
+    "summary": "The luxury car maker says the loans will be used to fund current and future product plans.",
+    "link": "https://www.bbc.co.uk/news/articles/cjejx083jkeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 18:02:05 GMT",
+    "collected_at": "2026-07-23T00:15:53.694185+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
+    "summary": "The BBC speaks to people around the country about their view on the newly-announced bus fare cap.",
+    "link": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 17:07:05 GMT",
+    "collected_at": "2026-07-23T00:15:53.694180+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cre48d34ewzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Former Lloyd's of London boss's relationship breached rules, firm says",
+    "summary": "The insurance market's chairman said the CEO's conduct \"fell significantly below the standards expected of him\".",
+    "link": "https://www.bbc.co.uk/news/articles/cre48d34ewzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 17:08:53 GMT",
+    "collected_at": "2026-07-23T00:15:53.694175+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Airport drop-off fees up by a third - here are the priciest",
+    "summary": "The cost of parking closest to the terminal just for a few minutes has hit £10 at two of the UK's busiest airports.",
+    "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 23:21:40 GMT",
+    "collected_at": "2026-07-23T00:15:53.694162+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Some food prices have fallen – but inflation expected to rise from here",
+    "summary": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 22 Jul 2026 10:10:01 GMT",
+    "collected_at": "2026-07-23T00:15:53.694146+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "UK borrows less than expected in June but public finances remain a challenge",
