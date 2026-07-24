@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.npr.org/2026/07/23/nx-s1-5903073/economist-talks-about-trumps-speech-on-the-economy-and-affordability",
+    "source": "NPR Economy",
+    "title": "Economist talks about Trump's speech on the economy and affordability",
+    "summary": "NPR's Michel Martin speaks with Heather Long, chief economist at Navy Federal Credit Union, about President Trump's latest speech on the economy and the issue of affordability.",
+    "link": "https://www.npr.org/2026/07/23/nx-s1-5903073/economist-talks-about-trumps-speech-on-the-economy-and-affordability",
+    "published": "Thu, 23 Jul 2026 04:44:32 -0400",
+    "collected_at": "2026-07-24T00:13:22.720996+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
+    "source": "NPR Economy",
+    "title": "Trump to impose double-digit tariffs on dozens of countries",
+    "summary": "The United States will slap taxes of 10% to 12.5% on imports from 60 countries accounting for 99% of U.S. imports, charging that they have inadequately enforced bans on goods produced by forced labor.",
+    "link": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
+    "published": "Thu, 23 Jul 2026 18:06:50 -0400",
+    "collected_at": "2026-07-24T00:13:22.720981+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Google and Tesla shares plunge as AI spending rattles markets",
+    "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+    "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 20:42:33 GMT",
+    "collected_at": "2026-07-24T00:13:22.404189+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
+    "summary": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
+    "link": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 14:27:37 GMT",
+    "collected_at": "2026-07-24T00:13:22.404181+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+    "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 20:58:35 GMT",
+    "collected_at": "2026-07-24T00:13:22.404176+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Oil prices hit $100 for the first time since May",
+    "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 15:31:00 GMT",
+    "collected_at": "2026-07-24T00:13:22.404171+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK mortgage rates rise to highest level for a month",
+    "summary": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 23:02:10 GMT",
+    "collected_at": "2026-07-24T00:13:22.404166+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "We split bills equally even when one of us earned a lot more",
+    "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+    "link": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 23:01:08 GMT",
+    "collected_at": "2026-07-24T00:13:22.404161+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK complacent about war threat, warns defence boss",
+    "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 23:04:19 GMT",
+    "collected_at": "2026-07-24T00:13:22.404154+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+    "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 23 Jul 2026 23:03:29 GMT",
+    "collected_at": "2026-07-24T00:13:22.404135+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Most bus fares in England to be capped at £2 from January",
