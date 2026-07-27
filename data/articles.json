@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Water returns to Gatwick Airport after major outage",
+    "summary": "Gatwick Airport faced a day of disruptions with toilets and restaurants closed to passengers.",
+    "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 26 Jul 2026 21:15:21 GMT",
+    "collected_at": "2026-07-27T08:59:12.129317+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+    "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 08:14:46 GMT",
+    "collected_at": "2026-07-27T08:59:12.129307+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
+    "summary": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 07:34:59 GMT",
+    "collected_at": "2026-07-27T08:59:12.129302+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Would you choose £50,000 over the chance of £1m?",
+    "summary": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+    "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 26 Jul 2026 23:11:36 GMT",
+    "collected_at": "2026-07-27T08:59:12.129294+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+    "summary": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+    "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 27 Jul 2026 02:08:36 GMT",
+    "collected_at": "2026-07-27T08:59:12.129274+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
     "source": "NPR Economy",
     "title": "Trump is hellbent on tariffs. Here are 5 implications",
