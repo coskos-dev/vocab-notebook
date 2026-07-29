@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
+    "source": "NPR Economy",
+    "title": "AI tokens could become the kilowatt-hour of the AI age",
+    "summary": "AI companies use tokens to track usage and bill customers. Now economists are using them to track the spread of AI through the economy.",
+    "link": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
+    "published": "Tue, 28 Jul 2026 06:30:00 -0400",
+    "collected_at": "2026-07-29T00:10:29.571888+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
+    "source": "NPR Economy",
+    "title": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
+    "summary": "Record high housing costs have pushed the wealth gap between renters and owners wider than ever. It's been a boon for owners even as many others are priced out.",
+    "link": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
+    "published": "Tue, 28 Jul 2026 16:14:20 -0400",
+    "collected_at": "2026-07-29T00:10:29.571875+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The 10 most overcrowded commuter trains revealed",
+    "summary": "Overall, overcrowding in England and Wales fell slightly last year due to increased capacity, the government says.",
+    "link": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 14:17:57 GMT",
+    "collected_at": "2026-07-29T00:10:29.456182+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+    "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+    "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 01:53:58 GMT",
+    "collected_at": "2026-07-29T00:10:29.456174+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'Don't wait until you want revenge' - why prenups are on the rise",
+    "summary": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
+    "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 23:00:07 GMT",
+    "collected_at": "2026-07-29T00:10:29.456169+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+    "summary": "Some parents on benefits lose income if their children take on apprenticeships.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 17:32:56 GMT",
+    "collected_at": "2026-07-29T00:10:29.456164+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "eBay agrees $56m settlement with bloggers over harassment case",
+    "summary": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
+    "link": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 21:49:16 GMT",
+    "collected_at": "2026-07-29T00:10:29.456158+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+    "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
+    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 23:00:10 GMT",
+    "collected_at": "2026-07-29T00:10:29.456153+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+    "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+    "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 23:00:15 GMT",
+    "collected_at": "2026-07-29T00:10:29.456146+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham has no scope to increase borrowing, think tank warns",
+    "summary": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
+    "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 28 Jul 2026 23:00:12 GMT",
+    "collected_at": "2026-07-29T00:10:29.456128+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Oil price dives as US and Iran pause attacks",
