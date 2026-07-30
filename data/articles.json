@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
+    "source": "NPR Economy",
+    "title": "More Americans are going bankrupt. What does that mean?",
+    "summary": "The bankruptcy rate has risen about 48% between 2022 and 2025, although it's still below pre-pandemic levels.",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
+    "published": "Wed, 29 Jul 2026 05:00:00 -0400",
+    "collected_at": "2026-07-30T00:14:04.086693+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+    "source": "NPR Economy",
+    "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
+    "summary": "The Federal Reserve left its benchmark interest rate unchanged Wednesday.  Fed policymakers say they remain committed to curbing stubborn inflation.",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+    "published": "Wed, 29 Jul 2026 05:00:00 -0400",
+    "collected_at": "2026-07-30T00:14:04.086687+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/29/nx-s1-5911882/the-federal-reserve-is-setting-u-s-interest-rates-what-will-that-look-like",
+    "source": "NPR Economy",
+    "title": "The Federal Reserve is setting U.S. interest rates. What will that look like?",
+    "summary": "The Federal Reserve met to set U.S. interest rates, but this time, investors are unsure what to expect with Kevin Warsh, the new Federal Reserve Chairman, at the helm.",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5911882/the-federal-reserve-is-setting-u-s-interest-rates-what-will-that-look-like",
+    "published": "Wed, 29 Jul 2026 16:28:58 -0400",
+    "collected_at": "2026-07-30T00:14:04.086672+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
+    "summary": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
+    "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 15:32:28 GMT",
+    "collected_at": "2026-07-30T00:14:03.781241+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The Chinese robot army transforming the UK's retail industry",
+    "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+    "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 22:08:29 GMT",
+    "collected_at": "2026-07-30T00:14:03.781236+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Meta shares fall as frustration grows over AI spending plans",
+    "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+    "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 22:44:18 GMT",
+    "collected_at": "2026-07-30T00:14:03.781231+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
+    "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
+    "link": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 20:32:50 GMT",
+    "collected_at": "2026-07-30T00:14:03.781227+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
+    "summary": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 23:02:18 GMT",
+    "collected_at": "2026-07-30T00:14:03.781221+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "What happens here has a big impact on your money",
+    "summary": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
+    "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 16:00:24 GMT",
+    "collected_at": "2026-07-30T00:14:03.781215+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Interest rates expected to be held again by Bank of England",
+    "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 29 Jul 2026 23:01:56 GMT",
+    "collected_at": "2026-07-30T00:14:03.781194+00:00"
+  },
+  {
     "id": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
     "source": "NPR Economy",
     "title": "AI tokens could become the kilowatt-hour of the AI age",
