@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/07/31/nx-s1-5913682/americans-continue-to-spend-despite-rising-prices",
+    "source": "NPR Economy",
+    "title": "Americans continue to spend despite rising prices",
+    "summary": "NPR's Leila Fadel asks Moody's chief economist Mark Zandi about the ways in which Americans are experiencing the high cost of living.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5913682/americans-continue-to-spend-despite-rising-prices",
+    "published": "Fri, 31 Jul 2026 04:44:41 -0400",
+    "collected_at": "2026-08-01T00:13:31.516032+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/31/nx-s1-5913747/the-u-s-economy-is-still-growing-but-at-a-slower-pace",
+    "source": "NPR Economy",
+    "title": "The U.S. economy is still growing, but at a slower pace",
+    "summary": "The U.S. economy continues to grow, but at a slower pace than earlier in the year. GDP grew at an annual pace of 1.5% during April, May and June.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5913747/the-u-s-economy-is-still-growing-but-at-a-slower-pace",
+    "published": "Fri, 31 Jul 2026 04:44:47 -0400",
+    "collected_at": "2026-08-01T00:13:31.516028+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/31/nx-s1-5894899/how-did-boosting-manufacturing-in-the-amazon-pay-off-for-brazil",
+    "source": "NPR Economy",
+    "title": "How did boosting manufacturing in the Amazon pay off for Brazil?",
+    "summary": "Many countries talk about wanting to boost manufacturing. Decades ago, Brazil did it. They lured international businesses to build a whole bunch of factories in the middle of the Amazon. So, with hindsight, was the plan a success? Planet Money goes to the Amazon to find out.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5894899/how-did-boosting-manufacturing-in-the-amazon-pay-off-for-brazil",
+    "published": "Fri, 31 Jul 2026 16:28:36 -0400",
+    "collected_at": "2026-08-01T00:13:31.516025+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/07/31/nx-s1-5910660/major-oil-companies-report-sky-high-earnings-off-higher-crude-prices",
+    "source": "NPR Economy",
+    "title": "Major oil companies report sky-high earnings off higher crude prices",
+    "summary": "Shell, Exxon and Chevron report their quarterly earnings this week, and are expected to announce high profits.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/major-oil-companies-report-sky-high-earnings-off-higher-crude-prices",
+    "published": "Fri, 31 Jul 2026 16:28:38 -0400",
+    "collected_at": "2026-08-01T00:13:31.516012+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK petrol prices hit highest level since Iran war began",
+    "summary": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 11:19:23 GMT",
+    "collected_at": "2026-08-01T00:13:31.022504+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Budget to be held in October, Healey announces",
+    "summary": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+    "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 15:58:42 GMT",
+    "collected_at": "2026-08-01T00:13:31.022496+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "AI firms must answer for rogue bots, says boss of hacked company",
+    "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
+    "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 18:10:28 GMT",
+    "collected_at": "2026-08-01T00:13:31.022488+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+    "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+    "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 12:19:20 GMT",
+    "collected_at": "2026-08-01T00:13:31.022484+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+    "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+    "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 31 Jul 2026 21:57:59 GMT",
+    "collected_at": "2026-08-01T00:13:31.022465+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/07/30/nx-s1-5912203/federal-reserve-holds-interest-rates-steady-despite-high-inflation",
     "source": "NPR Economy",
     "title": "Federal Reserve holds interest rates steady despite high inflation",
