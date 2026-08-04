@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+    "source": "NPR Economy",
+    "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
+    "summary": "Dallas' financial industry is growing amid a larger Texas business boom. But can it really steal New York's crown?",
+    "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+    "published": "Tue, 04 Aug 2026 05:00:00 -0400",
+    "collected_at": "2026-08-04T22:02:30.624008+00:00"
+  },
+  {
+    "id": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
+    "source": "NPR Economy",
+    "title": "The sneaky economics of healthwashing",
+    "summary": "Why food companies love labels like \"organic\" and \"high protein,\" why our brains are misled by them — and how to avoid paying extra for marketing.",
+    "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
+    "published": "Tue, 04 Aug 2026 06:30:00 -0400",
+    "collected_at": "2026-08-04T22:02:30.623996+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Apple issues new challenge against UK order for access to private user data",
+    "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 10:22:40 GMT",
+    "collected_at": "2026-08-04T22:02:30.339399+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Campaigners denied appeal over Gatwick expansion",
+    "summary": "An application to stop the two-runway operation is rejected, with judges calling it \"unarguable\".",
+    "link": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 12:25:34 GMT",
+    "collected_at": "2026-08-04T22:02:30.339394+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+    "summary": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
+    "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 10:07:05 GMT",
+    "collected_at": "2026-08-04T22:02:30.339389+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+    "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 13:53:41 GMT",
+    "collected_at": "2026-08-04T22:02:30.339382+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+    "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 19:00:43 GMT",
+    "collected_at": "2026-08-04T22:02:30.339366+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "How heatwaves are changing summer weddings - here's how to plan for one",
