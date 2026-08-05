@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+    "summary": "Elon Musk told investors that people were \"underestimating\" his company.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 14:04:43 GMT",
+    "collected_at": "2026-08-05T22:03:29.348433+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The cost of being single – and how friends are teaming up to beat it",
+    "summary": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+    "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 23:21:08 GMT",
+    "collected_at": "2026-08-05T22:03:29.348427+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How tech is helping in the battle against wildfires",
+    "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+    "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 04 Aug 2026 23:21:47 GMT",
+    "collected_at": "2026-08-05T22:03:29.348423+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
+    "summary": "More than 120 MPs and peers have asked John Healey to carry out an \"urgent review\" of repayments.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 18:38:45 GMT",
+    "collected_at": "2026-08-05T22:03:29.348420+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
+    "summary": "This year's harvest could be the worst on record due to the exceptionally dry spring and summer.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 08:53:01 GMT",
+    "collected_at": "2026-08-05T22:03:29.348416+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+    "summary": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 19:39:48 GMT",
+    "collected_at": "2026-08-05T22:03:29.348412+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Prioritise new jobs over green targets to win public contracts, firms told",
+    "summary": "The changes are part of government efforts to tackle the youth unemployment crisis.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 10:10:02 GMT",
+    "collected_at": "2026-08-05T22:03:29.348408+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+    "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+    "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 05 Aug 2026 21:21:51 GMT",
+    "collected_at": "2026-08-05T22:03:29.348392+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
     "source": "NPR Economy",
     "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
