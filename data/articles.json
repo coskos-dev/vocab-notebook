@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/07/nx-s1-5923607/u-s-economy-unexpectedly-loses-23-000-jobs-in-july",
+    "source": "NPR Economy",
+    "title": "U.S. economy unexpectedly loses 23,000 jobs in July",
+    "summary": "The Labor Department offered an update Friday morning on the U.S. jobs market. After lackluster hiring in June, forecasters had expected the report to show a modest pickup in July.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5923607/u-s-economy-unexpectedly-loses-23-000-jobs-in-july",
+    "published": "Fri, 07 Aug 2026 04:41:46 -0400",
+    "collected_at": "2026-08-07T21:26:40.269427+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+    "source": "NPR Economy",
+    "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+    "summary": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+    "published": "Fri, 07 Aug 2026 05:00:00 -0400",
+    "collected_at": "2026-08-07T21:26:40.269421+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+    "source": "NPR Economy",
+    "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+    "summary": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+    "published": "Fri, 07 Aug 2026 09:10:10 -0400",
+    "collected_at": "2026-08-07T21:26:40.269416+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+    "source": "NPR Economy",
+    "title": "Trump renews push to fire Fed Governor Lisa Cook",
+    "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+    "published": "Fri, 07 Aug 2026 15:35:35 -0400",
+    "collected_at": "2026-08-07T21:26:40.269409+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/07/nx-s1-5924881/the-u-s-unexpectedly-lost-jobs-in-july",
+    "source": "NPR Economy",
+    "title": "The U.S. unexpectedly lost jobs in July",
+    "summary": "The U.S. labor market went into reverse last month, as employers cut 23,000 jobs.  Job gains for May and June were also revised downward.",
+    "link": "https://www.npr.org/2026/08/07/nx-s1-5924881/the-u-s-unexpectedly-lost-jobs-in-july",
+    "published": "Fri, 07 Aug 2026 16:24:50 -0400",
+    "collected_at": "2026-08-07T21:26:40.269396+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+    "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 13:32:41 GMT",
+    "collected_at": "2026-08-07T21:26:40.214022+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Surprise fall in US jobs last month as slow summer continues",
+    "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+    "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 14:03:55 GMT",
+    "collected_at": "2026-08-07T21:26:40.214001+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Goodwin considers selling part of defence business",
+    "summary": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+    "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 15:22:51 GMT",
+    "collected_at": "2026-08-07T21:26:40.213995+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How a 90-second power outage sparked chaos for rail commuters",
+    "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 07 Aug 2026 16:11:32 GMT",
+    "collected_at": "2026-08-07T21:26:40.213974+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
