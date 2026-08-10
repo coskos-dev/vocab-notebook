@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/10/nx-s1-5925127/economist-discusses-the-current-state-of-the-u-s-economy",
+    "source": "NPR Economy",
+    "title": "Economist discusses the current state of the U.S. economy",
+    "summary": "Following a weak jobs report and looking ahead to Wednesday's inflation data, NPR's A Martinez speaks to Diane Swonk, chief economist at the accounting firm KPMG U.S., about the state of the economy.",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5925127/economist-discusses-the-current-state-of-the-u-s-economy",
+    "published": "Mon, 10 Aug 2026 04:40:43 -0400",
+    "collected_at": "2026-08-10T21:29:55.590092+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/10/nx-s1-5926451/inflation-report-to-give-new-insight-on-the-cost-of-living-in-america",
+    "source": "NPR Economy",
+    "title": "Inflation report to give new insight on the cost of living in America",
+    "summary": "The Labor Department releases a new report on inflation this week.  It's higher than many would like, and with a sluggish job market, most people's paychecks aren't keeping pace with rising prices.",
+    "link": "https://www.npr.org/2026/08/10/nx-s1-5926451/inflation-report-to-give-new-insight-on-the-cost-of-living-in-america",
+    "published": "Mon, 10 Aug 2026 04:40:49 -0400",
+    "collected_at": "2026-08-10T21:29:55.590077+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Water outage forces Chessington theme park to close",
+    "summary": "Chessington says all tickets booked for Monday can be used on a future date.",
+    "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 14:24:53 GMT",
+    "collected_at": "2026-08-10T21:29:55.451691+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "You could be missing out on £150 off your energy bill - here's how to check",
+    "summary": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+    "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 09 Aug 2026 23:47:30 GMT",
+    "collected_at": "2026-08-10T21:29:55.451682+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'You could smell someone' who worked at Raleigh",
+    "summary": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 05:10:15 GMT",
+    "collected_at": "2026-08-10T21:29:55.451677+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+    "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 05:00:32 GMT",
+    "collected_at": "2026-08-10T21:29:55.451671+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
+    "summary": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
+    "link": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 15:10:33 GMT",
+    "collected_at": "2026-08-10T21:29:55.451665+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Consortium advances talks for stake in Liverpool",
+    "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 13:16:51 GMT",
+    "collected_at": "2026-08-10T21:29:55.451660+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ban on 'subscription traps' brought forward by three months",
+    "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+    "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 09:57:54 GMT",
+    "collected_at": "2026-08-10T21:29:55.451653+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Thames Water gave finance boss a £1m signing-on fee",
+    "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 10 Aug 2026 14:49:46 GMT",
+    "collected_at": "2026-08-10T21:29:55.451629+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/09/nx-s1-5924049/economist-explains-what-the-latest-jobs-report-and-inflation-data-means",
     "source": "NPR Economy",
     "title": "Economist explains what the latest jobs report and inflation data means",
