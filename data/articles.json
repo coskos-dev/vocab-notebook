@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/12/nx-s1-5927326/businesses-feel-the-strain-as-the-deadline-for-trumps-50-canadian-tariff-approaches",
+    "source": "NPR Economy",
+    "title": "Businesses feel the strain as the deadline for Trump's 50% Canadian tariff approaches",
+    "summary": "If President Trump's threatened 50% tariffs go through later this month, construction businesses that rely on materials imported from Canada are among those that will suffer.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5927326/businesses-feel-the-strain-as-the-deadline-for-trumps-50-canadian-tariff-approaches",
+    "published": "Wed, 12 Aug 2026 04:47:33 -0400",
+    "collected_at": "2026-08-12T21:32:45.200427+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+    "source": "NPR Economy",
+    "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+    "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+    "published": "Wed, 12 Aug 2026 05:00:00 -0400",
+    "collected_at": "2026-08-12T21:32:45.200421+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+    "source": "NPR Economy",
+    "title": "Inflation eases in July as gasoline and grocery prices fall",
+    "summary": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+    "published": "Wed, 12 Aug 2026 10:00:29 -0400",
+    "collected_at": "2026-08-12T21:32:45.200406+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+    "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
+    "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 07:30:16 GMT",
+    "collected_at": "2026-08-12T21:32:45.058021+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Bakery buys comedian's former sites after closure",
+    "summary": "Bakery business Janes Pantry confirms its plans to reopen at least 20 of the Coughlans shops.",
+    "link": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 12:46:31 GMT",
+    "collected_at": "2026-08-12T21:32:45.058012+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+    "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 11 Aug 2026 23:00:26 GMT",
+    "collected_at": "2026-08-12T21:32:45.058001+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US inflation eases as food and fuel costs cool",
+    "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 17:03:05 GMT",
+    "collected_at": "2026-08-12T21:32:45.057996+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham warned Iran war could hit UK growth next year",
+    "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 14:17:26 GMT",
+    "collected_at": "2026-08-12T21:32:45.057990+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Discord ordered to suspend livestreams in Brazil",
+    "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
+    "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 17:10:31 GMT",
+    "collected_at": "2026-08-12T21:32:45.057984+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump sued over Truth Social's $100,000 early access service",
+    "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
+    "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 12 Aug 2026 17:48:56 GMT",
+    "collected_at": "2026-08-12T21:32:45.057960+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/11/nx-s1-5928158/home-sales-fall-in-july-amid-high-mortgage-rates",
     "source": "NPR Economy",
     "title": "Home sales fall in July amid high mortgage rates",
