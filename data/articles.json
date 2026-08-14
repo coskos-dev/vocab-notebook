@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/14/nx-s1-5927284/the-money-investors-borrow-to-trade-in-the-u-s-stock-market-is-at-an-all-time-high",
+    "source": "NPR Economy",
+    "title": "The money investors borrow to trade in the U.S. stock market is at an all-time high",
+    "summary": "Money that investors borrow to trade in the stock market is called margin debt. This debt is now above $1.5 trillion, 50% higher than a year ago. Could this spell trouble for the U.S. economy?",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5927284/the-money-investors-borrow-to-trade-in-the-u-s-stock-market-is-at-an-all-time-high",
+    "published": "Fri, 14 Aug 2026 04:45:14 -0400",
+    "collected_at": "2026-08-14T21:13:55.829635+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
+    "source": "NPR Economy",
+    "title": "We learned 5 important things about the economy this week",
+    "summary": "<em>From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news.</em>",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
+    "published": "Fri, 14 Aug 2026 10:47:15 -0400",
+    "collected_at": "2026-08-14T21:13:55.829620+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+    "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 22:00:10 GMT",
+    "collected_at": "2026-08-14T21:13:55.643068+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+    "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 13 Aug 2026 21:43:47 GMT",
+    "collected_at": "2026-08-14T21:13:55.643063+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US says dozens of countries helped China dodge Trump's tariffs",
+    "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 08:39:46 GMT",
+    "collected_at": "2026-08-14T21:13:55.643059+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+    "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 07:45:51 GMT",
+    "collected_at": "2026-08-14T21:13:55.643054+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Selena Gomez sued for alleged fraud over mental health company",
+    "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 11:32:05 GMT",
+    "collected_at": "2026-08-14T21:13:55.643048+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+    "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+    "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+    "collected_at": "2026-08-14T21:13:55.643042+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+    "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+    "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 15:58:21 GMT",
+    "collected_at": "2026-08-14T21:13:55.643020+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/12/nx-s1-5927244/people-are-giving-up-their-pets-due-to-costs-and-rehoming-them-is-more-expensive-too",
     "source": "NPR Economy",
     "title": "People are giving up their pets due to costs — and rehoming them is more expensive too",
@@ -2617,86 +2698,5 @@
     "link": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
     "published": "Thu, 02 Jul 2026 04:49:28 -0400",
     "collected_at": "2026-07-05T01:46:53.410623+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/02/nx-s1-5879205/june-gloom-for-the-job-market-as-employers-add-just-57-000-jobs",
-    "source": "NPR Economy",
-    "title": "June gloom for the job market as employers add just 57,000 jobs",
-    "summary": "U.S. employers added fewer jobs than expected last month. The unemployment rate fell, but only because a large number of people stopped looking for work.",
-    "link": "https://www.npr.org/2026/07/02/nx-s1-5879205/june-gloom-for-the-job-market-as-employers-add-just-57-000-jobs",
-    "published": "Thu, 02 Jul 2026 16:44:03 -0400",
-    "collected_at": "2026-07-05T01:46:53.410617+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/03/nx-s1-5859417/how-texas-bbq-deals-with-rising-beef-prices",
-    "source": "NPR Economy",
-    "title": "How Texas BBQ deals with rising beef prices",
-    "summary": "NPR's Scott Detrow speaks with <em>Texas Monthly</em> barbeque editor Daniel Vaughn about rising beef prices and how Texas barbecue joints are dealing with it.",
-    "link": "https://www.npr.org/2026/07/03/nx-s1-5859417/how-texas-bbq-deals-with-rising-beef-prices",
-    "published": "Fri, 03 Jul 2026 15:55:40 -0400",
-    "collected_at": "2026-07-05T01:46:53.410604+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-    "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 15:01:27 GMT",
-    "collected_at": "2026-07-05T01:46:53.161460+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
-    "summary": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
-    "link": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 11:24:03 GMT",
-    "collected_at": "2026-07-05T01:46:53.161451+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "AI is 'not smart' so what's next in artificial intelligence?",
-    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
-    "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 23:02:09 GMT",
-    "collected_at": "2026-07-05T01:46:53.161446+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
-    "summary": "The government had initially said it would not relax licensing laws further for the World Cup.",
-    "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 02 Jul 2026 20:49:17 GMT",
-    "collected_at": "2026-07-05T01:46:53.161441+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Burnham says there is some room for movement on tax",
-    "summary": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 12:44:09 GMT",
-    "collected_at": "2026-07-05T01:46:53.161436+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
-    "summary": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
-    "link": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 09:50:56 GMT",
-    "collected_at": "2026-07-05T01:46:53.161430+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
-    "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
-    "link": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 03 Jul 2026 10:46:34 GMT",
-    "collected_at": "2026-07-05T01:46:53.161424+00:00"
   }
 ]
