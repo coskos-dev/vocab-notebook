@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Protein or pickled garlic? What's new in ice cream",
+    "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+    "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 14 Aug 2026 21:20:19 GMT",
+    "collected_at": "2026-08-15T21:10:09.999660+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/14/nx-s1-5927284/the-money-investors-borrow-to-trade-in-the-u-s-stock-market-is-at-an-all-time-high",
     "source": "NPR Economy",
     "title": "The money investors borrow to trade in the U.S. stock market is at an all-time high",
@@ -2689,14 +2698,5 @@
     "link": "https://www.npr.org/2026/07/01/nx-s1-5875160/if-wars-are-so-costly-why-do-we-keep-fighting-them",
     "published": "Wed, 01 Jul 2026 16:45:20 -0400",
     "collected_at": "2026-07-05T01:46:53.410629+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
-    "source": "NPR Economy",
-    "title": "U.S. job market slows in June",
-    "summary": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
-    "link": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
-    "published": "Thu, 02 Jul 2026 04:49:28 -0400",
-    "collected_at": "2026-07-05T01:46:53.410623+00:00"
   }
 ]
