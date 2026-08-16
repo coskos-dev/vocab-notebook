@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+    "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+    "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 15 Aug 2026 23:45:44 GMT",
+    "collected_at": "2026-08-16T21:08:33.380112+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Changing pubs into homes to be made harder under new rules",
+    "summary": "The rules will come into force on Monday along with other changes to planning policy.",
+    "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 16 Aug 2026 15:04:13 GMT",
+    "collected_at": "2026-08-16T21:08:33.380093+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Protein or pickled garlic? What's new in ice cream",
@@ -2680,23 +2698,5 @@
     "link": "https://www.npr.org/2026/06/25/nx-s1-5864247/two-former-governors-are-teaming-up-to-address-potential-job-losses-from-ai",
     "published": "Thu, 25 Jun 2026 04:45:05 -0400",
     "collected_at": "2026-07-05T01:46:53.410639+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/06/25/nx-s1-5867374/could-high-inflation-be-the-new-normal",
-    "source": "NPR Economy",
-    "title": "Could high inflation be the new normal?",
-    "summary": "Inflation is at a three-year high. That's a problem for the Fed. Yet, under the leadership of new chair Kevin Warsh, it opted not to hike interest rates. So, who are inflation's winners and losers?",
-    "link": "https://www.npr.org/2026/06/25/nx-s1-5867374/could-high-inflation-be-the-new-normal",
-    "published": "Thu, 25 Jun 2026 04:45:51 -0400",
-    "collected_at": "2026-07-05T01:46:53.410634+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/01/nx-s1-5875160/if-wars-are-so-costly-why-do-we-keep-fighting-them",
-    "source": "NPR Economy",
-    "title": "If wars are so costly, why do we keep fighting them?",
-    "summary": "We dig into current conflicts to understand the incentives that lead countries into violence, and what keeps them stretching on and on.",
-    "link": "https://www.npr.org/2026/07/01/nx-s1-5875160/if-wars-are-so-costly-why-do-we-keep-fighting-them",
-    "published": "Wed, 01 Jul 2026 16:45:20 -0400",
-    "collected_at": "2026-07-05T01:46:53.410629+00:00"
   }
 ]
