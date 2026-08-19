@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+    "source": "NPR Economy",
+    "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+    "summary": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+    "published": "Wed, 19 Aug 2026 00:55:08 -0400",
+    "collected_at": "2026-08-19T21:14:29.101110+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+    "source": "NPR Economy",
+    "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+    "summary": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That's leading nervous investors to demand higher interest rates —pushing up borrowing costs for everyone else.",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+    "published": "Wed, 19 Aug 2026 16:09:39 -0400",
+    "collected_at": "2026-08-19T21:14:29.101096+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US retail giant receives $1bn boost from tariff refunds",
+    "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 17:07:49 GMT",
+    "collected_at": "2026-08-19T21:14:28.908648+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+    "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 23:14:49 GMT",
+    "collected_at": "2026-08-19T21:14:28.908640+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The critical tech staying safe by going underground",
+    "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+    "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 18 Aug 2026 23:25:21 GMT",
+    "collected_at": "2026-08-19T21:14:28.908635+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Track defect found near derailment site - report",
+    "summary": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+    "collected_at": "2026-08-19T21:14:28.908630+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US long-term borrowing costs ease after government steps in",
+    "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 19:26:06 GMT",
+    "collected_at": "2026-08-19T21:14:28.908625+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+    "summary": "The consumer watchdog said they were trying to find out if the three companies were not showing full prices upfront to customers.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 11:08:42 GMT",
+    "collected_at": "2026-08-19T21:14:28.908619+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+    "summary": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+    "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 16:12:27 GMT",
+    "collected_at": "2026-08-19T21:14:28.908613+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Inflation is heating up but don't expect another crisis",
+    "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
+    "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 19 Aug 2026 11:27:39 GMT",
+    "collected_at": "2026-08-19T21:14:28.908596+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
     "source": "NPR Economy",
     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
@@ -2608,95 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 09 Jul 2026 05:27:18 GMT",
     "collected_at": "2026-07-09T09:01:21.008864+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
-    "summary": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 09 Jul 2026 05:04:17 GMT",
-    "collected_at": "2026-07-09T09:01:21.008858+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "I run the UK's biggest bank, here are five ways to manage your money",
-    "summary": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
-    "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 23:10:10 GMT",
-    "collected_at": "2026-07-09T09:01:21.008852+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why electric cars cost more to insure - and what's being done about it",
-    "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
-    "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 08 Jul 2026 23:09:55 GMT",
-    "collected_at": "2026-07-09T09:01:21.008835+00:00"
-  },
-  {
-    "id": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy",
-    "source": "NPR Economy",
-    "title": "Meet 'Project 2029' — and its war on the annoyance economy",
-    "summary": "Remember Project 2025? Democrats are building their own governing blueprint, and one proposal takes aim at the \"annoyance economy\": robocalls, endless hold times, hidden fees and other everyday frustrations.",
-    "link": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy",
-    "published": "Tue, 07 Jul 2026 06:30:00 -0400",
-    "collected_at": "2026-07-08T00:15:41.122045+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Online gamblers betting more than £1,000 to face new checks",
-    "summary": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.",
-    "link": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 14:18:25 GMT",
-    "collected_at": "2026-07-08T00:15:40.792542+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "One million more UK homeowners set  to face higher mortgages",
-    "summary": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
-    "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 15:18:00 GMT",
-    "collected_at": "2026-07-08T00:15:40.792537+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
-    "summary": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
-    "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 23:34:45 GMT",
-    "collected_at": "2026-07-08T00:15:40.792532+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-    "summary": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-    "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 23:47:33 GMT",
-    "collected_at": "2026-07-08T00:15:40.792526+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-    "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
-    "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 07 Jul 2026 23:11:48 GMT",
-    "collected_at": "2026-07-08T00:15:40.792510+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Can China repeat its EV success with robotaxis?",
-    "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 06 Jul 2026 22:01:07 GMT",
-    "collected_at": "2026-07-07T08:56:48.389646+00:00"
   }
 ]
