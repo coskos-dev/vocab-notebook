@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why the US economy is ringing alarm bells",
+    "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+    "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 08:38:18 GMT",
+    "collected_at": "2026-08-21T21:12:04.431766+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+    "summary": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
+    "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 09:45:11 GMT",
+    "collected_at": "2026-08-21T21:12:04.431758+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How landscape gardening is being electrified",
+    "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
+    "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 23:12:38 GMT",
+    "collected_at": "2026-08-21T21:12:04.431753+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+    "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+    "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 22:59:35 GMT",
+    "collected_at": "2026-08-21T21:12:04.431748+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
+    "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
+    "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 10:02:03 GMT",
+    "collected_at": "2026-08-21T21:12:04.431742+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
+    "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 16:45:09 GMT",
+    "collected_at": "2026-08-21T21:12:04.431736+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+    "summary": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
+    "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 15:34:06 GMT",
+    "collected_at": "2026-08-21T21:12:04.431730+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+    "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+    "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 11:20:57 GMT",
+    "collected_at": "2026-08-21T21:12:04.431707+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/20/nx-s1-5938219/why-the-u-s-treasury-moved-to-lower-long-term-bond-yields",
     "source": "NPR Economy",
     "title": "Why the U.S. Treasury moved to lower long-term bond yields",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 11 Jul 2026 12:00:16 GMT",
     "collected_at": "2026-07-12T23:38:16.895232+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-    "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-    "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 12 Jul 2026 05:00:15 GMT",
-    "collected_at": "2026-07-12T23:38:16.895216+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Will Trump Accounts deliver for American children?",
-    "summary": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 11 Jul 2026 07:41:18 GMT",
-    "collected_at": "2026-07-11T23:38:48.598861+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/10/nx-s1-5862130/tacos-are-getting-more-expensive-in-texas-as-beef-prices-continue-to-rise",
-    "source": "NPR Economy",
-    "title": "Tacos are getting more expensive in Texas as beef prices continue to rise",
-    "summary": "Barbacoa, brisket and carne asada are taco staples in Texas. But beef prices are continuing to rise due to drought, low herd sizes and concerns about the new world screwworm in the United States. Both taco stores and everyday grocery shoppers are feeling the pinch and say they've been changing their consumption habits as a result.",
-    "link": "https://www.npr.org/2026/07/10/nx-s1-5862130/tacos-are-getting-more-expensive-in-texas-as-beef-prices-continue-to-rise",
-    "published": "Fri, 10 Jul 2026 04:47:47 -0400",
-    "collected_at": "2026-07-11T00:12:30.398369+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-    "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-    "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 16:42:24 GMT",
-    "collected_at": "2026-07-11T00:12:30.212335+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Major car firms found not to have installed emissions-cheating devices",
-    "summary": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
-    "link": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 10 Jul 2026 16:18:08 GMT",
-    "collected_at": "2026-07-11T00:12:30.212296+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/09/nx-s1-5886168/oil-and-gasoline-prices-begin-to-climb-after-trump-says-ceasefire-with-iran-is-over",
-    "source": "NPR Economy",
-    "title": "Oil and gasoline prices begin to climb after Trump says ceasefire with Iran is over",
-    "summary": "Oil and gasoline prices are climbing again after President Trump declared an end to the ceasefire with Iran. That could put more upward pressure on inflation.",
-    "link": "https://www.npr.org/2026/07/09/nx-s1-5886168/oil-and-gasoline-prices-begin-to-climb-after-trump-says-ceasefire-with-iran-is-over",
-    "published": "Thu, 09 Jul 2026 04:59:43 -0400",
-    "collected_at": "2026-07-10T08:52:26.746480+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/09/nx-s1-5883797/new-fed-chair-kevin-warsh-isnt-as-focused-on-employment-part-of-the-dual-mandate",
-    "source": "NPR Economy",
-    "title": "New Fed Chair Kevin Warsh isn't as focused on employment, part of the dual mandate",
-    "summary": "The Federal Reserve has two main goals: price stability and maximum employment. But new Fed Chair Kevin Warsh seems to be leaning into price stability and away from full employment as equal goals.",
-    "link": "https://www.npr.org/2026/07/09/nx-s1-5883797/new-fed-chair-kevin-warsh-isnt-as-focused-on-employment-part-of-the-dual-mandate",
-    "published": "Thu, 09 Jul 2026 16:12:17 -0400",
-    "collected_at": "2026-07-10T08:52:26.746474+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/10/nx-s1-5887393/how-much-has-the-iran-war-cost-u-s-households",
-    "source": "NPR Economy",
-    "title": "How much has the Iran war cost U.S. households?",
-    "summary": "NPR's A Martinez speaks with Mark Zandi, chief economist at Moody's Analytics, who has estimated what the Iran war has cost the average U.S. household so far.",
-    "link": "https://www.npr.org/2026/07/10/nx-s1-5887393/how-much-has-the-iran-war-cost-u-s-households",
-    "published": "Fri, 10 Jul 2026 04:45:43 -0400",
-    "collected_at": "2026-07-10T08:52:26.746463+00:00"
   }
 ]
