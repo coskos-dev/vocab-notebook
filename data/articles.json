@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
+    "source": "NPR Economy",
+    "title": "How well do you know the world's economic quirks? Take the Planet Money Summer School quiz",
+    "summary": "Every country tells a different economic story. It's time to test your knowledge of the big ideas we've collected on our World Tour. Eight questions stand between you and your Summer School diploma.",
+    "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
+    "published": "Wed, 26 Aug 2026 03:30:00 -0400",
+    "collected_at": "2026-08-27T00:18:59.821857+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+    "source": "NPR Economy",
+    "title": "She got an electric bill for $1,373. She's not alone",
+    "summary": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can't pay their bills.",
+    "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+    "published": "Wed, 26 Aug 2026 05:01:00 -0400",
+    "collected_at": "2026-08-27T00:18:59.821851+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/26/nx-s1-5928351/the-white-houses-preferred-economic-tools-are-hitting-snags",
+    "source": "NPR Economy",
+    "title": "The White House's preferred economic tools are hitting snags",
+    "summary": "Tariffs and export controls have been the Trump administration's main economic security tools. Neither is working very well right now.",
+    "link": "https://www.npr.org/2026/08/26/nx-s1-5928351/the-white-houses-preferred-economic-tools-are-hitting-snags",
+    "published": "Wed, 26 Aug 2026 16:29:45 -0400",
+    "collected_at": "2026-08-27T00:18:59.821835+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+    "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+    "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 11:03:50 GMT",
+    "collected_at": "2026-08-27T00:18:59.581359+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+    "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
+    "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 21:27:23 GMT",
+    "collected_at": "2026-08-27T00:18:59.581351+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Nvidia revenue doubles on continued AI demand",
+    "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+    "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 21:49:26 GMT",
+    "collected_at": "2026-08-27T00:18:59.581344+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+    "summary": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+    "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 23:03:46 GMT",
+    "collected_at": "2026-08-27T00:18:59.581339+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+    "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 22:03:45 GMT",
+    "collected_at": "2026-08-27T00:18:59.581333+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Experts' five tips to make a rented property feel like home",
+    "summary": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
+    "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 23:08:42 GMT",
+    "collected_at": "2026-08-27T00:18:59.581327+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
+    "summary": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 23:06:41 GMT",
+    "collected_at": "2026-08-27T00:18:59.581320+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+    "summary": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+    "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 26 Aug 2026 23:04:24 GMT",
+    "collected_at": "2026-08-27T00:18:59.581276+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
     "source": "NPR Economy",
     "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
@@ -2599,104 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 17 Jul 2026 16:53:04 GMT",
     "collected_at": "2026-07-17T23:38:08.586709+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Brewdog founder faces data complaints over efforts to buy back firm",
-    "summary": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 16:44:15 GMT",
-    "collected_at": "2026-07-17T23:38:08.586704+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Five headaches Andy Burnham will have to deal with as PM",
-    "summary": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
-    "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 05:59:36 GMT",
-    "collected_at": "2026-07-17T23:38:08.586699+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-    "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
-    "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 05:00:08 GMT",
-    "collected_at": "2026-07-17T23:38:08.586684+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Who is the frontrunner to be the UK's next chancellor?",
-    "summary": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
-    "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 10:03:05 GMT",
-    "collected_at": "2026-07-17T00:15:25.654100+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Investigation into parking tickets for drivers queuing at petrol stations",
-    "summary": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
-    "link": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 17:19:20 GMT",
-    "collected_at": "2026-07-17T00:15:25.654095+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
-    "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
-    "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 18:52:35 GMT",
-    "collected_at": "2026-07-17T00:15:25.654089+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "British Steel taken into public ownership to protect 'vital' UK supply",
-    "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 11:31:15 GMT",
-    "collected_at": "2026-07-17T00:15:25.654083+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump Media to sell early access to key social posts",
-    "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 22:42:37 GMT",
-    "collected_at": "2026-07-17T00:15:25.654077+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-    "summary": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 23:14:11 GMT",
-    "collected_at": "2026-07-17T00:15:25.654070+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The financial winners and losers from the World Cup",
-    "summary": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
-    "link": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 16 Jul 2026 23:16:14 GMT",
-    "collected_at": "2026-07-17T00:15:25.654045+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
-    "source": "NPR Economy",
-    "title": "China's economy grows 4.3% in Q2, slowest since late 2022",
-    "summary": "Lagging consumer spending and business investment offset the boost from strong exports thanks partly to the boom in artificial intelligence.",
-    "link": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
-    "published": "Wed, 15 Jul 2026 10:11:41 -0400",
-    "collected_at": "2026-07-16T00:11:41.421349+00:00"
   }
 ]
