@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/26/nx-s1-5928351/white-house-tarifffs-snags",
+    "source": "NPR Economy",
+    "title": "The White House's preferred economic tools are hitting snags",
+    "summary": "Tariffs and export controls have been the Trump administration's main economic security tools. Neither is working very well right now.",
+    "link": "https://www.npr.org/2026/08/26/nx-s1-5928351/white-house-tarifffs-snags",
+    "published": "Wed, 26 Aug 2026 16:29:45 -0400",
+    "collected_at": "2026-08-28T04:59:44.082880+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
+    "source": "NPR Economy",
+    "title": "The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair",
+    "summary": "The stakes are high as Fed Chair Kevin Warsh prepares to give a speech on Friday at the annual gathering of economists and central bankers in Jackson Hole, Wyoming.",
+    "link": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
+    "published": "Thu, 27 Aug 2026 13:01:36 -0400",
+    "collected_at": "2026-08-28T04:59:44.082873+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/08/27/nx-s1-5943232/the-sisyphean-path-it-took-to-get-coyote-vs-acme-to-the-big-screen",
+    "source": "NPR Economy",
+    "title": "The Sisyphean path it took to get 'Coyote vs. Acme' to the big screen",
+    "summary": "Warner Brothers' decision three years ago to shelve a live action animated movie with Wile E. Coyote and the Roadrunner upset many fans. Here's what its release tells us about Hollywood economics.",
+    "link": "https://www.npr.org/2026/08/27/nx-s1-5943232/the-sisyphean-path-it-took-to-get-coyote-vs-acme-to-the-big-screen",
+    "published": "Thu, 27 Aug 2026 16:47:21 -0400",
+    "collected_at": "2026-08-28T04:59:44.082860+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+    "summary": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
+    "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 20:03:34 GMT",
+    "collected_at": "2026-08-28T04:59:43.954219+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'Cowboy builders' targeted in new government clampdown",
+    "summary": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 21:44:02 GMT",
+    "collected_at": "2026-08-28T04:59:43.954211+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Overcooked? Why robotic pizza makers are failing",
+    "summary": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+    "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 23:16:02 GMT",
+    "collected_at": "2026-08-28T04:59:43.954206+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
+    "summary": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+    "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 23:04:21 GMT",
+    "collected_at": "2026-08-28T04:59:43.954201+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Selena Gomez pushes back against 'absurd' fraud claims",
+    "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
+    "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 23:08:42 GMT",
+    "collected_at": "2026-08-28T04:59:43.954195+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+    "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 28 Aug 2026 03:41:59 GMT",
+    "collected_at": "2026-08-28T04:59:43.954189+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Time is running out for cyber security, warn top tech firms",
+    "summary": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 19:44:27 GMT",
+    "collected_at": "2026-08-28T04:59:43.954163+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Military veterans told they owe thousands of pounds over clerical error",
+    "summary": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 27 Aug 2026 23:06:22 GMT",
+    "collected_at": "2026-08-28T04:59:43.954145+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
     "source": "NPR Economy",
     "title": "How well do you know the world's economic quirks? Take the Planet Money Summer School quiz",
@@ -2599,104 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 19 Jul 2026 01:47:59 GMT",
     "collected_at": "2026-07-20T00:15:40.161545+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "My fitness tracker knew I was pregnant before I did",
-    "summary": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
-    "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 23:09:18 GMT",
-    "collected_at": "2026-07-20T00:15:40.161539+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
-    "summary": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
-    "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 18:35:16 GMT",
-    "collected_at": "2026-07-20T00:15:40.161532+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Are you a parent missing out on £27 a week? Here's how to check",
-    "summary": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
-    "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 19 Jul 2026 23:16:47 GMT",
-    "collected_at": "2026-07-20T00:15:40.161511+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/18/nx-s1-5894703/a-reporters-take-on-putting-people-at-the-center-of-stories-about-the-economy",
-    "source": "NPR Economy",
-    "title": "A reporter's take on putting people at the center of stories about the economy",
-    "summary": "NPR's Stephen Bisaha breaks down how he reports on the economy, looking at the real lives behind numbers.",
-    "link": "https://www.npr.org/2026/07/18/nx-s1-5894703/a-reporters-take-on-putting-people-at-the-center-of-stories-about-the-economy",
-    "published": "Sat, 18 Jul 2026 17:20:37 -0400",
-    "collected_at": "2026-07-18T23:37:56.865013+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-    "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
-    "link": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 18 Jul 2026 01:14:53 GMT",
-    "collected_at": "2026-07-18T23:37:56.742787+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
-    "source": "NPR Economy",
-    "title": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker",
-    "summary": "Business is booming for Snap-on, a Wisconsin company that has made tools for professional mechanics for more than a century. It recently got a fact-finding visit from the head of the Chicago Federal Reserve Bank.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
-    "published": "Fri, 17 Jul 2026 05:00:00 -0400",
-    "collected_at": "2026-07-17T23:38:08.865170+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
-    "source": "NPR Economy",
-    "title": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
-    "summary": "President Trump's face will appear on a new commemorative coin honoring the nation's 250th birthday. It's one of the many unusual places his likeness has popped up this year.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
-    "published": "Fri, 17 Jul 2026 14:59:36 -0400",
-    "collected_at": "2026-07-17T23:38:08.865166+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/17/nx-s1-5872424/following-your-aquarium-fish-back-to-its-home-in-the-amazon",
-    "source": "NPR Economy",
-    "title": "Following your aquarium fish back to its home in the Amazon",
-    "summary": "We trace the origins of the popular aquarium fish the cardinal tetra back to the Amazon to see how even the most remote corners of the world are transformed by the global economy.",
-    "link": "https://www.npr.org/2026/07/17/nx-s1-5872424/following-your-aquarium-fish-back-to-its-home-in-the-amazon",
-    "published": "Fri, 17 Jul 2026 16:42:49 -0400",
-    "collected_at": "2026-07-17T23:38:08.865154+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why has British Steel been nationalised?",
-    "summary": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 09:57:02 GMT",
-    "collected_at": "2026-07-17T23:38:08.586726+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "China hits out at British Steel nationalisation",
-    "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-    "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 16:44:22 GMT",
-    "collected_at": "2026-07-17T23:38:08.586712+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-    "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 17 Jul 2026 16:53:04 GMT",
-    "collected_at": "2026-07-17T23:38:08.586709+00:00"
   }
 ]
