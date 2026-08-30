@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.npr.org/2026/08/30/nx-s1-5947171/inflation-continues-to-rise-above-the-federal-reserves-2-target",
+    "source": "NPR Economy",
+    "title": "Inflation continues to rise above the Federal Reserve's 2% target",
+    "summary": "NPR's Ayesha Rascoe asks Mary Lovely of the the Peterson Institute for International Economics about inflation and the economy.",
+    "link": "https://www.npr.org/2026/08/30/nx-s1-5947171/inflation-continues-to-rise-above-the-federal-reserves-2-target",
+    "published": "Sun, 30 Aug 2026 08:02:24 -0400",
+    "collected_at": "2026-08-30T22:58:05.482129+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/08/29/nx-s1-5945703/global-trade-expert-wendy-cutler-explores-u-s-trade-wars-with-canada-and-iran",
     "source": "NPR Economy",
     "title": "Global trade expert Wendy Cutler explores U.S. trade wars with Canada and Iran",
@@ -2689,14 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 20 Jul 2026 23:07:40 GMT",
     "collected_at": "2026-07-21T00:13:35.032412+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The 20-somethings betting big on tech stocks",
-    "summary": "The BBC hears from people about the risks and rewards of investing in technology shares.",
-    "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 20 Jul 2026 22:00:41 GMT",
-    "collected_at": "2026-07-21T00:13:35.032407+00:00"
   }
 ]
