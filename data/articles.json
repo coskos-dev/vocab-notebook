@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US borrowing costs hit fresh highs over inflation fears",
+    "summary": "The effective interest rate on 10 years rose to 4.79%, its highest level since January 2025, as oil prices surged.",
+    "link": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 01 Sep 2026 15:51:51 GMT",
+    "collected_at": "2026-09-01T22:52:51.583392+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
+    "summary": "Just after Jo Hooper landed her dream role at 30, she struggled with burnout and had to take time off work.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 01 Sep 2026 14:19:47 GMT",
+    "collected_at": "2026-09-01T22:52:51.583379+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ikea cuts prices as customers struggle with rising cost of living",
+    "summary": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
+    "link": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 01 Sep 2026 12:21:52 GMT",
+    "collected_at": "2026-09-01T22:52:51.583374+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
+    "summary": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 31 Aug 2026 23:37:35 GMT",
+    "collected_at": "2026-09-01T22:52:51.583368+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+    "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 01 Sep 2026 16:36:42 GMT",
+    "collected_at": "2026-09-01T22:52:51.583339+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "How the US-Canada trade war is being felt on both sides of the border",
@@ -2653,50 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 22 Jul 2026 23:21:40 GMT",
     "collected_at": "2026-07-23T00:15:53.694162+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Some food prices have fallen – but inflation expected to rise from here",
-    "summary": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 22 Jul 2026 10:10:01 GMT",
-    "collected_at": "2026-07-23T00:15:53.694146+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "UK borrows less than expected in June but public finances remain a challenge",
-    "summary": "Public finances for last month were better than expected but the UK is carrying major debt.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 12:36:29 GMT",
-    "collected_at": "2026-07-22T00:04:56.810736+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Ryanair broken window may have been caused by 'foreign object'",
-    "summary": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 13:10:49 GMT",
-    "collected_at": "2026-07-22T00:04:56.810728+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Lindt's Easter chocolate sales fall after price hike",
-    "summary": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.",
-    "link": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 15:37:58 GMT",
-    "collected_at": "2026-07-22T00:04:56.810724+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
-    "summary": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
-    "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 21 Jul 2026 10:30:45 GMT",
-    "collected_at": "2026-07-22T00:04:56.810719+00:00"
   }
 ]
