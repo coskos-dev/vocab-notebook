@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/03/nx-s1-5950543/why-the-u-s-treasury-is-buying-back-double-the-government-bonds-it-normally-does",
+    "source": "NPR Economy",
+    "title": "Why the U.S. Treasury is buying back double the government bonds it normally does",
+    "summary": "The U.S. Treasury is planning to buy back at least double the long-dated government bonds it usually does. Will the plan pit the Treasury secretary against both the bond markets and the Fed?",
+    "link": "https://www.npr.org/2026/09/03/nx-s1-5950543/why-the-u-s-treasury-is-buying-back-double-the-government-bonds-it-normally-does",
+    "published": "Thu, 03 Sep 2026 16:41:34 -0400",
+    "collected_at": "2026-09-03T22:52:16.457929+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump $1 coin makes him first living president on US currency in a century",
+    "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 15:35:47 GMT",
+    "collected_at": "2026-09-03T22:52:16.392914+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
+    "summary": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
+    "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 23:24:06 GMT",
+    "collected_at": "2026-09-03T22:52:16.392906+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why wait? Business grads buying firms to install themselves as CEO",
+    "summary": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
+    "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 23:13:44 GMT",
+    "collected_at": "2026-09-03T22:52:16.392901+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
+    "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+    "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 02 Sep 2026 23:25:50 GMT",
+    "collected_at": "2026-09-03T22:52:16.392895+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Almost half of households do not see benefits of economic growth, report says",
+    "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+    "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 05:47:11 GMT",
+    "collected_at": "2026-09-03T22:52:16.392889+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+    "summary": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
+    "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 12:50:14 GMT",
+    "collected_at": "2026-09-03T22:52:16.392883+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 16:32:05 GMT",
+    "collected_at": "2026-09-03T22:52:16.392876+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Households warned gas price spike could pile fresh pressure on energy bills",
+    "summary": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
+    "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 03 Sep 2026 13:26:54 GMT",
+    "collected_at": "2026-09-03T22:52:16.392853+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
     "source": "NPR Economy",
     "title": "The IRS slashed its staff. One result? More taxes going uncollected",
@@ -2617,86 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 24 Jul 2026 14:02:26 GMT",
     "collected_at": "2026-07-25T06:05:44.889921+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump vows to investigate EU over fining of US tech companies",
-    "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 20:23:58 GMT",
-    "collected_at": "2026-07-25T06:05:44.889915+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
-    "summary": "The government wants to relax wedding laws so couples can get married almost anywhere.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 23:31:11 GMT",
-    "collected_at": "2026-07-25T06:05:44.889908+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-    "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-    "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 24 Jul 2026 23:23:53 GMT",
-    "collected_at": "2026-07-25T06:05:44.889887+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/23/nx-s1-5903073/economist-talks-about-trumps-speech-on-the-economy-and-affordability",
-    "source": "NPR Economy",
-    "title": "Economist talks about Trump's speech on the economy and affordability",
-    "summary": "NPR's Michel Martin speaks with Heather Long, chief economist at Navy Federal Credit Union, about President Trump's latest speech on the economy and the issue of affordability.",
-    "link": "https://www.npr.org/2026/07/23/nx-s1-5903073/economist-talks-about-trumps-speech-on-the-economy-and-affordability",
-    "published": "Thu, 23 Jul 2026 04:44:32 -0400",
-    "collected_at": "2026-07-24T00:13:22.720996+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
-    "source": "NPR Economy",
-    "title": "Trump to impose double-digit tariffs on dozens of countries",
-    "summary": "The United States will slap taxes of 10% to 12.5% on imports from 60 countries accounting for 99% of U.S. imports, charging that they have inadequately enforced bans on goods produced by forced labor.",
-    "link": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
-    "published": "Thu, 23 Jul 2026 18:06:50 -0400",
-    "collected_at": "2026-07-24T00:13:22.720981+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Google and Tesla shares plunge as AI spending rattles markets",
-    "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
-    "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 20:42:33 GMT",
-    "collected_at": "2026-07-24T00:13:22.404189+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
-    "summary": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
-    "link": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 14:27:37 GMT",
-    "collected_at": "2026-07-24T00:13:22.404181+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-    "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 20:58:35 GMT",
-    "collected_at": "2026-07-24T00:13:22.404176+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Oil prices hit $100 for the first time since May",
-    "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 23 Jul 2026 15:31:00 GMT",
-    "collected_at": "2026-07-24T00:13:22.404171+00:00"
   }
 ]
