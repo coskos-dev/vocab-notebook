@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+    "source": "NPR Economy",
+    "title": "Has the economy gone C-shaped?",
+    "summary": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to.",
+    "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+    "published": "Tue, 08 Sep 2026 06:30:00 -0400",
+    "collected_at": "2026-09-08T23:02:05.049987+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+    "source": "NPR Economy",
+    "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+    "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
+    "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+    "published": "Tue, 08 Sep 2026 06:46:03 -0400",
+    "collected_at": "2026-09-08T23:02:05.049981+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/08/nx-s1-5947161/farmers-fear-more-damage-from-u-s-canada-trade-fight",
+    "source": "NPR Economy",
+    "title": "Farmers fear more damage from U.S.-Canada trade fight",
+    "summary": "The Trump administration's escalating trade war with one of the U.S.'s closest allies, Canada, is causing economic anxiety in rural border states like Montana, which counts Canada as its main export market.",
+    "link": "https://www.npr.org/2026/09/08/nx-s1-5947161/farmers-fear-more-damage-from-u-s-canada-trade-fight",
+    "published": "Tue, 08 Sep 2026 16:17:33 -0400",
+    "collected_at": "2026-09-08T23:02:05.049967+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Argentina to file criminal case against oil company operating in Falklands",
+    "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 11:09:54 GMT",
+    "collected_at": "2026-09-08T23:02:04.961761+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK's third-biggest taxpayer to leave for Greece",
+    "summary": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 09:33:35 GMT",
+    "collected_at": "2026-09-08T23:02:04.961752+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+    "summary": "The Balkan nation is aiming to become a new centre for medical tourism.",
+    "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 09:00:28 GMT",
+    "collected_at": "2026-09-08T23:02:04.961742+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+    "summary": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+    "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 21:46:21 GMT",
+    "collected_at": "2026-09-08T23:02:04.961737+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+    "summary": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+    "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 15:19:43 GMT",
+    "collected_at": "2026-09-08T23:02:04.961731+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Sapporo to move some beer production from Canada to US after tariffs",
+    "summary": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
+    "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 17:41:42 GMT",
+    "collected_at": "2026-09-08T23:02:04.961725+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+    "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+    "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 08 Sep 2026 20:57:09 GMT",
+    "collected_at": "2026-09-08T23:02:04.961703+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
@@ -2608,95 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 29 Jul 2026 16:00:24 GMT",
     "collected_at": "2026-07-30T00:14:03.781215+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Interest rates expected to be held again by Bank of England",
-    "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
-    "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 29 Jul 2026 23:01:56 GMT",
-    "collected_at": "2026-07-30T00:14:03.781194+00:00"
-  },
-  {
-    "id": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
-    "source": "NPR Economy",
-    "title": "AI tokens could become the kilowatt-hour of the AI age",
-    "summary": "AI companies use tokens to track usage and bill customers. Now economists are using them to track the spread of AI through the economy.",
-    "link": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
-    "published": "Tue, 28 Jul 2026 06:30:00 -0400",
-    "collected_at": "2026-07-29T00:10:29.571888+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
-    "source": "NPR Economy",
-    "title": "As many are priced out of buying, the renter-owner wealth gap is wider than ever",
-    "summary": "Record high housing costs have pushed the wealth gap between renters and owners wider than ever. It's been a boon for owners even as many others are priced out.",
-    "link": "https://www.npr.org/2026/07/28/nx-s1-5853585/as-many-are-priced-out-of-buying-the-renter-owner-wealth-gap-is-wider-than-ever",
-    "published": "Tue, 28 Jul 2026 16:14:20 -0400",
-    "collected_at": "2026-07-29T00:10:29.571875+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The 10 most overcrowded commuter trains revealed",
-    "summary": "Overall, overcrowding in England and Wales fell slightly last year due to increased capacity, the government says.",
-    "link": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 14:17:57 GMT",
-    "collected_at": "2026-07-29T00:10:29.456182+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-    "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
-    "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 01:53:58 GMT",
-    "collected_at": "2026-07-29T00:10:29.456174+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'Don't wait until you want revenge' - why prenups are on the rise",
-    "summary": "Around one in three young couples are now signing prenups to set out who gets what in the event of divorce.",
-    "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 23:00:07 GMT",
-    "collected_at": "2026-07-29T00:10:29.456169+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
-    "summary": "Some parents on benefits lose income if their children take on apprenticeships.",
-    "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 17:32:56 GMT",
-    "collected_at": "2026-07-29T00:10:29.456164+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "eBay agrees $56m settlement with bloggers over harassment case",
-    "summary": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
-    "link": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 21:49:16 GMT",
-    "collected_at": "2026-07-29T00:10:29.456158+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
-    "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
-    "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 23:00:10 GMT",
-    "collected_at": "2026-07-29T00:10:29.456153+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-    "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
-    "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 28 Jul 2026 23:00:15 GMT",
-    "collected_at": "2026-07-29T00:10:29.456146+00:00"
   }
 ]
