@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/10/nx-s1-5962809/crude-oil-tops-100-a-barrel-increasing-prices-at-the-pump",
+    "source": "NPR Economy",
+    "title": "Crude oil tops $100 a barrel, increasing prices at the pump",
+    "summary": "An escalation of fighting around the Strait of Hormuz pushes the benchmark price of crude oil back above $100 per barrel. That's leading to higher prices at the gas pump, just ahead of a high-profile inflation report.",
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5962809/crude-oil-tops-100-a-barrel-increasing-prices-at-the-pump",
+    "published": "Thu, 10 Sep 2026 04:41:19 -0400",
+    "collected_at": "2026-09-10T22:49:48.352271+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Labour mayors in England vow to cap tourist tax at 5%",
+    "summary": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+    "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 21:22:06 GMT",
+    "collected_at": "2026-09-10T22:49:48.031520+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why some experts increasingly fear AI will take over",
+    "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+    "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 23:17:33 GMT",
+    "collected_at": "2026-09-10T22:49:48.031506+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The one thing you need to do to succeed - according to top bosses",
+    "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+    "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 09 Sep 2026 23:02:20 GMT",
+    "collected_at": "2026-09-10T22:49:48.031501+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Primark finally set to launch home deliveries",
+    "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
+    "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 10:02:26 GMT",
+    "collected_at": "2026-09-10T22:49:48.031496+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+    "summary": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+    "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 13:34:17 GMT",
+    "collected_at": "2026-09-10T22:49:48.031490+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Alstom to build new battery-electric train fleet",
+    "summary": "The government says the work will support thousands of jobs across the UK.",
+    "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 21:00:33 GMT",
+    "collected_at": "2026-09-10T22:49:48.031484+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+    "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 17:38:31 GMT",
+    "collected_at": "2026-09-10T22:49:48.031465+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
     "source": "NPR Economy",
     "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
@@ -2626,77 +2698,5 @@
     "link": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
     "published": "Thu, 30 Jul 2026 16:37:59 -0400",
     "collected_at": "2026-07-31T08:09:49.834758+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Anthropic's Claude AI escapes tests to hack three organisations",
-    "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-    "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 04:31:30 GMT",
-    "collected_at": "2026-07-31T08:09:49.603067+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-    "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-    "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 01:31:50 GMT",
-    "collected_at": "2026-07-31T08:09:49.603059+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "India wants to join the strawberry superpowers",
-    "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-    "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 22:04:09 GMT",
-    "collected_at": "2026-07-31T08:09:49.603054+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "South Korean shares soar after chip stock rout",
-    "summary": "It comes after a three-day rout that wiped hundreds of billions of dollars off the value of the country's stock market.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gdzlzprv1o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 06:56:02 GMT",
-    "collected_at": "2026-07-31T08:09:49.603029+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
-    "summary": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 23:05:41 GMT",
-    "collected_at": "2026-07-31T08:09:49.603024+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Thames Water boss says leakage targets 'not realistic'",
-    "summary": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
-    "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 30 Jul 2026 23:06:37 GMT",
-    "collected_at": "2026-07-31T08:09:49.603019+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "BP puts North Sea business up for sale",
-    "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
-    "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 07:48:47 GMT",
-    "collected_at": "2026-07-31T08:09:49.603012+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Sainsbury's agrees to sell Argos for £120m",
-    "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 08:08:23 GMT",
-    "collected_at": "2026-07-31T08:09:49.602994+00:00"
   }
 ]
