@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+    "source": "NPR Economy",
+    "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
+    "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+    "published": "Fri, 11 Sep 2026 03:32:27 -0400",
+    "collected_at": "2026-09-11T22:50:42.261318+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/11/nx-s1-5964865/fridays-inflation-report-could-help-fed-decide-whether-to-raise-interest-rates",
+    "source": "NPR Economy",
+    "title": "Friday's inflation report could help Fed decide whether to raise interest rates",
+    "summary": "Consumer prices rose 3.4% percent last month from a year ago, the same as it was in July and matching expectations. Gas prices were among the biggest risers.",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5964865/fridays-inflation-report-could-help-fed-decide-whether-to-raise-interest-rates",
+    "published": "Fri, 11 Sep 2026 04:46:51 -0400",
+    "collected_at": "2026-09-11T22:50:42.261312+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+    "source": "NPR Economy",
+    "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+    "summary": "Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington's war with Iran disrupts the world's flow of fuel",
+    "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+    "published": "Fri, 11 Sep 2026 06:04:04 -0400",
+    "collected_at": "2026-09-11T22:50:42.261306+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
+    "source": "NPR Economy",
+    "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
+    "summary": "Why Patagonia might become a new data center hub",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
+    "published": "Fri, 11 Sep 2026 10:16:35 -0400",
+    "collected_at": "2026-09-11T22:50:42.261299+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+    "source": "NPR Economy",
+    "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+    "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
+    "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+    "published": "Fri, 11 Sep 2026 15:39:35 -0400",
+    "collected_at": "2026-09-11T22:50:42.261284+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Can Europe recharge its battery industry?",
+    "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+    "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 23:05:47 GMT",
+    "collected_at": "2026-09-11T22:50:41.893615+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I asked my husband to pay into my pension when we had a child - here's why",
+    "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+    "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 10 Sep 2026 23:04:30 GMT",
+    "collected_at": "2026-09-11T22:50:41.893610+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "AI boom helps drive surprise UK growth in July",
+    "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 10:17:28 GMT",
+    "collected_at": "2026-09-11T22:50:41.893604+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Interest rates could rise again across the world – here's why",
+    "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+    "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 13:35:29 GMT",
+    "collected_at": "2026-09-11T22:50:41.893598+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US prices remain high as fuel costs squeeze household budgets",
+    "summary": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
+    "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 14:22:42 GMT",
+    "collected_at": "2026-09-11T22:50:41.893592+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+    "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+    "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 11 Sep 2026 15:37:25 GMT",
+    "collected_at": "2026-09-11T22:50:41.893571+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/10/nx-s1-5962809/crude-oil-tops-100-a-barrel-increasing-prices-at-the-pump",
     "source": "NPR Economy",
     "title": "Crude oil tops $100 a barrel, increasing prices at the pump",
@@ -2599,104 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 31 Jul 2026 11:19:23 GMT",
     "collected_at": "2026-08-01T00:13:31.022504+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Budget to be held in October, Healey announces",
-    "summary": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
-    "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 15:58:42 GMT",
-    "collected_at": "2026-08-01T00:13:31.022496+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "AI firms must answer for rogue bots, says boss of hacked company",
-    "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 18:10:28 GMT",
-    "collected_at": "2026-08-01T00:13:31.022488+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-    "summary": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 12:19:20 GMT",
-    "collected_at": "2026-08-01T00:13:31.022484+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-    "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-    "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 31 Jul 2026 21:57:59 GMT",
-    "collected_at": "2026-08-01T00:13:31.022465+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/30/nx-s1-5912203/federal-reserve-holds-interest-rates-steady-despite-high-inflation",
-    "source": "NPR Economy",
-    "title": "Federal Reserve holds interest rates steady despite high inflation",
-    "summary": "The Federal Reserve held its benchmark interest rate steady this week.  But markets are acting as if higher interest rates are coming, as the central bank tries to curb stubborn inflation.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5912203/federal-reserve-holds-interest-rates-steady-despite-high-inflation",
-    "published": "Thu, 30 Jul 2026 04:40:54 -0400",
-    "collected_at": "2026-07-31T08:09:49.834798+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/30/nx-s1-5901987/trump-administrations-decision-to-let-usmca-lapse-threatens-texas-economy",
-    "source": "NPR Economy",
-    "title": "Trump administration's decision to let USMCA lapse threatens Texas economy",
-    "summary": "In President Trump's first term, he negotiated the US-Mexico-Canada Agreement (USMCA). The decision by the White House to let it lapse now threatens the Texas economy.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5901987/trump-administrations-decision-to-let-usmca-lapse-threatens-texas-economy",
-    "published": "Thu, 30 Jul 2026 04:41:22 -0400",
-    "collected_at": "2026-07-31T08:09:49.834793+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/30/nx-s1-5910711/renter-owner-wealth-gap",
-    "source": "NPR Economy",
-    "title": "The renter-owner wealth gap is wider than ever, as many are priced out of buying",
-    "summary": "Housing has long been the largest source of wealth for middle income families. But many renters cannot afford to buy as housing prices soar, which could fuel a generational divide.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5910711/renter-owner-wealth-gap",
-    "published": "Thu, 30 Jul 2026 05:00:00 -0400",
-    "collected_at": "2026-07-31T08:09:49.834788+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
-    "source": "NPR Economy",
-    "title": "The economy slowed a bit -- but Americans continued to spend",
-    "summary": "The U.S. economy grew at an annual rate of 1.5% in the spring, according to the Commerce Department. That's a modest slowdown from the previous quarter — but consumer spending picked up steam.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
-    "published": "Thu, 30 Jul 2026 10:47:23 -0400",
-    "collected_at": "2026-07-31T08:09:49.834784+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/30/g-s1-136079/single-adult-solo-choice",
-    "source": "NPR Economy",
-    "title": "Are you choosing to stay single? We want to hear from you",
-    "summary": "Solo living, solo travel, and solo dining are all being embraced as more adults are choosing to remain single. Many Americans aren't interested in dating, and being single is a symbol of autonomy.",
-    "link": "https://www.npr.org/2026/07/30/g-s1-136079/single-adult-solo-choice",
-    "published": "Thu, 30 Jul 2026 13:47:44 -0400",
-    "collected_at": "2026-07-31T08:09:49.834778+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/30/nx-s1-5911879/wall-street-is-growing-increasingly-uneasy-at-the-ai-investment-bubble",
-    "source": "NPR Economy",
-    "title": "Wall Street is growing increasingly uneasy at the AI investment bubble",
-    "summary": "",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5911879/wall-street-is-growing-increasingly-uneasy-at-the-ai-investment-bubble",
-    "published": "Thu, 30 Jul 2026 16:30:34 -0400",
-    "collected_at": "2026-07-31T08:09:49.834772+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
-    "source": "NPR Economy",
-    "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-    "summary": "The 30-year fixed-rate mortgage reached 6.66% on average Thursday.",
-    "link": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
-    "published": "Thu, 30 Jul 2026 16:37:59 -0400",
-    "collected_at": "2026-07-31T08:09:49.834758+00:00"
   }
 ]
