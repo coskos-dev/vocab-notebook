@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/14/nx-s1-5966596/chief-economist-discusses-the-effect-of-the-iran-war-on-the-global-economy",
+    "source": "NPR Economy",
+    "title": "Chief economist discusses the effect of the Iran war on the global economy",
+    "summary": "NPR's Leila Fadel asks KPMG chief economist Diane Swonk about the pressure the ongoing conflict in the Gulf is putting on the global economy.",
+    "link": "https://www.npr.org/2026/09/14/nx-s1-5966596/chief-economist-discusses-the-effect-of-the-iran-war-on-the-global-economy",
+    "published": "Mon, 14 Sep 2026 04:41:58 -0400",
+    "collected_at": "2026-09-14T23:32:59.051781+00:00"
+  },
+  {
+    "id": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
+    "source": "NPR Economy",
+    "title": "The powerful millionaires hiding in plain sight",
+    "summary": "They own car dealerships, law firms, dental practices, and restaurant chains. Collectively, these overlooked business owners hold far more wealth than the Forbes 400 — and wield considerable political power.",
+    "link": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
+    "published": "Mon, 14 Sep 2026 06:30:00 -0400",
+    "collected_at": "2026-09-14T23:32:59.051768+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Rent rises set to speed up in gloomy forecast for tenants",
+    "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 13 Sep 2026 23:05:45 GMT",
+    "collected_at": "2026-09-14T23:32:58.710144+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+    "summary": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 14 Sep 2026 22:01:39 GMT",
+    "collected_at": "2026-09-14T23:32:58.710139+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Petrol and diesel prices hit highest since 2022",
+    "summary": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 14 Sep 2026 11:42:52 GMT",
+    "collected_at": "2026-09-14T23:32:58.710133+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Government set to nationalise troubled steel firm",
+    "summary": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 14 Sep 2026 19:06:46 GMT",
+    "collected_at": "2026-09-14T23:32:58.710128+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+    "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 14 Sep 2026 23:07:56 GMT",
+    "collected_at": "2026-09-14T23:32:58.710123+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I got paid $5,000 to move to a place I'd never heard of",
+    "summary": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+    "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 14 Sep 2026 23:08:28 GMT",
+    "collected_at": "2026-09-14T23:32:58.710116+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+    "summary": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 14 Sep 2026 22:10:10 GMT",
+    "collected_at": "2026-09-14T23:32:58.710099+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Iceland to open first store in the Falklands",
@@ -2617,86 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
     "published": "Tue, 04 Aug 2026 10:07:05 GMT",
     "collected_at": "2026-08-04T22:02:30.339389+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-    "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 13:53:41 GMT",
-    "collected_at": "2026-08-04T22:02:30.339382+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-    "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 19:00:43 GMT",
-    "collected_at": "2026-08-04T22:02:30.339366+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "How heatwaves are changing summer weddings - here's how to plan for one",
-    "summary": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
-    "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 23:20:15 GMT",
-    "collected_at": "2026-08-04T06:16:13.203761+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Tokenomics: Why making AI pay is tricky",
-    "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-    "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 23:21:10 GMT",
-    "collected_at": "2026-08-04T06:16:13.203756+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-    "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-    "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 15:57:27 GMT",
-    "collected_at": "2026-08-04T06:16:13.203750+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-    "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
-    "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 00:17:48 GMT",
-    "collected_at": "2026-08-04T06:16:13.203745+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "US states sue to block Trump tariffs impacting dozens of countries",
-    "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-    "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 02:53:00 GMT",
-    "collected_at": "2026-08-04T06:16:13.203739+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Half-price rail travel extended to 18-year-olds",
-    "summary": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 23:34:13 GMT",
-    "collected_at": "2026-08-04T06:16:13.203719+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "New Spider-Man film sees second-biggest ever global opening weekend",
-    "summary": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
-    "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 03 Aug 2026 04:10:16 GMT",
-    "collected_at": "2026-08-03T08:51:23.312383+00:00"
   }
 ]
