@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/15/nx-s1-5968673/what-the-10-year-treasury-yield-hitting-5-means-for-inflation-and-the-fed",
+    "source": "NPR Economy",
+    "title": "What the 10-year Treasury yield hitting 5% means for inflation and the Fed",
+    "summary": "NPR's A Martinez speaks with Stacey Vanek Smith, reporter for Bloomberg Businessweek, about the 10-year Treasury yield's brief rise to 5% Monday and how the Federal Reserve might react.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5968673/what-the-10-year-treasury-yield-hitting-5-means-for-inflation-and-the-fed",
+    "published": "Tue, 15 Sep 2026 04:44:56 -0400",
+    "collected_at": "2026-09-15T23:14:57.998612+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/15/nx-s1-5968648/census-poverty-income-health-insurance-report",
+    "source": "NPR Economy",
+    "title": "Family income rose and poverty fell in 2025 — but safety net cuts could erase gains",
+    "summary": "An annual report from the Census Bureau shows the average family made more money in 2025 than the year before, while the official poverty rate declined. Health care coverage was little changed from 2024.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5968648/census-poverty-income-health-insurance-report",
+    "published": "Tue, 15 Sep 2026 14:29:49 -0400",
+    "collected_at": "2026-09-15T23:14:57.998607+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/15/nx-s1-5969793/cbo-says-iran-war-diving-up-inflation-puts-price-tag-at-38-billion",
+    "source": "NPR Economy",
+    "title": "CBO says Iran war diving up inflation, puts price tag at $38 billion",
+    "summary": "Two new, independent reports show detailed looks at the costs of the war in Iran. It's led to shortages in U.S. weapons, supply chain bottlenecks, and a price tag in the tens of billions of dollars.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5969793/cbo-says-iran-war-diving-up-inflation-puts-price-tag-at-38-billion",
+    "published": "Tue, 15 Sep 2026 16:08:21 -0400",
+    "collected_at": "2026-09-15T23:14:57.998593+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+    "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+    "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 02:50:36 GMT",
+    "collected_at": "2026-09-15T23:14:57.490594+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+    "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+    "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 08:49:31 GMT",
+    "collected_at": "2026-09-15T23:14:57.490581+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+    "summary": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+    "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 11:05:42 GMT",
+    "collected_at": "2026-09-15T23:14:57.490577+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US borrowing costs hit highest level since 2007",
+    "summary": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+    "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 19:35:10 GMT",
+    "collected_at": "2026-09-15T23:14:57.490571+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+    "summary": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 15 Sep 2026 22:13:10 GMT",
+    "collected_at": "2026-09-15T23:14:57.490550+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/14/nx-s1-5966596/chief-economist-discusses-the-effect-of-the-iran-war-on-the-global-economy",
     "source": "NPR Economy",
     "title": "Chief economist discusses the effect of the Iran war on the global economy",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 05 Aug 2026 08:53:01 GMT",
     "collected_at": "2026-08-05T22:03:29.348416+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
-    "summary": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 19:39:48 GMT",
-    "collected_at": "2026-08-05T22:03:29.348412+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Prioritise new jobs over green targets to win public contracts, firms told",
-    "summary": "The changes are part of government efforts to tackle the youth unemployment crisis.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 10:10:02 GMT",
-    "collected_at": "2026-08-05T22:03:29.348408+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-    "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 05 Aug 2026 21:21:51 GMT",
-    "collected_at": "2026-08-05T22:03:29.348392+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
-    "source": "NPR Economy",
-    "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
-    "summary": "Dallas' financial industry is growing amid a larger Texas business boom. But can it really steal New York's crown?",
-    "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
-    "published": "Tue, 04 Aug 2026 05:00:00 -0400",
-    "collected_at": "2026-08-04T22:02:30.624008+00:00"
-  },
-  {
-    "id": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
-    "source": "NPR Economy",
-    "title": "The sneaky economics of healthwashing",
-    "summary": "Why food companies love labels like \"organic\" and \"high protein,\" why our brains are misled by them — and how to avoid paying extra for marketing.",
-    "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
-    "published": "Tue, 04 Aug 2026 06:30:00 -0400",
-    "collected_at": "2026-08-04T22:02:30.623996+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Apple issues new challenge against UK order for access to private user data",
-    "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 10:22:40 GMT",
-    "collected_at": "2026-08-04T22:02:30.339399+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Campaigners denied appeal over Gatwick expansion",
-    "summary": "An application to stop the two-runway operation is rejected, with judges calling it \"unarguable\".",
-    "link": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 12:25:34 GMT",
-    "collected_at": "2026-08-04T22:02:30.339394+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-    "summary": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
-    "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 04 Aug 2026 10:07:05 GMT",
-    "collected_at": "2026-08-04T22:02:30.339389+00:00"
   }
 ]
