@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/17/nx-s1-5971197/economist-explains-the-feds-decision-to-raise-interest-rates",
+    "source": "NPR Economy",
+    "title": "Economist explains the Fed's decision to raise interest rates",
+    "summary": "NPR's A Martinez speaks with economist Claudia Sahm about why the Federal Reserve chose to raise interest rates after months of keeping them steady.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971197/economist-explains-the-feds-decision-to-raise-interest-rates",
+    "published": "Thu, 17 Sep 2026 06:44:23 -0400",
+    "collected_at": "2026-09-17T23:11:07.237220+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/17/nx-s1-5971226/the-federal-reserve-raises-interest-rates-by-a-quarter-percentage-point",
+    "source": "NPR Economy",
+    "title": "The Federal Reserve raises interest rates by a quarter percentage point",
+    "summary": "The Federal Reserve raised interest rates for the first time in more than three years Wednesday.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5971226/the-federal-reserve-raises-interest-rates-by-a-quarter-percentage-point",
+    "published": "Thu, 17 Sep 2026 06:45:30 -0400",
+    "collected_at": "2026-09-17T23:11:07.237206+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+    "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 08:22:12 GMT",
+    "collected_at": "2026-09-17T23:11:06.736129+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
+    "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
+    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
+    "collected_at": "2026-09-17T23:11:06.736121+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The virtual worlds where robots are trained",
+    "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+    "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 23:00:47 GMT",
+    "collected_at": "2026-09-17T23:11:06.736116+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Barclays workers ask for more money to return to the office",
+    "summary": "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 14:20:27 GMT",
+    "collected_at": "2026-09-17T23:11:06.736102+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Early Bowie music available to stream for first time",
+    "summary": "Previously unheard material from the start of the artist's career has been released for the first time.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 23:01:03 GMT",
+    "collected_at": "2026-09-17T23:11:06.736088+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why we bought our first home with a 100% mortgage - despite the risks",
+    "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+    "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 17 Sep 2026 23:00:53 GMT",
+    "collected_at": "2026-09-17T23:11:06.736070+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
     "source": "NPR Economy",
     "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 08 Aug 2026 13:41:32 GMT",
     "collected_at": "2026-08-08T21:18:05.738077+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/07/nx-s1-5923607/u-s-economy-unexpectedly-loses-23-000-jobs-in-july",
-    "source": "NPR Economy",
-    "title": "U.S. economy unexpectedly loses 23,000 jobs in July",
-    "summary": "The Labor Department offered an update Friday morning on the U.S. jobs market. After lackluster hiring in June, forecasters had expected the report to show a modest pickup in July.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5923607/u-s-economy-unexpectedly-loses-23-000-jobs-in-july",
-    "published": "Fri, 07 Aug 2026 04:41:46 -0400",
-    "collected_at": "2026-08-07T21:26:40.269427+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
-    "source": "NPR Economy",
-    "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
-    "summary": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
-    "published": "Fri, 07 Aug 2026 05:00:00 -0400",
-    "collected_at": "2026-08-07T21:26:40.269421+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
-    "source": "NPR Economy",
-    "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-    "summary": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
-    "published": "Fri, 07 Aug 2026 09:10:10 -0400",
-    "collected_at": "2026-08-07T21:26:40.269416+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-    "source": "NPR Economy",
-    "title": "Trump renews push to fire Fed Governor Lisa Cook",
-    "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-    "published": "Fri, 07 Aug 2026 15:35:35 -0400",
-    "collected_at": "2026-08-07T21:26:40.269409+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/07/nx-s1-5924881/the-u-s-unexpectedly-lost-jobs-in-july",
-    "source": "NPR Economy",
-    "title": "The U.S. unexpectedly lost jobs in July",
-    "summary": "The U.S. labor market went into reverse last month, as employers cut 23,000 jobs.  Job gains for May and June were also revised downward.",
-    "link": "https://www.npr.org/2026/08/07/nx-s1-5924881/the-u-s-unexpectedly-lost-jobs-in-july",
-    "published": "Fri, 07 Aug 2026 16:24:50 -0400",
-    "collected_at": "2026-08-07T21:26:40.269396+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-    "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 13:32:41 GMT",
-    "collected_at": "2026-08-07T21:26:40.214022+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Surprise fall in US jobs last month as slow summer continues",
-    "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
-    "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 14:03:55 GMT",
-    "collected_at": "2026-08-07T21:26:40.214001+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Goodwin considers selling part of defence business",
-    "summary": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
-    "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 07 Aug 2026 15:22:51 GMT",
-    "collected_at": "2026-08-07T21:26:40.213995+00:00"
   }
 ]
