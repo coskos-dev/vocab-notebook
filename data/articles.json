@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/18/nx-s1-5969828/stocks-hit-records-as-ai-optimism-grows-but-bond-markets-tell-a-different-story",
+    "source": "NPR Economy",
+    "title": "Stocks hit records as AI optimism grows, but bond markets tell a different story",
+    "summary": "The stock market is at record highs, largely thanks to tech stocks that are benefitting from investor optimism about the AI boom. But bond markets may be telling a different story.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5969828/stocks-hit-records-as-ai-optimism-grows-but-bond-markets-tell-a-different-story",
+    "published": "Fri, 18 Sep 2026 04:45:21 -0400",
+    "collected_at": "2026-09-18T22:53:46.463312+00:00"
+  },
+  {
+    "id": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
+    "source": "NPR Economy",
+    "title": "What expensive sulfur means for your dinner table",
+    "summary": "Oil supplies are falling, sulfur prices are threatening food costs, and we measure Lego against Hollywood",
+    "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
+    "published": "Fri, 18 Sep 2026 12:40:58 -0400",
+    "collected_at": "2026-09-18T22:53:46.463305+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/18/nx-s1-5974133/diesel-prices-reach-record-territory-creating-ripple-effects-throughout-the-economy",
+    "source": "NPR Economy",
+    "title": "Diesel prices reach record territory, creating ripple effects throughout the economy",
+    "summary": "Diesel prices soared to another record high today, averaging $6.44 a gallon. Trucking, farming, and flying is getting more expensive. But so far it hasn't crimped most Americans' spending.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5974133/diesel-prices-reach-record-territory-creating-ripple-effects-throughout-the-economy",
+    "published": "Fri, 18 Sep 2026 17:07:24 -0400",
+    "collected_at": "2026-09-18T22:53:46.463291+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Thames Water rescue deal should be rejected - MPs",
+    "summary": "A report on the future of Thames Water, urging the government to take action, has been published.",
+    "link": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 05:16:57 GMT",
+    "collected_at": "2026-09-18T22:53:46.163877+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "British Steel plan lacks credibility, MPs say",
+    "summary": "A committee report says the government has not set out how British Steel will become profitable.",
+    "link": "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 12:47:15 GMT",
+    "collected_at": "2026-09-18T22:53:46.163868+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+    "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 17:15:02 GMT",
+    "collected_at": "2026-09-18T22:53:46.163852+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+    "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 17:10:58 GMT",
+    "collected_at": "2026-09-18T22:53:46.163846+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Flight chaos caused by 'millisecond' software defect, report says",
+    "summary": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+    "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 15:48:58 GMT",
+    "collected_at": "2026-09-18T22:53:46.163839+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 18 Sep 2026 17:57:30 GMT",
+    "collected_at": "2026-09-18T22:53:46.163821+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/17/nx-s1-5971197/economist-explains-the-feds-decision-to-raise-interest-rates",
     "source": "NPR Economy",
     "title": "Economist explains the Fed's decision to raise interest rates",
@@ -2617,86 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
     "published": "Sun, 09 Aug 2026 23:47:30 GMT",
     "collected_at": "2026-08-10T21:29:55.451682+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'You could smell someone' who worked at Raleigh",
-    "summary": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 05:10:15 GMT",
-    "collected_at": "2026-08-10T21:29:55.451677+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-    "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 05:00:32 GMT",
-    "collected_at": "2026-08-10T21:29:55.451671+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
-    "summary": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak.",
-    "link": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 15:10:33 GMT",
-    "collected_at": "2026-08-10T21:29:55.451665+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Consortium advances talks for stake in Liverpool",
-    "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 13:16:51 GMT",
-    "collected_at": "2026-08-10T21:29:55.451660+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Ban on 'subscription traps' brought forward by three months",
-    "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
-    "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 09:57:54 GMT",
-    "collected_at": "2026-08-10T21:29:55.451653+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Thames Water gave finance boss a £1m signing-on fee",
-    "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
-    "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 14:49:46 GMT",
-    "collected_at": "2026-08-10T21:29:55.451629+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/09/nx-s1-5924049/economist-explains-what-the-latest-jobs-report-and-inflation-data-means",
-    "source": "NPR Economy",
-    "title": "Economist explains what the latest jobs report and inflation data means",
-    "summary": "NPR's Ayesha Rascoe asks Jed Kolko of the Peterson Institute for International Economics if he is alarmed by Friday's weaker-than-expected jobs report.",
-    "link": "https://www.npr.org/2026/08/09/nx-s1-5924049/economist-explains-what-the-latest-jobs-report-and-inflation-data-means",
-    "published": "Sun, 09 Aug 2026 09:08:21 -0400",
-    "collected_at": "2026-08-09T21:19:44.136749+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-    "summary": "Fans and creators say a revived MySpace must feel personal, not algorithm-driven.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 00:04:20 GMT",
-    "collected_at": "2026-08-09T21:19:43.932128+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-    "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
-    "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 08 Aug 2026 13:41:32 GMT",
-    "collected_at": "2026-08-08T21:18:05.738077+00:00"
   }
 ]
