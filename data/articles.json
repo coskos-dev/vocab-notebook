@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+    "source": "NPR Economy",
+    "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+    "summary": "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy — and the rest of us? Here are some answers.",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+    "published": "Sat, 19 Sep 2026 05:00:00 -0400",
+    "collected_at": "2026-09-19T22:32:45.201410+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/19/nx-s1-5973146/energy-expert-bob-mcnally-on-how-to-protect-consumers-from-a-looming-gas-price-spike",
+    "source": "NPR Economy",
+    "title": "Energy expert Bob McNally on how to protect consumers from a looming gas price spike",
+    "summary": "Analysts are warning about an impending jump in gas prices. NPR's Scott Simon talks with Bob McNally, of Rapidan Energy about how and even if the economic effects can be mitigated.",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5973146/energy-expert-bob-mcnally-on-how-to-protect-consumers-from-a-looming-gas-price-spike",
+    "published": "Sat, 19 Sep 2026 07:40:43 -0400",
+    "collected_at": "2026-09-19T22:32:45.201398+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/18/nx-s1-5969828/stocks-hit-records-as-ai-optimism-grows-but-bond-markets-tell-a-different-story",
     "source": "NPR Economy",
     "title": "Stocks hit records as AI optimism grows, but bond markets tell a different story",
@@ -2680,23 +2698,5 @@
     "link": "https://www.npr.org/2026/08/10/nx-s1-5926451/inflation-report-to-give-new-insight-on-the-cost-of-living-in-america",
     "published": "Mon, 10 Aug 2026 04:40:49 -0400",
     "collected_at": "2026-08-10T21:29:55.590077+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Water outage forces Chessington theme park to close",
-    "summary": "Chessington says all tickets booked for Monday can be used on a future date.",
-    "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 10 Aug 2026 14:24:53 GMT",
-    "collected_at": "2026-08-10T21:29:55.451691+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "You could be missing out on £150 off your energy bill - here's how to check",
-    "summary": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
-    "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 09 Aug 2026 23:47:30 GMT",
-    "collected_at": "2026-08-10T21:29:55.451682+00:00"
   }
 ]
