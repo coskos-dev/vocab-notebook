@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
+    "source": "NPR Economy",
+    "title": "How a national farm leader is dealing with record diesel prices",
+    "summary": "John Boyd Jr., president of the National Black Farmers Association, says soaring diesel costs are deepening a farm crisis as farmers face sharply higher fuel costs in the middle of harvest season.",
+    "link": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
+    "published": "Mon, 21 Sep 2026 04:40:54 -0400",
+    "collected_at": "2026-09-21T23:42:12.766470+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
+    "source": "NPR Economy",
+    "title": "This farm raised thousands of pigs for slaughter. Now it's growing mushrooms instead",
+    "summary": "The U.S. gets nearly a third of its pork from Iowa. One family is making the switch from pigs to more sustainable specialty mushrooms and trying to show other pig farmers how they did it.",
+    "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
+    "published": "Mon, 21 Sep 2026 05:00:00 -0400",
+    "collected_at": "2026-09-21T23:42:12.766458+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+    "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 04:00:38 GMT",
+    "collected_at": "2026-09-21T23:42:12.590267+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+    "summary": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+    "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 20:21:18 GMT",
+    "collected_at": "2026-09-21T23:42:12.590259+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Flights at major US airports delayed after cable cut by construction workers",
+    "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+    "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 23:25:28 GMT",
+    "collected_at": "2026-09-21T23:42:12.590256+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Repeated air traffic control failures leave us in worrying territory",
+    "summary": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 16:39:01 GMT",
+    "collected_at": "2026-09-21T23:42:12.590253+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+    "summary": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 21:34:32 GMT",
+    "collected_at": "2026-09-21T23:42:12.590250+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+    "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+    "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 23:01:26 GMT",
+    "collected_at": "2026-09-21T23:42:12.590247+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Vet prescription fees capped under rule changes",
+    "summary": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 21 Sep 2026 23:01:18 GMT",
+    "collected_at": "2026-09-21T23:42:12.590233+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/20/nx-s1-5974317/this-minnesota-farmer-is-feeling-the-pressure-of-rising-gas-prices",
     "source": "NPR Economy",
     "title": "This Minnesota farmer is feeling the pressure of rising gas prices",
@@ -2617,86 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 12 Aug 2026 07:30:16 GMT",
     "collected_at": "2026-08-12T21:32:45.058021+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Bakery buys comedian's former sites after closure",
-    "summary": "Bakery business Janes Pantry confirms its plans to reopen at least 20 of the Coughlans shops.",
-    "link": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 12:46:31 GMT",
-    "collected_at": "2026-08-12T21:32:45.058012+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-    "summary": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 23:00:26 GMT",
-    "collected_at": "2026-08-12T21:32:45.058001+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "US inflation eases as food and fuel costs cool",
-    "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 17:03:05 GMT",
-    "collected_at": "2026-08-12T21:32:45.057996+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Burnham warned Iran war could hit UK growth next year",
-    "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 14:17:26 GMT",
-    "collected_at": "2026-08-12T21:32:45.057990+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Discord ordered to suspend livestreams in Brazil",
-    "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-    "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 17:10:31 GMT",
-    "collected_at": "2026-08-12T21:32:45.057984+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump sued over Truth Social's $100,000 early access service",
-    "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
-    "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 17:48:56 GMT",
-    "collected_at": "2026-08-12T21:32:45.057960+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/11/nx-s1-5928158/home-sales-fall-in-july-amid-high-mortgage-rates",
-    "source": "NPR Economy",
-    "title": "Home sales fall in July amid high mortgage rates",
-    "summary": "The housing market is stuck in a slump. Sales of existing homes fell by 1.7% last month, even as the average selling price rose. High prices along with rising mortgage rates are putting a squeeze on affordability.",
-    "link": "https://www.npr.org/2026/08/11/nx-s1-5928158/home-sales-fall-in-july-amid-high-mortgage-rates",
-    "published": "Tue, 11 Aug 2026 16:33:12 -0400",
-    "collected_at": "2026-08-11T21:33:15.179662+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
-    "summary": "The woman who found the chocolate bar during a house clearance compares it with today's Mars Bars.",
-    "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 09:08:46 GMT",
-    "collected_at": "2026-08-11T21:33:14.851162+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-    "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 11 Aug 2026 08:44:52 GMT",
-    "collected_at": "2026-08-11T21:33:14.851154+00:00"
   }
 ]
