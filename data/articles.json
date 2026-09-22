@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+    "summary": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 08:52:12 GMT",
+    "collected_at": "2026-09-22T23:20:42.376052+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'We screwed up': Doordash admits underpaying New York workers",
+    "summary": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
+    "link": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 16:50:24 GMT",
+    "collected_at": "2026-09-22T23:20:42.376043+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Will a switch to light speed cut power use at data centres?",
+    "summary": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
+    "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 23:03:48 GMT",
+    "collected_at": "2026-09-22T23:20:42.376038+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "New EU industry rules would damage UK, warns Burnham",
+    "summary": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
+    "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 21:18:40 GMT",
+    "collected_at": "2026-09-22T23:20:42.376033+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+    "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 15:43:14 GMT",
+    "collected_at": "2026-09-22T23:20:42.376027+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump says he would back ban on diesel exports",
+    "summary": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 20:41:13 GMT",
+    "collected_at": "2026-09-22T23:20:42.376021+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+    "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+    "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 23:01:28 GMT",
+    "collected_at": "2026-09-22T23:20:42.376015+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 22 Sep 2026 23:11:33 GMT",
+    "collected_at": "2026-09-22T23:20:42.375997+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
     "source": "NPR Economy",
     "title": "How a national farm leader is dealing with record diesel prices",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 13 Aug 2026 10:17:56 GMT",
     "collected_at": "2026-08-13T21:32:59.601833+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
-    "summary": "Labour's employment rights bill crackdown on zero hours contracts could cost businesses up to £2.9bn a year, new official analysis has found.",
-    "link": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 11:12:33 GMT",
-    "collected_at": "2026-08-13T21:32:59.601828+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-    "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
-    "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 13:02:24 GMT",
-    "collected_at": "2026-08-13T21:32:59.601823+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Harvey Nichols bought by owner of Sports Direct",
-    "summary": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
-    "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 14:27:43 GMT",
-    "collected_at": "2026-08-13T21:32:59.601816+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Water bills set to rise for many after firms permitted extra funding",
-    "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 13 Aug 2026 13:38:30 GMT",
-    "collected_at": "2026-08-13T21:32:59.601796+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/12/nx-s1-5927326/businesses-feel-the-strain-as-the-deadline-for-trumps-50-canadian-tariff-approaches",
-    "source": "NPR Economy",
-    "title": "Businesses feel the strain as the deadline for Trump's 50% Canadian tariff approaches",
-    "summary": "If President Trump's threatened 50% tariffs go through later this month, construction businesses that rely on materials imported from Canada are among those that will suffer.",
-    "link": "https://www.npr.org/2026/08/12/nx-s1-5927326/businesses-feel-the-strain-as-the-deadline-for-trumps-50-canadian-tariff-approaches",
-    "published": "Wed, 12 Aug 2026 04:47:33 -0400",
-    "collected_at": "2026-08-12T21:32:45.200427+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-    "source": "NPR Economy",
-    "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-    "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
-    "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-    "published": "Wed, 12 Aug 2026 05:00:00 -0400",
-    "collected_at": "2026-08-12T21:32:45.200421+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
-    "source": "NPR Economy",
-    "title": "Inflation eases in July as gasoline and grocery prices fall",
-    "summary": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September.",
-    "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
-    "published": "Wed, 12 Aug 2026 10:00:29 -0400",
-    "collected_at": "2026-08-12T21:32:45.200406+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-    "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
-    "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 12 Aug 2026 07:30:16 GMT",
-    "collected_at": "2026-08-12T21:32:45.058021+00:00"
   }
 ]
