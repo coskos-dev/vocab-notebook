@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+    "source": "NPR Economy",
+    "title": "American farmers are hurting -- and worried about their futures",
+    "summary": "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
+    "link": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+    "published": "Fri, 25 Sep 2026 05:00:00 -0400",
+    "collected_at": "2026-09-25T23:40:06.310342+00:00"
+  },
+  {
+    "id": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
+    "source": "NPR Economy",
+    "title": "Why this Pokémon set is dropping in value",
+    "summary": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
+    "link": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
+    "published": "Fri, 25 Sep 2026 07:00:00 -0400",
+    "collected_at": "2026-09-25T23:40:06.310333+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Farmers down 240 million litres of milk after heat",
+    "summary": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
+    "link": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 05:30:13 GMT",
+    "collected_at": "2026-09-25T23:40:06.144676+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 13:56:16 GMT",
+    "collected_at": "2026-09-25T23:40:06.144664+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+    "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+    "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 09:48:33 GMT",
+    "collected_at": "2026-09-25T23:40:06.144658+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Man City found guilty of breaking financial rules",
+    "summary": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 20:11:12 GMT",
+    "collected_at": "2026-09-25T23:40:06.144654+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+    "summary": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+    "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 25 Sep 2026 16:00:44 GMT",
+    "collected_at": "2026-09-25T23:40:06.144640+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/24/nx-s1-5978716/farmers-face-big-expenses-and-an-uncertain-bottom-line-during-fall-harvest-season",
     "source": "NPR Economy",
     "title": "Farmers face big expenses and an uncertain bottom line during fall harvest season",
@@ -2635,68 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 17 Aug 2026 05:00:25 GMT",
     "collected_at": "2026-08-17T21:14:24.110971+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Ferrari's first ever electric car sold for record $40m",
-    "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-    "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 02:22:04 GMT",
-    "collected_at": "2026-08-17T21:14:24.110954+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "How switching your bank account could earn you up to £220",
-    "summary": "New research suggests staying put is costing British savers billions in missed interest every year.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 23:14:47 GMT",
-    "collected_at": "2026-08-17T21:14:24.110879+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Virgin takes step towards running Channel Tunnel rail services",
-    "summary": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
-    "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 17 Aug 2026 12:46:25 GMT",
-    "collected_at": "2026-08-17T21:14:24.110854+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-    "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-    "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 15 Aug 2026 23:45:44 GMT",
-    "collected_at": "2026-08-16T21:08:33.380112+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Changing pubs into homes to be made harder under new rules",
-    "summary": "The rules will come into force on Monday along with other changes to planning policy.",
-    "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 16 Aug 2026 15:04:13 GMT",
-    "collected_at": "2026-08-16T21:08:33.380093+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Protein or pickled garlic? What's new in ice cream",
-    "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
-    "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 14 Aug 2026 21:20:19 GMT",
-    "collected_at": "2026-08-15T21:10:09.999660+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/14/nx-s1-5927284/the-money-investors-borrow-to-trade-in-the-u-s-stock-market-is-at-an-all-time-high",
-    "source": "NPR Economy",
-    "title": "The money investors borrow to trade in the U.S. stock market is at an all-time high",
-    "summary": "Money that investors borrow to trade in the stock market is called margin debt. This debt is now above $1.5 trillion, 50% higher than a year ago. Could this spell trouble for the U.S. economy?",
-    "link": "https://www.npr.org/2026/08/14/nx-s1-5927284/the-money-investors-borrow-to-trade-in-the-u-s-stock-market-is-at-an-all-time-high",
-    "published": "Fri, 14 Aug 2026 04:45:14 -0400",
-    "collected_at": "2026-08-14T21:13:55.829635+00:00"
   }
 ]
