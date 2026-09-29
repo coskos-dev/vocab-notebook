@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+    "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 23:47:10 GMT",
+    "collected_at": "2026-09-29T23:59:06.138446+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Soho House venue under investigation for food safety",
+    "summary": "A former chef contacted Hackney Council after complaining to managers at the members' club.",
+    "link": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 19:10:06 GMT",
+    "collected_at": "2026-09-29T23:59:06.138438+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The start-ups hoping to return battery making to the US",
+    "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 23:06:50 GMT",
+    "collected_at": "2026-09-29T23:59:06.138433+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Chinese AI tool told researchers how to make bioweapons",
+    "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+    "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 23:15:29 GMT",
+    "collected_at": "2026-09-29T23:59:06.138428+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Huel ad banned for suggesting its products could replace all conventional food",
+    "summary": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
+    "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 23:06:06 GMT",
+    "collected_at": "2026-09-29T23:59:06.138423+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I like proving people wrong': The women taking up DIY and plumbing",
+    "summary": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
+    "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 23:06:14 GMT",
+    "collected_at": "2026-09-29T23:59:06.138417+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
+    "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 16:43:39 GMT",
+    "collected_at": "2026-09-29T23:59:06.138410+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Household energy bills forecast to see biggest rise in four years",
+    "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 29 Sep 2026 23:03:13 GMT",
+    "collected_at": "2026-09-29T23:59:06.138392+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/09/28/nx-s1-5978908/the-poverty-rate-among-older-americans-is-rising-survey-shows",
     "source": "NPR Economy",
     "title": "The poverty rate among older Americans is rising, survey shows",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 19 Aug 2026 23:08:03 GMT",
     "collected_at": "2026-08-20T21:16:24.431341+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Walmart sales under strain as US shoppers pull back",
-    "summary": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
-    "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 17:59:59 GMT",
-    "collected_at": "2026-08-20T21:16:24.431336+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-    "summary": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
-    "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 10:05:24 GMT",
-    "collected_at": "2026-08-20T21:16:24.431310+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-    "source": "NPR Economy",
-    "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-    "summary": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect.",
-    "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-    "published": "Wed, 19 Aug 2026 00:55:08 -0400",
-    "collected_at": "2026-08-19T21:14:29.101110+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-    "source": "NPR Economy",
-    "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
-    "summary": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That's leading nervous investors to demand higher interest rates —pushing up borrowing costs for everyone else.",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-    "published": "Wed, 19 Aug 2026 16:09:39 -0400",
-    "collected_at": "2026-08-19T21:14:29.101096+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "US retail giant receives $1bn boost from tariff refunds",
-    "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 17:07:49 GMT",
-    "collected_at": "2026-08-19T21:14:28.908648+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-    "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 23:14:49 GMT",
-    "collected_at": "2026-08-19T21:14:28.908640+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The critical tech staying safe by going underground",
-    "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
-    "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 18 Aug 2026 23:25:21 GMT",
-    "collected_at": "2026-08-19T21:14:28.908635+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Track defect found near derailment site - report",
-    "summary": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 14:06:42 GMT",
-    "collected_at": "2026-08-19T21:14:28.908630+00:00"
   }
 ]
