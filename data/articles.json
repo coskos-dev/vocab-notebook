@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+    "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+    "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 04:01:52 GMT",
+    "collected_at": "2026-10-01T00:13:35.235127+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The AI telling farmers when to harvest",
+    "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 23:02:21 GMT",
+    "collected_at": "2026-10-01T00:13:35.235121+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Greggs to shut four factories and cut 740 jobs",
+    "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 15:03:22 GMT",
+    "collected_at": "2026-10-01T00:13:35.235116+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Regulating AI 'not the right place to start' says Bailey",
+    "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+    "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 14:00:33 GMT",
+    "collected_at": "2026-10-01T00:13:35.235110+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Energy bills are going up - here's what you can do about it",
+    "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
+    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 23:01:32 GMT",
+    "collected_at": "2026-10-01T00:13:35.235098+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Vape prices to rise as new tax takes effect",
+    "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 30 Sep 2026 23:02:11 GMT",
+    "collected_at": "2026-10-01T00:13:35.235080+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
@@ -2644,59 +2698,5 @@
     "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
     "published": "Thu, 20 Aug 2026 12:50:41 -0400",
     "collected_at": "2026-08-20T21:16:24.624354+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/20/nx-s1-5939466/the-40-trillion-national-debt-may-already-be-costing-you",
-    "source": "NPR Economy",
-    "title": "The $40 trillion national debt may already be costing you",
-    "summary": "The $40 trillion national debt isn't just a number in Washington. It can make borrowing more expensive for everyday Americans, and every realistic plan to bring it down involves tradeoffs.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939466/the-40-trillion-national-debt-may-already-be-costing-you",
-    "published": "Thu, 20 Aug 2026 16:01:26 -0400",
-    "collected_at": "2026-08-20T21:16:24.624340+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump vows tougher economic measures on Iran and supporting countries",
-    "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 09:13:18 GMT",
-    "collected_at": "2026-08-20T21:16:24.431366+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
-    "summary": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
-    "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 16:31:44 GMT",
-    "collected_at": "2026-08-20T21:16:24.431357+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Danone €1bn takeover of Huel approved by watchdog",
-    "summary": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
-    "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 13:24:57 GMT",
-    "collected_at": "2026-08-20T21:16:24.431352+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Bernard Matthews confirms closure of Derby factory",
-    "summary": "Bernard Matthews Foods says its Shaftesbury Street factory will close by the end of 2026.",
-    "link": "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 16:27:26 GMT",
-    "collected_at": "2026-08-20T21:16:24.431347+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "I quit my £80,000 job to make ice cream - here's how",
-    "summary": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
-    "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 19 Aug 2026 23:08:03 GMT",
-    "collected_at": "2026-08-20T21:16:24.431341+00:00"
   }
 ]
