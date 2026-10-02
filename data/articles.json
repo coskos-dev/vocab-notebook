@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida",
+    "source": "NPR Economy",
+    "title": "Trade tensions mean fewer Canadians flocking to South Florida",
+    "summary": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming.",
+    "link": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida",
+    "published": "Thu, 01 Oct 2026 05:00:00 -0400",
+    "collected_at": "2026-10-02T00:17:08.375394+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/10/01/nx-s1-5987951/the-rising-cost-of-borrowing-piles-more-financial-pressure-onto-consumers",
+    "source": "NPR Economy",
+    "title": "The rising cost of borrowing piles more financial pressure onto consumers",
+    "summary": "Mortgage rates are at their highest level in almost three years. The rising cost of borrowing is driving life's major purchases further out of reach.",
+    "link": "https://www.npr.org/2026/10/01/nx-s1-5987951/the-rising-cost-of-borrowing-piles-more-financial-pressure-onto-consumers",
+    "published": "Thu, 01 Oct 2026 17:34:50 -0400",
+    "collected_at": "2026-10-02T00:17:08.375387+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/10/01/nx-s1-5983748/some-of-the-super-wealthy-are-plowing-money-into-a-tax-loophole-to-slash-taxes-to-0",
+    "source": "NPR Economy",
+    "title": "Some of the super wealthy are plowing money into a tax loophole to slash taxes to 0",
+    "summary": "There's a tax loophole that lets millionaires and billionaires drawdown their taxes… to nothing. So what does tax-loss harvesting mean and why is it still allowed?",
+    "link": "https://www.npr.org/2026/10/01/nx-s1-5983748/some-of-the-super-wealthy-are-plowing-money-into-a-tax-loophole-to-slash-taxes-to-0",
+    "published": "Thu, 01 Oct 2026 18:27:11 -0400",
+    "collected_at": "2026-10-02T00:17:08.375374+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "AI boom could trigger market shocks, Bank of England boss warns",
+    "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+    "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 10:05:25 GMT",
+    "collected_at": "2026-10-02T00:17:08.078373+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Thames Water apologises after £145,000 customer billing mistake",
+    "summary": "The firm has apologised to the family.",
+    "link": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 18:09:16 GMT",
+    "collected_at": "2026-10-02T00:17:08.078365+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+    "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+    "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 23:00:05 GMT",
+    "collected_at": "2026-10-02T00:17:08.078359+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+    "summary": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
+    "link": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 18:38:22 GMT",
+    "collected_at": "2026-10-02T00:17:08.078353+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "HMRC urged to scrutinise tax implications of Man City case",
+    "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 18:21:22 GMT",
+    "collected_at": "2026-10-02T00:17:08.078347+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+    "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+    "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 23:32:59 GMT",
+    "collected_at": "2026-10-02T00:17:08.078341+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+    "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+    "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 23:00:06 GMT",
+    "collected_at": "2026-10-02T00:17:08.078335+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+    "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 01 Oct 2026 22:21:16 GMT",
+    "collected_at": "2026-10-02T00:17:08.078314+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Three takeaways from Trump's 'Super Intelligence' summit",
@@ -2599,104 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 21 Aug 2026 08:38:18 GMT",
     "collected_at": "2026-08-21T21:12:04.431766+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-    "summary": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
-    "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 09:45:11 GMT",
-    "collected_at": "2026-08-21T21:12:04.431758+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "How landscape gardening is being electrified",
-    "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
-    "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 23:12:38 GMT",
-    "collected_at": "2026-08-21T21:12:04.431753+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-    "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
-    "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 22:59:35 GMT",
-    "collected_at": "2026-08-21T21:12:04.431748+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
-    "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
-    "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 10:02:03 GMT",
-    "collected_at": "2026-08-21T21:12:04.431742+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-    "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 16:45:09 GMT",
-    "collected_at": "2026-08-21T21:12:04.431736+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
-    "summary": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
-    "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 15:34:06 GMT",
-    "collected_at": "2026-08-21T21:12:04.431730+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-    "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
-    "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 11:20:57 GMT",
-    "collected_at": "2026-08-21T21:12:04.431707+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/20/nx-s1-5938219/why-the-u-s-treasury-moved-to-lower-long-term-bond-yields",
-    "source": "NPR Economy",
-    "title": "Why the U.S. Treasury moved to lower long-term bond yields",
-    "summary": "NPR's Leila Fadel speaks with Bloomberg's Stacey Vanek Smith about why the U.S. Treasury acted to push down long-term bond yields and how that relates to the ballooning U.S. debt.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5938219/why-the-u-s-treasury-moved-to-lower-long-term-bond-yields",
-    "published": "Thu, 20 Aug 2026 04:45:23 -0400",
-    "collected_at": "2026-08-20T21:16:24.624372+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/20/nx-s1-5937556/u-s-debt-tops-40-trillion",
-    "source": "NPR Economy",
-    "title": "U.S. debt tops $40 trillion",
-    "summary": "The federal debt is growing even faster than expected. Just paying interest on the $40 trillion balance is now the government's second-largest expense, outpacing everything but Social Security.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5937556/u-s-debt-tops-40-trillion",
-    "published": "Thu, 20 Aug 2026 04:45:30 -0400",
-    "collected_at": "2026-08-20T21:16:24.624366+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-    "source": "NPR Economy",
-    "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-    "summary": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-    "published": "Thu, 20 Aug 2026 05:00:00 -0400",
-    "collected_at": "2026-08-20T21:16:24.624360+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-    "source": "NPR Economy",
-    "title": "Three things to know about the $40 trillion federal debt",
-    "summary": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-    "published": "Thu, 20 Aug 2026 12:50:41 -0400",
-    "collected_at": "2026-08-20T21:16:24.624354+00:00"
   }
 ]
