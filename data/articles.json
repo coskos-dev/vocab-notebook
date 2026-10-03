@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+    "source": "NPR Economy",
+    "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+    "summary": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.<br />",
+    "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+    "published": "Sat, 03 Oct 2026 07:47:09 -0400",
+    "collected_at": "2026-10-03T23:24:57.027942+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Suppliers pile pressure on government over energy bills",
+    "summary": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+    "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 03 Oct 2026 08:58:44 GMT",
+    "collected_at": "2026-10-03T23:24:56.935466+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/02/nx-s1-5987794/economist-discusses-high-bond-yields-and-the-september-jobs-report",
     "source": "NPR Economy",
     "title": "Economist discusses high bond yields and the September jobs report",
@@ -2680,23 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 24 Aug 2026 19:12:35 GMT",
     "collected_at": "2026-08-24T21:17:19.955873+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "More students planning to live at home for university over 'insane' living costs",
-    "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
-    "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 23:01:58 GMT",
-    "collected_at": "2026-08-23T21:09:45.397507+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Les used a QR code to download a parking app - but it was a scam",
-    "summary": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 06:23:54 GMT",
-    "collected_at": "2026-08-23T21:09:45.397499+00:00"
   }
 ]
