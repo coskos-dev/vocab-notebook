@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The job interview question you don't have to answer",
+    "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+    "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 04 Oct 2026 23:22:07 GMT",
+    "collected_at": "2026-10-04T23:39:51.926651+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
     "source": "NPR Economy",
     "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
@@ -2689,14 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 24 Aug 2026 16:50:47 GMT",
     "collected_at": "2026-08-24T21:17:19.955892+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 19:12:35 GMT",
-    "collected_at": "2026-08-24T21:17:19.955873+00:00"
   }
 ]
