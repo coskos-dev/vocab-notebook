@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+    "source": "NPR Economy",
+    "title": "What voters in 6 key states could tell us about the 2026 midterms",
+    "summary": "<em>Morning Edition</em> is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
+    "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+    "published": "Tue, 06 Oct 2026 07:00:00 -0400",
+    "collected_at": "2026-10-07T00:12:40.059891+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+    "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+    "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 18:42:58 GMT",
+    "collected_at": "2026-10-07T00:12:39.788299+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Amazon wins global rights to stream Emmys in six-year deal",
+    "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
+    "link": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 19:08:21 GMT",
+    "collected_at": "2026-10-07T00:12:39.788291+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "What can I do to protect myself after 'Asos hacked' message?",
+    "summary": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 19:17:23 GMT",
+    "collected_at": "2026-10-07T00:12:39.788285+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+    "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
+    "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 17:50:19 GMT",
+    "collected_at": "2026-10-07T00:12:39.788280+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+    "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+    "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 23:01:22 GMT",
+    "collected_at": "2026-10-07T00:12:39.788274+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+    "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
+    "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 23:01:31 GMT",
+    "collected_at": "2026-10-07T00:12:39.788268+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+    "summary": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 06 Oct 2026 23:01:13 GMT",
+    "collected_at": "2026-10-07T00:12:39.788261+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
+    "summary": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has unveiled its new electric car.",
+    "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 07 Oct 2026 00:01:38 GMT",
+    "collected_at": "2026-10-07T00:12:39.788238+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
@@ -2617,86 +2698,5 @@
     "link": "https://www.npr.org/2026/08/25/nx-s1-5942977/tulsa-bakes-in-high-temperatures-and-high-electric-bills",
     "published": "Tue, 25 Aug 2026 17:03:56 -0400",
     "collected_at": "2026-08-25T21:15:48.846567+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-    "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
-    "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 12:10:13 GMT",
-    "collected_at": "2026-08-25T21:15:48.737141+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "How Canada could hit back to hurt the US economy - and Trump",
-    "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-    "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 02:49:22 GMT",
-    "collected_at": "2026-08-25T21:15:48.737133+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "OnlyFans owner was paid over $700m before his death",
-    "summary": "The site hosts a range of subscription-based content from cooking to fitness videos, but it is best known for pornography.",
-    "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 10:09:00 GMT",
-    "collected_at": "2026-08-25T21:15:48.737127+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-    "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 23:04:17 GMT",
-    "collected_at": "2026-08-25T21:15:48.737122+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "New 10p coin enters circulation - will you spot one?",
-    "summary": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
-    "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 23:03:42 GMT",
-    "collected_at": "2026-08-25T21:15:48.737116+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Burnham refuses to rule out tax rises in autumn Budget",
-    "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
-    "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 06:40:33 GMT",
-    "collected_at": "2026-08-25T21:15:48.737111+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-    "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
-    "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 25 Aug 2026 15:04:52 GMT",
-    "collected_at": "2026-08-25T21:15:48.737104+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
-    "source": "NPR Economy",
-    "title": "U.S. businesses are getting tariff refunds. Will customers get any money back?",
-    "summary": "Companies have received tariff refunds. What about consumers? Some companies are providing refunds while others decline.",
-    "link": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
-    "published": "Mon, 24 Aug 2026 04:45:49 -0400",
-    "collected_at": "2026-08-24T21:17:20.161458+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-    "source": "NPR Economy",
-    "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-    "summary": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-    "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-    "published": "Mon, 24 Aug 2026 08:26:00 -0400",
-    "collected_at": "2026-08-24T21:17:20.161444+00:00"
   }
 ]
