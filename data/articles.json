@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Plans to shut Marston's Brewery in Burton revealed",
+    "summary": "Burton-upon-Trent's links with beer and brewing date back centuries.",
+    "link": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 17:09:16 GMT",
+    "collected_at": "2026-10-09T00:45:28.441637+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Adidas sues Australian label White Fox over four stripes design",
+    "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+    "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 18:17:28 GMT",
+    "collected_at": "2026-10-09T00:45:28.441623+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why are more roofs not made of solar tiles?",
+    "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+    "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 23:09:56 GMT",
+    "collected_at": "2026-10-09T00:45:28.441613+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Asos hackers took more personal details than first revealed, BBC finds",
+    "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+    "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 16:29:33 GMT",
+    "collected_at": "2026-10-09T00:45:28.441603+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "White House blocks Microsoft from foreign worker hiring program",
+    "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 21:37:35 GMT",
+    "collected_at": "2026-10-09T00:45:28.441592+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+    "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+    "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 23:01:16 GMT",
+    "collected_at": "2026-10-09T00:45:28.441581+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'Add me to WhatsApp' scam calls to be investigated",
+    "summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+    "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 23:05:09 GMT",
+    "collected_at": "2026-10-09T00:45:28.441569+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+    "summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 08 Oct 2026 23:14:02 GMT",
+    "collected_at": "2026-10-09T00:45:28.441538+00:00"
+  },
+  {
     "id": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
     "source": "NPR Economy",
     "title": "Who will win the 2026 Nobel Prize in economics?",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 27 Aug 2026 23:08:42 GMT",
     "collected_at": "2026-08-28T04:59:43.954195+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-    "summary": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 03:41:59 GMT",
-    "collected_at": "2026-08-28T04:59:43.954189+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Time is running out for cyber security, warn top tech firms",
-    "summary": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
-    "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 19:44:27 GMT",
-    "collected_at": "2026-08-28T04:59:43.954163+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Military veterans told they owe thousands of pounds over clerical error",
-    "summary": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 23:06:22 GMT",
-    "collected_at": "2026-08-28T04:59:43.954145+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-    "source": "NPR Economy",
-    "title": "How well do you know the world's economic quirks? Take the Planet Money Summer School quiz",
-    "summary": "Every country tells a different economic story. It's time to test your knowledge of the big ideas we've collected on our World Tour. Eight questions stand between you and your Summer School diploma.",
-    "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-    "published": "Wed, 26 Aug 2026 03:30:00 -0400",
-    "collected_at": "2026-08-27T00:18:59.821857+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-    "source": "NPR Economy",
-    "title": "She got an electric bill for $1,373. She's not alone",
-    "summary": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can't pay their bills.",
-    "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-    "published": "Wed, 26 Aug 2026 05:01:00 -0400",
-    "collected_at": "2026-08-27T00:18:59.821851+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/26/nx-s1-5928351/the-white-houses-preferred-economic-tools-are-hitting-snags",
-    "source": "NPR Economy",
-    "title": "The White House's preferred economic tools are hitting snags",
-    "summary": "Tariffs and export controls have been the Trump administration's main economic security tools. Neither is working very well right now.",
-    "link": "https://www.npr.org/2026/08/26/nx-s1-5928351/the-white-houses-preferred-economic-tools-are-hitting-snags",
-    "published": "Wed, 26 Aug 2026 16:29:45 -0400",
-    "collected_at": "2026-08-27T00:18:59.821835+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-    "summary": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
-    "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 11:03:50 GMT",
-    "collected_at": "2026-08-27T00:18:59.581359+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-    "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-    "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 26 Aug 2026 21:27:23 GMT",
-    "collected_at": "2026-08-27T00:18:59.581351+00:00"
   }
 ]
