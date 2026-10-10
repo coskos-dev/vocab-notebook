@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+    "source": "NPR Economy",
+    "title": "Why American investors love European defense startups",
+    "summary": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how they can invest.",
+    "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+    "published": "Fri, 09 Oct 2026 07:00:00 -0400",
+    "collected_at": "2026-10-10T00:22:16.956353+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+    "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+    "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 19:32:50 GMT",
+    "collected_at": "2026-10-10T00:22:16.872460+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 12:34:27 GMT",
+    "collected_at": "2026-10-10T00:22:16.872451+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+    "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 14:36:35 GMT",
+    "collected_at": "2026-10-10T00:22:16.872441+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham promises to curb non-compete rules in job contracts",
+    "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+    "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 16:15:30 GMT",
+    "collected_at": "2026-10-10T00:22:16.872436+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Boots has a new owner: Three ways it could affect you",
+    "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+    "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 23:01:14 GMT",
+    "collected_at": "2026-10-10T00:22:16.872430+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+    "collected_at": "2026-10-10T00:22:16.872423+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 10 Oct 2026 00:19:26 GMT",
+    "collected_at": "2026-10-10T00:22:16.872407+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Plans to shut Marston's Brewery in Burton revealed",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 29 Aug 2026 02:42:27 GMT",
     "collected_at": "2026-08-29T02:55:57.859786+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/26/nx-s1-5928351/white-house-tarifffs-snags",
-    "source": "NPR Economy",
-    "title": "The White House's preferred economic tools are hitting snags",
-    "summary": "Tariffs and export controls have been the Trump administration's main economic security tools. Neither is working very well right now.",
-    "link": "https://www.npr.org/2026/08/26/nx-s1-5928351/white-house-tarifffs-snags",
-    "published": "Wed, 26 Aug 2026 16:29:45 -0400",
-    "collected_at": "2026-08-28T04:59:44.082880+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
-    "source": "NPR Economy",
-    "title": "The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair",
-    "summary": "The stakes are high as Fed Chair Kevin Warsh prepares to give a speech on Friday at the annual gathering of economists and central bankers in Jackson Hole, Wyoming.",
-    "link": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
-    "published": "Thu, 27 Aug 2026 13:01:36 -0400",
-    "collected_at": "2026-08-28T04:59:44.082873+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/27/nx-s1-5943232/the-sisyphean-path-it-took-to-get-coyote-vs-acme-to-the-big-screen",
-    "source": "NPR Economy",
-    "title": "The Sisyphean path it took to get 'Coyote vs. Acme' to the big screen",
-    "summary": "Warner Brothers' decision three years ago to shelve a live action animated movie with Wile E. Coyote and the Roadrunner upset many fans. Here's what its release tells us about Hollywood economics.",
-    "link": "https://www.npr.org/2026/08/27/nx-s1-5943232/the-sisyphean-path-it-took-to-get-coyote-vs-acme-to-the-big-screen",
-    "published": "Thu, 27 Aug 2026 16:47:21 -0400",
-    "collected_at": "2026-08-28T04:59:44.082860+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
-    "summary": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
-    "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 20:03:34 GMT",
-    "collected_at": "2026-08-28T04:59:43.954219+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'Cowboy builders' targeted in new government clampdown",
-    "summary": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 21:44:02 GMT",
-    "collected_at": "2026-08-28T04:59:43.954211+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Overcooked? Why robotic pizza makers are failing",
-    "summary": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
-    "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 23:16:02 GMT",
-    "collected_at": "2026-08-28T04:59:43.954206+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
-    "summary": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
-    "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 23:04:21 GMT",
-    "collected_at": "2026-08-28T04:59:43.954201+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Selena Gomez pushes back against 'absurd' fraud claims",
-    "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
-    "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 27 Aug 2026 23:08:42 GMT",
-    "collected_at": "2026-08-28T04:59:43.954195+00:00"
   }
 ]
