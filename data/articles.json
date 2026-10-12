@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+    "source": "NPR Economy",
+    "title": "It's taking longer to find a new job after losing one",
+    "summary": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+    "published": "Sun, 11 Oct 2026 05:00:00 -0400",
+    "collected_at": "2026-10-12T00:02:59.498909+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/10/11/nx-s1-5995376/how-personal-data-is-being-used-to-control-what-customers-see-and-pay",
+    "source": "NPR Economy",
+    "title": "How personal data is being used to control what customers see and pay",
+    "summary": "NPR's Joel Rose speaks with Lindsay Owens, president of the economic think tank Groundwork Collaborative, about how companies using data to transform the products and prices customers see.",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5995376/how-personal-data-is-being-used-to-control-what-customers-see-and-pay",
+    "published": "Sun, 11 Oct 2026 17:16:37 -0400",
+    "collected_at": "2026-10-12T00:02:59.498896+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Citroen revives the 2CV for an electric age",
+    "summary": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
+    "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 11 Oct 2026 17:00:05 GMT",
+    "collected_at": "2026-10-12T00:02:59.398405+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "AI is less regulated than milk, says Microsoft president",
+    "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 11 Oct 2026 23:07:35 GMT",
+    "collected_at": "2026-10-12T00:02:59.398400+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Roofing scammers con homeowners out of thousands of pounds",
+    "summary": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 11 Oct 2026 23:19:49 GMT",
+    "collected_at": "2026-10-12T00:02:59.398395+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Debt advice that may leave you owing even more money",
+    "summary": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+    "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 11 Oct 2026 23:19:07 GMT",
+    "collected_at": "2026-10-12T00:02:59.398390+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump faces growing backlash over plans to import diesel from Russia",
+    "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 11 Oct 2026 23:18:45 GMT",
+    "collected_at": "2026-10-12T00:02:59.398383+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Iran war threatens Healey's Budget plans, think tank warns",
+    "summary": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+    "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 11 Oct 2026 23:04:07 GMT",
+    "collected_at": "2026-10-12T00:02:59.398367+00:00"
+  },
+  {
     "id": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
     "source": "NPR Economy",
     "title": "Why American investors love European defense startups",
@@ -2626,77 +2698,5 @@
     "link": "https://www.npr.org/2026/08/30/nx-s1-5947171/inflation-continues-to-rise-above-the-federal-reserves-2-target",
     "published": "Sun, 30 Aug 2026 08:02:24 -0400",
     "collected_at": "2026-08-30T22:58:05.482129+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/29/nx-s1-5945703/global-trade-expert-wendy-cutler-explores-u-s-trade-wars-with-canada-and-iran",
-    "source": "NPR Economy",
-    "title": "Global trade expert Wendy Cutler explores U.S. trade wars with Canada and Iran",
-    "summary": "The trade war escalated between the U.S. and Canada, and the Trump administration tried to cut off Iran economically. NPR's Scott Simon talks with Wendy Cutler of the Asia Society Policy Institute.",
-    "link": "https://www.npr.org/2026/08/29/nx-s1-5945703/global-trade-expert-wendy-cutler-explores-u-s-trade-wars-with-canada-and-iran",
-    "published": "Sat, 29 Aug 2026 07:40:50 -0400",
-    "collected_at": "2026-08-29T22:52:27.829703+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/29/nx-s1-5948696/trump-says-u-s-has-struck-a-deal-for-control-of-venezuelan-oil-reserves",
-    "source": "NPR Economy",
-    "title": "Trump says U.S. has struck a deal for control of Venezuelan oil reserves",
-    "summary": "President Trump says a new deal with Venezuela would give the U.S. control of more than 65 billion barrels of oil reserves.",
-    "link": "https://www.npr.org/2026/08/29/nx-s1-5948696/trump-says-u-s-has-struck-a-deal-for-control-of-venezuelan-oil-reserves",
-    "published": "Sat, 29 Aug 2026 17:14:13 -0400",
-    "collected_at": "2026-08-29T22:52:27.829689+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/28/nx-s1-5946685/what-investors-and-economists-can-expect-to-hear-from-the-fed-chairs-speech-friday",
-    "source": "NPR Economy",
-    "title": "What investors and economists can expect to hear from the Fed chair's speech Friday",
-    "summary": "NPR's Steve Inskeep speaks with David Wilcox, with the Peterson Institute for International Economics, about what investors and economists are hoping to hear from the Fed chair's speech Friday.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5946685/what-investors-and-economists-can-expect-to-hear-from-the-fed-chairs-speech-friday",
-    "published": "Fri, 28 Aug 2026 04:44:27 -0400",
-    "collected_at": "2026-08-29T02:55:58.071787+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-    "source": "NPR Economy",
-    "title": "U.S. says pipelines will make Strait of Hormuz irrelevant. Energy experts disagree",
-    "summary": "Treasure Secretary Scott Bessent said oil pipelines will make Strait of Hormuz irrelevant in two years. Energy experts say that is unlikely to happen.",
-    "link": "https://www.npr.org/2026/08/28/g-s1-140309/us-iran-middle-east-oil-pipelines-hormuz",
-    "published": "Fri, 28 Aug 2026 05:00:00 -0400",
-    "collected_at": "2026-08-29T02:55:58.071781+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
-    "source": "NPR Economy",
-    "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-    "summary": "Fed Chair Kevin Warsh reiterated his commitment to fighting inflation in a major speech — raising expectations that rate hikes may be coming, though he did not clearly spell out a path going forward.",
-    "link": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
-    "published": "Fri, 28 Aug 2026 12:05:40 -0400",
-    "collected_at": "2026-08-29T02:55:58.071768+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-    "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-    "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 15:15:26 GMT",
-    "collected_at": "2026-08-29T02:55:57.859814+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Wife of man who died after turbulence sues airline",
-    "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-    "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 28 Aug 2026 17:47:00 GMT",
-    "collected_at": "2026-08-29T02:55:57.859808+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 02:42:27 GMT",
-    "collected_at": "2026-08-29T02:55:57.859786+00:00"
   }
 ]
