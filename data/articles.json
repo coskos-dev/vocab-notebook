@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
+    "source": "NPR Economy",
+    "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+    "summary": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
+    "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
+    "published": "Mon, 12 Oct 2026 04:35:16 -0400",
+    "collected_at": "2026-10-13T02:17:31.480384+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/10/12/nx-s1-5998739/two-americans-win-nobel-for-economics",
+    "source": "NPR Economy",
+    "title": "Two Americans win Nobel for economics",
+    "summary": "This year's Nobel Prize for economics was awarded to two Americans, for their work on ways to limit booms and busts in the business cycle.",
+    "link": "https://www.npr.org/2026/10/12/nx-s1-5998739/two-americans-win-nobel-for-economics",
+    "published": "Mon, 12 Oct 2026 17:43:46 -0400",
+    "collected_at": "2026-10-13T02:17:31.480369+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Fridges in French supermarkets hit by cyber attack",
+    "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+    "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 12 Oct 2026 18:31:32 GMT",
+    "collected_at": "2026-10-13T02:17:31.124022+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+    "summary": "Meeting travellers' expectations could be challenging, experts warn.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 12 Oct 2026 23:37:00 GMT",
+    "collected_at": "2026-10-13T02:17:31.124007+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+    "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 01:50:47 GMT",
+    "collected_at": "2026-10-13T02:17:31.124003+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Heating oil customers face tough winter despite shake-up promise",
+    "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 12 Oct 2026 23:02:24 GMT",
+    "collected_at": "2026-10-13T02:17:31.123999+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I earn £120,000 a year making social media videos go viral",
+    "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
+    "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 12 Oct 2026 23:01:45 GMT",
+    "collected_at": "2026-10-13T02:17:31.123993+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+    "summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+    "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 02:00:35 GMT",
+    "collected_at": "2026-10-13T02:17:31.123977+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
     "source": "NPR Economy",
     "title": "It's taking longer to find a new job after losing one",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
     "published": "Tue, 01 Sep 2026 16:36:42 GMT",
     "collected_at": "2026-09-01T22:52:51.583339+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "How the US-Canada trade war is being felt on both sides of the border",
-    "summary": "The US-Canada trade war is being felt on both sides of the border.",
-    "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 00:05:22 GMT",
-    "collected_at": "2026-09-01T00:09:51.021292+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-    "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
-    "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 30 Aug 2026 23:22:24 GMT",
-    "collected_at": "2026-09-01T00:09:51.021287+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Kushner states regret over World Cup sell-off plan",
-    "summary": "Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had known how the football world reacted.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 18:38:55 GMT",
-    "collected_at": "2026-09-01T00:09:51.021282+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Japan Inc is betting big on India as China risks deepen",
-    "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
-    "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 22:07:19 GMT",
-    "collected_at": "2026-09-01T00:09:51.021277+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
-    "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 21:28:49 GMT",
-    "collected_at": "2026-09-01T00:09:51.021271+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "How Shein lost its shine ahead of long-awaited stock market debut",
-    "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 22:08:30 GMT",
-    "collected_at": "2026-09-01T00:09:51.021265+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-    "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-    "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 16:49:11 GMT",
-    "collected_at": "2026-09-01T00:09:51.021244+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/08/30/nx-s1-5947171/inflation-continues-to-rise-above-the-federal-reserves-2-target",
-    "source": "NPR Economy",
-    "title": "Inflation continues to rise above the Federal Reserve's 2% target",
-    "summary": "NPR's Ayesha Rascoe asks Mary Lovely of the the Peterson Institute for International Economics about inflation and the economy.",
-    "link": "https://www.npr.org/2026/08/30/nx-s1-5947171/inflation-continues-to-rise-above-the-federal-reserves-2-target",
-    "published": "Sun, 30 Aug 2026 08:02:24 -0400",
-    "collected_at": "2026-08-30T22:58:05.482129+00:00"
   }
 ]
