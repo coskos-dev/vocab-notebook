@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
+    "source": "NPR Economy",
+    "title": "What ice cream has to do with this year's Nobel Prize in economics",
+    "summary": "Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.",
+    "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
+    "published": "Tue, 13 Oct 2026 06:30:00 -0400",
+    "collected_at": "2026-10-14T00:00:07.357393+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/10/13/nx-s1-5963595/older-americans-are-struggling-with-food-affordability",
+    "source": "NPR Economy",
+    "title": "Older Americans are struggling with food affordability",
+    "summary": "High food prices are pushing some older adults to make difficult budget decisions when it comes to what's available to eat. That can mean scaling back on produce in favor of cheaper, processed foods and relying more on food pantries",
+    "link": "https://www.npr.org/2026/10/13/nx-s1-5963595/older-americans-are-struggling-with-food-affordability",
+    "published": "Tue, 13 Oct 2026 16:03:30 -0400",
+    "collected_at": "2026-10-14T00:00:07.357378+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "BA flight forced to turn back over cracked window",
+    "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+    "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 11:48:07 GMT",
+    "collected_at": "2026-10-14T00:00:07.038626+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Poundland in rescue talks as owners seek buyer",
+    "summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 12:17:17 GMT",
+    "collected_at": "2026-10-14T00:00:07.038620+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How long will humans be needed for translation?",
+    "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+    "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 23:05:29 GMT",
+    "collected_at": "2026-10-14T00:00:07.038616+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+    "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 21:42:49 GMT",
+    "collected_at": "2026-10-14T00:00:07.038611+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Three things we've learnt about the UK economy from the IMF",
+    "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+    "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 11:58:43 GMT",
+    "collected_at": "2026-10-14T00:00:07.038603+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Is it OK for jobseekers or employers to use AI?",
+    "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+    "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 23:04:39 GMT",
+    "collected_at": "2026-10-14T00:00:07.038597+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Royal Mail losing 400 postal workers a week, says union",
+    "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 13 Oct 2026 23:03:59 GMT",
+    "collected_at": "2026-10-14T00:00:07.038576+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
     "source": "NPR Economy",
     "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
@@ -2617,86 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 02 Sep 2026 16:51:49 GMT",
     "collected_at": "2026-09-02T22:53:17.467588+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Lords call for AI 'kill switch' powers in UK",
-    "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
-    "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 14:41:52 GMT",
-    "collected_at": "2026-09-02T22:53:17.467584+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-    "summary": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 17:21:00 GMT",
-    "collected_at": "2026-09-02T22:53:17.467580+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why are UK borrowing costs rising and what does it mean for me?",
-    "summary": "Some government borrowing costs have hit their highest level for 28 years - what does it mean for you?",
-    "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 11:05:22 GMT",
-    "collected_at": "2026-09-02T22:53:17.467575+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-    "summary": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
-    "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 13:20:11 GMT",
-    "collected_at": "2026-09-02T22:53:17.467555+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "US borrowing costs hit fresh highs over inflation fears",
-    "summary": "The effective interest rate on 10 years rose to 4.79%, its highest level since January 2025, as oil prices surged.",
-    "link": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 15:51:51 GMT",
-    "collected_at": "2026-09-01T22:52:51.583392+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
-    "summary": "Just after Jo Hooper landed her dream role at 30, she struggled with burnout and had to take time off work.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 14:19:47 GMT",
-    "collected_at": "2026-09-01T22:52:51.583379+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Ikea cuts prices as customers struggle with rising cost of living",
-    "summary": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
-    "link": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 12:21:52 GMT",
-    "collected_at": "2026-09-01T22:52:51.583374+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
-    "summary": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 31 Aug 2026 23:37:35 GMT",
-    "collected_at": "2026-09-01T22:52:51.583368+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-    "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
-    "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 01 Sep 2026 16:36:42 GMT",
-    "collected_at": "2026-09-01T22:52:51.583339+00:00"
   }
 ]
