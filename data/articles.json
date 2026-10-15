@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/15/nx-s1-6001707/despite-bad-inflation-report-trump-says-economy-is-doing-fine",
+    "source": "NPR Economy",
+    "title": "Despite bad inflation report, Trump says economy is doing fine",
+    "summary": "The latest tough inflation report reinforces the challenge for President Trump and GOP candidates ahead into the midterm elections.",
+    "link": "https://www.npr.org/2026/10/15/nx-s1-6001707/despite-bad-inflation-report-trump-says-economy-is-doing-fine",
+    "published": "Thu, 15 Oct 2026 04:46:33 -0400",
+    "collected_at": "2026-10-15T23:22:27.781909+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+    "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+    "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 13:25:17 GMT",
+    "collected_at": "2026-10-15T23:22:27.718125+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Living with a stink? Technology might help",
+    "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+    "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 23:18:21 GMT",
+    "collected_at": "2026-10-15T23:22:27.718112+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I paid thousands to a company for jobs that never came'",
+    "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+    "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 17:19:49 GMT",
+    "collected_at": "2026-10-15T23:22:27.718107+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+    "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 11:34:55 GMT",
+    "collected_at": "2026-10-15T23:22:27.718102+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+    "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+    "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 14:55:21 GMT",
+    "collected_at": "2026-10-15T23:22:27.718096+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I find it quite demoralising in store - why I do all my shopping online",
+    "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+    "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 23:16:12 GMT",
+    "collected_at": "2026-10-15T23:22:27.718089+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Banks say Healey is planning Budget tax raid on their profits",
+    "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+    "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 15 Oct 2026 17:14:36 GMT",
+    "collected_at": "2026-10-15T23:22:27.718069+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
     "source": "NPR Economy",
     "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 04 Sep 2026 07:19:06 GMT",
     "collected_at": "2026-09-04T22:36:19.255386+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-    "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
-    "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 05:59:10 GMT",
-    "collected_at": "2026-09-04T22:36:19.255381+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-    "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 17:23:13 GMT",
-    "collected_at": "2026-09-04T22:36:19.255375+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Stock up on food to prepare for extreme weather, minister says",
-    "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
-    "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 04 Sep 2026 10:40:23 GMT",
-    "collected_at": "2026-09-04T22:36:19.255345+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/03/nx-s1-5950543/why-the-u-s-treasury-is-buying-back-double-the-government-bonds-it-normally-does",
-    "source": "NPR Economy",
-    "title": "Why the U.S. Treasury is buying back double the government bonds it normally does",
-    "summary": "The U.S. Treasury is planning to buy back at least double the long-dated government bonds it usually does. Will the plan pit the Treasury secretary against both the bond markets and the Fed?",
-    "link": "https://www.npr.org/2026/09/03/nx-s1-5950543/why-the-u-s-treasury-is-buying-back-double-the-government-bonds-it-normally-does",
-    "published": "Thu, 03 Sep 2026 16:41:34 -0400",
-    "collected_at": "2026-09-03T22:52:16.457929+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump $1 coin makes him first living president on US currency in a century",
-    "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-    "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 03 Sep 2026 15:35:47 GMT",
-    "collected_at": "2026-09-03T22:52:16.392914+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-    "summary": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
-    "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 23:24:06 GMT",
-    "collected_at": "2026-09-03T22:52:16.392906+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why wait? Business grads buying firms to install themselves as CEO",
-    "summary": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
-    "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 23:13:44 GMT",
-    "collected_at": "2026-09-03T22:52:16.392901+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
-    "summary": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
-    "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 02 Sep 2026 23:25:50 GMT",
-    "collected_at": "2026-09-03T22:52:16.392895+00:00"
   }
 ]
