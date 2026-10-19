@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Musk and Anthropic pledge public share giveaways",
+    "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 09:38:25 GMT",
+    "collected_at": "2026-10-19T23:59:56.185688+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Home sellers cut asking prices on 3,000 properties a day",
+    "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+    "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 12:54:03 GMT",
+    "collected_at": "2026-10-19T23:59:56.185679+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Bikes 'not for jousting,' says Lime after duel video",
+    "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+    "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 15:44:53 GMT",
+    "collected_at": "2026-10-19T23:59:56.185674+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Vinted blocks French looters listing stolen goods for sale",
+    "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 16:46:35 GMT",
+    "collected_at": "2026-10-19T23:59:56.185669+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+    "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+    "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 21:12:30 GMT",
+    "collected_at": "2026-10-19T23:59:56.185664+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+    "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+    "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 18:21:54 GMT",
+    "collected_at": "2026-10-19T23:59:56.185658+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+    "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
+    "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 23:00:21 GMT",
+    "collected_at": "2026-10-19T23:59:56.185651+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+    "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+    "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 19 Oct 2026 21:30:06 GMT",
+    "collected_at": "2026-10-19T23:59:56.185628+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "'I took a chance on the whisky industry and I haven't looked back'",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 07 Sep 2026 14:57:30 GMT",
     "collected_at": "2026-09-07T23:06:31.917722+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The £70 refund letter that isn't a scam",
-    "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-    "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 08:50:55 GMT",
-    "collected_at": "2026-09-07T23:06:31.917714+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why are European countries moving their gold out of North America?",
-    "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 01:42:09 GMT",
-    "collected_at": "2026-09-07T23:06:31.917710+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
-    "summary": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-    "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 16:05:37 GMT",
-    "collected_at": "2026-09-07T23:06:31.917705+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
-    "summary": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 14:36:37 GMT",
-    "collected_at": "2026-09-07T23:06:31.917701+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-    "summary": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-    "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 15:41:52 GMT",
-    "collected_at": "2026-09-07T23:06:31.917697+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Next wins key appeal to overturn £30m equal pay ruling",
-    "summary": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
-    "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 16:25:41 GMT",
-    "collected_at": "2026-09-07T23:06:31.917691+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-    "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-    "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 07 Sep 2026 23:05:12 GMT",
-    "collected_at": "2026-09-07T23:06:31.917668+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Jaguar Land Rover confirms planned job cuts",
-    "summary": "The firm says it needs to save about £1.7bn over the next two years.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 05 Sep 2026 13:22:17 GMT",
-    "collected_at": "2026-09-06T22:30:14.863071+00:00"
   }
 ]
