@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+    "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+    "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 10:16:17 GMT",
+    "collected_at": "2026-10-21T23:45:58.999805+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+    "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 10:20:15 GMT",
+    "collected_at": "2026-10-21T23:45:58.999797+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+    "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+    "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 23:04:03 GMT",
+    "collected_at": "2026-10-21T23:45:58.999792+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The grads ditching the UK for a fresh start abroad",
+    "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+    "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 23:12:06 GMT",
+    "collected_at": "2026-10-21T23:45:58.999786+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+    "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+    "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 22:54:58 GMT",
+    "collected_at": "2026-10-21T23:45:58.999781+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Meta fined $25bn for 'lies' over user data privacy",
+    "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 21:49:07 GMT",
+    "collected_at": "2026-10-21T23:45:58.999776+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Websites taken down worldwide as critical cyber-security update issued",
+    "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+    "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 19:54:57 GMT",
+    "collected_at": "2026-10-21T23:45:58.999769+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+    "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 23:27:05 GMT",
+    "collected_at": "2026-10-21T23:45:58.999750+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
     "source": "NPR Economy",
     "title": "Why these 5 everyday items fluctuate in price at the grocery store",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
     "published": "Tue, 08 Sep 2026 23:04:17 GMT",
     "collected_at": "2026-09-09T22:48:30.716953+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-    "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 15:34:09 GMT",
-    "collected_at": "2026-09-09T22:48:30.716946+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Should promotion depend on how workers use AI?",
-    "summary": "More companies are tying career progression to AI use: is that fair?",
-    "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 23:05:23 GMT",
-    "collected_at": "2026-09-09T22:48:30.716942+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-    "summary": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 12:20:40 GMT",
-    "collected_at": "2026-09-09T22:48:30.716938+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Learner drivers still forced to wait months to book tests",
-    "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 11:57:34 GMT",
-    "collected_at": "2026-09-09T22:48:30.716934+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "What are my rights if my flight is cancelled or delayed?",
-    "summary": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
-    "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 08:04:14 GMT",
-    "collected_at": "2026-09-09T22:48:30.716929+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-    "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-    "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 20:00:33 GMT",
-    "collected_at": "2026-09-09T22:48:30.716923+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Air traffic failure was avoidable, says transport secretary",
-    "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 18:21:16 GMT",
-    "collected_at": "2026-09-09T22:48:30.716905+00:00"
-  },
-  {
-    "id": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
-    "source": "NPR Economy",
-    "title": "Has the economy gone C-shaped?",
-    "summary": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to.",
-    "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
-    "published": "Tue, 08 Sep 2026 06:30:00 -0400",
-    "collected_at": "2026-09-08T23:02:05.049987+00:00"
   }
 ]
