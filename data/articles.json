@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/22/nx-s1-6001731/gene-editing-scientists-slowed-down-for-safety-could-ai-leaders-follow-their-guide",
+    "source": "NPR Economy",
+    "title": "Gene editing scientists slowed down for safety. Could AI leaders follow their guide?",
+    "summary": "Some of the leaders of the AI race are calling for a slowdown, for safety's sake. Viewed in economics terms, it's a collective action problem: no one wants to slow down unless everyone does.",
+    "link": "https://www.npr.org/2026/10/22/nx-s1-6001731/gene-editing-scientists-slowed-down-for-safety-could-ai-leaders-follow-their-guide",
+    "published": "Thu, 22 Oct 2026 17:38:53 -0400",
+    "collected_at": "2026-10-22T23:43:56.099011+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "No order, no seat: Starbucks China rolls out new store policy",
+    "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 04:02:29 GMT",
+    "collected_at": "2026-10-22T23:43:55.907801+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "What is PHP and why did it spark a global cyber-security scramble?",
+    "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+    "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 11:15:58 GMT",
+    "collected_at": "2026-10-22T23:43:55.907794+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Tank barrel production returns to UK after 20 years",
+    "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+    "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 13:45:19 GMT",
+    "collected_at": "2026-10-22T23:43:55.907786+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+    "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 14:28:59 GMT",
+    "collected_at": "2026-10-22T23:43:55.907782+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I wasn't thinking straight' says five jobs civil servant",
+    "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 15:05:47 GMT",
+    "collected_at": "2026-10-22T23:43:55.907778+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+    "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+    "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 22:27:53 GMT",
+    "collected_at": "2026-10-22T23:43:55.907773+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+    "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+    "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 22 Oct 2026 18:26:56 GMT",
+    "collected_at": "2026-10-22T23:43:55.907753+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 10 Sep 2026 21:22:06 GMT",
     "collected_at": "2026-09-10T22:49:48.031520+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why some experts increasingly fear AI will take over",
-    "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-    "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 23:17:33 GMT",
-    "collected_at": "2026-09-10T22:49:48.031506+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The one thing you need to do to succeed - according to top bosses",
-    "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
-    "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 09 Sep 2026 23:02:20 GMT",
-    "collected_at": "2026-09-10T22:49:48.031501+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Primark finally set to launch home deliveries",
-    "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
-    "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 10:02:26 GMT",
-    "collected_at": "2026-09-10T22:49:48.031496+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-    "summary": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
-    "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 13:34:17 GMT",
-    "collected_at": "2026-09-10T22:49:48.031490+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Alstom to build new battery-electric train fleet",
-    "summary": "The government says the work will support thousands of jobs across the UK.",
-    "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 21:00:33 GMT",
-    "collected_at": "2026-09-10T22:49:48.031484+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-    "summary": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-    "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 17:38:31 GMT",
-    "collected_at": "2026-09-10T22:49:48.031465+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
-    "source": "NPR Economy",
-    "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
-    "summary": "Will artificial intelligence nibble around the edges of the economy or upend it altogether? A new, interactive model from Anthropic lets people tests their assumptions.",
-    "link": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
-    "published": "Wed, 09 Sep 2026 09:34:48 -0400",
-    "collected_at": "2026-09-09T22:48:30.986819+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "I'm 27 and I've already written my will - here's why",
-    "summary": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
-    "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 08 Sep 2026 23:04:17 GMT",
-    "collected_at": "2026-09-09T22:48:30.716953+00:00"
   }
 ]
