@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/24/nx-s1-6013402/ai-panic-and-market-volatility-are-the-stock-markets-big-gains-unsustainable",
+    "source": "NPR Economy",
+    "title": "AI panic and market volatility: Are the stock market's big gains unsustainable?",
+    "summary": "Stock markets are being hit by intense periods of volatility that are raising concerns about whether the big gains seen over the past four years can be sustained. Fears about AI are a big reason.",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6013402/ai-panic-and-market-volatility-are-the-stock-markets-big-gains-unsustainable",
+    "published": "Sat, 24 Oct 2026 07:42:12 -0400",
+    "collected_at": "2026-10-24T22:46:01.649191+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+    "source": "NPR Economy",
+    "title": "Trade tariffs cause whiplash at Port Milwaukee",
+    "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+    "published": "Sat, 24 Oct 2026 17:20:55 -0400",
+    "collected_at": "2026-10-24T22:46:01.649176+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+    "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 00:05:45 GMT",
+    "collected_at": "2026-10-24T22:46:01.416021+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How does the UK state pension compare with other countries?",
+    "summary": "Do British pensioners have it better or worse than those in other countries?",
+    "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 24 Oct 2026 00:09:12 GMT",
+    "collected_at": "2026-10-24T22:46:01.416000+00:00"
+  },
+  {
     "id": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
     "source": "NPR Economy",
     "title": "Why Meta is charging to post more hyperlinks",
@@ -2662,41 +2698,5 @@
     "link": "https://www.npr.org/2026/09/11/nx-s1-5964865/fridays-inflation-report-could-help-fed-decide-whether-to-raise-interest-rates",
     "published": "Fri, 11 Sep 2026 04:46:51 -0400",
     "collected_at": "2026-09-11T22:50:42.261312+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
-    "source": "NPR Economy",
-    "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
-    "summary": "Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington's war with Iran disrupts the world's flow of fuel",
-    "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
-    "published": "Fri, 11 Sep 2026 06:04:04 -0400",
-    "collected_at": "2026-09-11T22:50:42.261306+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
-    "source": "NPR Economy",
-    "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
-    "summary": "Why Patagonia might become a new data center hub",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
-    "published": "Fri, 11 Sep 2026 10:16:35 -0400",
-    "collected_at": "2026-09-11T22:50:42.261299+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-    "source": "NPR Economy",
-    "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-    "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
-    "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-    "published": "Fri, 11 Sep 2026 15:39:35 -0400",
-    "collected_at": "2026-09-11T22:50:42.261284+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Can Europe recharge its battery industry?",
-    "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-    "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 10 Sep 2026 23:05:47 GMT",
-    "collected_at": "2026-09-11T22:50:41.893615+00:00"
   }
 ]
