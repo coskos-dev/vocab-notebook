@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+    "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+    "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 23 Oct 2026 23:11:31 GMT",
+    "collected_at": "2026-10-25T22:52:39.453597+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Rosebank: Life on the oil field at the centre of a political storm",
+    "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 07:15:38 GMT",
+    "collected_at": "2026-10-25T22:52:39.453592+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Will a new code end 'rip-off parking charges'?",
+    "summary": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 07:05:30 GMT",
+    "collected_at": "2026-10-25T22:52:39.453587+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Budget to include £1bn for social and affordable housing",
+    "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+    "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 10:03:17 GMT",
+    "collected_at": "2026-10-25T22:52:39.453580+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+    "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 06:00:15 GMT",
+    "collected_at": "2026-10-25T22:52:39.453565+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/24/nx-s1-6013402/ai-panic-and-market-volatility-are-the-stock-markets-big-gains-unsustainable",
     "source": "NPR Economy",
     "title": "AI panic and market volatility: Are the stock market's big gains unsustainable?",
@@ -2653,50 +2698,5 @@
     "link": "https://www.npr.org/2026/09/11/nx-s1-5955502/what-it-takes-to-make-a-new-branded-tomato",
     "published": "Fri, 11 Sep 2026 20:39:10 -0400",
     "collected_at": "2026-09-12T22:40:57.021858+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/11/nx-s1-5966538/cost-of-living-has-gone-up-3-4-in-the-last-year",
-    "source": "NPR Economy",
-    "title": "Cost of living has gone up 3.4% in the last year",
-    "summary": "A new report shows the cost of living in August was up 3.4% from a year ago. Investors think stubborn inflation makes it more likely that the Federal Reserve will raise interest rates next week.",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5966538/cost-of-living-has-gone-up-3-4-in-the-last-year",
-    "published": "Fri, 11 Sep 2026 20:45:21 -0400",
-    "collected_at": "2026-09-12T22:40:57.021852+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/12/nx-s1-5961458/federal-reserve-chairs-historically-over-communicate-whats-next-kevin-warsh-wants-to-say-less",
-    "source": "NPR Economy",
-    "title": "Federal Reserve chairs historically over-communicate what's next. Kevin Warsh wants to say less",
-    "summary": "Fed chairs wield great power and they take great care to signal what they intend to do ahead of time to avoid surprises. Not Kevin Warsh though. He wants to say less, and investors are worried.",
-    "link": "https://www.npr.org/2026/09/12/nx-s1-5961458/federal-reserve-chairs-historically-over-communicate-whats-next-kevin-warsh-wants-to-say-less",
-    "published": "Sat, 12 Sep 2026 08:04:20 -0400",
-    "collected_at": "2026-09-12T22:40:57.021834+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-    "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
-    "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 20:37:29 GMT",
-    "collected_at": "2026-09-12T22:40:56.796450+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-    "source": "NPR Economy",
-    "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
-    "summary": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-    "published": "Fri, 11 Sep 2026 03:32:27 -0400",
-    "collected_at": "2026-09-11T22:50:42.261318+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/11/nx-s1-5964865/fridays-inflation-report-could-help-fed-decide-whether-to-raise-interest-rates",
-    "source": "NPR Economy",
-    "title": "Friday's inflation report could help Fed decide whether to raise interest rates",
-    "summary": "Consumer prices rose 3.4% percent last month from a year ago, the same as it was in July and matching expectations. Gas prices were among the biggest risers.",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5964865/fridays-inflation-report-could-help-fed-decide-whether-to-raise-interest-rates",
-    "published": "Fri, 11 Sep 2026 04:46:51 -0400",
-    "collected_at": "2026-09-11T22:50:42.261312+00:00"
   }
 ]
