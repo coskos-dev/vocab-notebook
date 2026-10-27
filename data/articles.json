@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+    "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+    "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 25 Oct 2026 23:44:34 GMT",
+    "collected_at": "2026-10-27T00:07:06.384430+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+    "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+    "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 26 Oct 2026 00:26:49 GMT",
+    "collected_at": "2026-10-27T00:07:06.384418+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Healey to shield low-income pensioners from income tax in the Budget",
+    "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+    "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 26 Oct 2026 10:28:12 GMT",
+    "collected_at": "2026-10-27T00:07:06.384413+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+    "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+    "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 26 Oct 2026 19:57:23 GMT",
+    "collected_at": "2026-10-27T00:07:06.384409+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+    "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+    "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 26 Oct 2026 16:27:17 GMT",
+    "collected_at": "2026-10-27T00:07:06.384403+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+    "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 26 Oct 2026 22:30:02 GMT",
+    "collected_at": "2026-10-27T00:07:06.384397+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+    "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 27 Oct 2026 00:01:00 GMT",
+    "collected_at": "2026-10-27T00:07:06.384379+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Are California voters about to impose 'world's first' tax on billionaires?",
@@ -2635,68 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 12 Sep 2026 20:50:54 GMT",
     "collected_at": "2026-09-13T22:41:56.231634+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-    "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 13 Sep 2026 19:34:36 GMT",
-    "collected_at": "2026-09-13T22:41:56.231628+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-    "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 12 Sep 2026 21:16:47 GMT",
-    "collected_at": "2026-09-13T22:41:56.231623+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-    "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-    "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 13 Sep 2026 09:05:10 GMT",
-    "collected_at": "2026-09-13T22:41:56.231617+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-    "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-    "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 13 Sep 2026 14:53:40 GMT",
-    "collected_at": "2026-09-13T22:41:56.231611+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'Culture shift' needed in how UK does business, PM urges",
-    "summary": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
-    "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 13 Sep 2026 21:30:21 GMT",
-    "collected_at": "2026-09-13T22:41:56.231593+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/11/nx-s1-5964912/data-centers-growing-footprint-have-a-varying-effect-on-property-values",
-    "source": "NPR Economy",
-    "title": "As data centers spread, not all U.S. housing markets react the same way",
-    "summary": "Realtors around the U.S. are being asked to explain how data centers could affect home values. But a new study shows there is no universal answer.",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5964912/data-centers-growing-footprint-have-a-varying-effect-on-property-values",
-    "published": "Fri, 11 Sep 2026 04:45:46 -0400",
-    "collected_at": "2026-09-12T22:40:57.021884+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/11/nx-s1-5955502/what-it-takes-to-make-a-new-branded-tomato",
-    "source": "NPR Economy",
-    "title": "What it takes to make a new — branded — tomato",
-    "summary": "Why is the grocery store produce aisle filling up with branded fruits and vegetables, like honeycrisp apples and cuties oranges? We watch the effort to make one new — branded — tomato.",
-    "link": "https://www.npr.org/2026/09/11/nx-s1-5955502/what-it-takes-to-make-a-new-branded-tomato",
-    "published": "Fri, 11 Sep 2026 20:39:10 -0400",
-    "collected_at": "2026-09-12T22:40:57.021858+00:00"
   }
 ]
