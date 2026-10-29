@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/28/nx-s1-6017978/fed-expected-to-hold-interest-rates-steady-but-a-hike-is-anticipated-by-years-end",
+    "source": "NPR Economy",
+    "title": "Fed expected to hold interest rates steady but a hike is anticipated by year's end",
+    "summary": "The Federal Reserve is expected to hold its benchmark interest rate steady Wednesday. But investors think a rate hike in December is likely, as the central bank tries to tamp down inflation.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6017978/fed-expected-to-hold-interest-rates-steady-but-a-hike-is-anticipated-by-years-end",
+    "published": "Wed, 28 Oct 2026 04:45:31 -0400",
+    "collected_at": "2026-10-29T00:29:13.478513+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+    "source": "NPR Economy",
+    "title": "Fed holds interest rates steady even as inflation remains stubborn",
+    "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged  — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
+    "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+    "published": "Wed, 28 Oct 2026 14:04:42 -0400",
+    "collected_at": "2026-10-29T00:29:13.478495+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+    "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+    "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 19:15:58 GMT",
+    "collected_at": "2026-10-29T00:29:13.106016+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+    "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 19:51:01 GMT",
+    "collected_at": "2026-10-29T00:29:13.106008+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+    "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 29 Oct 2026 00:00:15 GMT",
+    "collected_at": "2026-10-29T00:29:13.106004+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Your pay, energy bills and savings: How the Budget affects you",
+    "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 16:43:35 GMT",
+    "collected_at": "2026-10-29T00:29:13.105999+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "What the Budget offers for under 25s - and what it leaves out",
+    "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+    "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 20:02:38 GMT",
+    "collected_at": "2026-10-29T00:29:13.105995+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "What we now know about the UK economy in four charts",
+    "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+    "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 20:08:45 GMT",
+    "collected_at": "2026-10-29T00:29:13.105990+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+    "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 28 Oct 2026 18:45:09 GMT",
+    "collected_at": "2026-10-29T00:29:13.105984+00:00"
+  },
+  {
     "id": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
     "source": "NPR Economy",
     "title": "How Aldi is pushing down grocery prices",
@@ -2617,86 +2698,5 @@
     "link": "https://www.npr.org/2026/09/15/nx-s1-5968648/census-poverty-income-health-insurance-report",
     "published": "Tue, 15 Sep 2026 14:29:49 -0400",
     "collected_at": "2026-09-15T23:14:57.998607+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/15/nx-s1-5969793/cbo-says-iran-war-diving-up-inflation-puts-price-tag-at-38-billion",
-    "source": "NPR Economy",
-    "title": "CBO says Iran war diving up inflation, puts price tag at $38 billion",
-    "summary": "Two new, independent reports show detailed looks at the costs of the war in Iran. It's led to shortages in U.S. weapons, supply chain bottlenecks, and a price tag in the tens of billions of dollars.",
-    "link": "https://www.npr.org/2026/09/15/nx-s1-5969793/cbo-says-iran-war-diving-up-inflation-puts-price-tag-at-38-billion",
-    "published": "Tue, 15 Sep 2026 16:08:21 -0400",
-    "collected_at": "2026-09-15T23:14:57.998593+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-    "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-    "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 02:50:36 GMT",
-    "collected_at": "2026-09-15T23:14:57.490594+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-    "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-    "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 08:49:31 GMT",
-    "collected_at": "2026-09-15T23:14:57.490581+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-    "summary": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
-    "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 11:05:42 GMT",
-    "collected_at": "2026-09-15T23:14:57.490577+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "US borrowing costs hit highest level since 2007",
-    "summary": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
-    "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 19:35:10 GMT",
-    "collected_at": "2026-09-15T23:14:57.490571+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
-    "summary": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 15 Sep 2026 22:13:10 GMT",
-    "collected_at": "2026-09-15T23:14:57.490550+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/14/nx-s1-5966596/chief-economist-discusses-the-effect-of-the-iran-war-on-the-global-economy",
-    "source": "NPR Economy",
-    "title": "Chief economist discusses the effect of the Iran war on the global economy",
-    "summary": "NPR's Leila Fadel asks KPMG chief economist Diane Swonk about the pressure the ongoing conflict in the Gulf is putting on the global economy.",
-    "link": "https://www.npr.org/2026/09/14/nx-s1-5966596/chief-economist-discusses-the-effect-of-the-iran-war-on-the-global-economy",
-    "published": "Mon, 14 Sep 2026 04:41:58 -0400",
-    "collected_at": "2026-09-14T23:32:59.051781+00:00"
-  },
-  {
-    "id": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
-    "source": "NPR Economy",
-    "title": "The powerful millionaires hiding in plain sight",
-    "summary": "They own car dealerships, law firms, dental practices, and restaurant chains. Collectively, these overlooked business owners hold far more wealth than the Forbes 400 — and wield considerable political power.",
-    "link": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
-    "published": "Mon, 14 Sep 2026 06:30:00 -0400",
-    "collected_at": "2026-09-14T23:32:59.051768+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Rent rises set to speed up in gloomy forecast for tenants",
-    "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 13 Sep 2026 23:05:45 GMT",
-    "collected_at": "2026-09-14T23:32:58.710144+00:00"
   }
 ]
