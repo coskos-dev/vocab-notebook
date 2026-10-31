@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+    "source": "NPR Economy",
+    "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+    "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites.",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+    "published": "Sat, 31 Oct 2026 05:00:00 -0400",
+    "collected_at": "2026-10-31T23:49:26.684621+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+    "source": "NPR Economy",
+    "title": "Mixed economic forecast weighs heavy ahead of midterms",
+    "summary": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices.  For now at least, interest rates are staying the same.  What does that mean for the midterm elections?",
+    "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+    "published": "Sat, 31 Oct 2026 17:14:35 -0400",
+    "collected_at": "2026-10-31T23:49:26.684590+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/27/nx-s1-6015161/michigan-midterm-elections-trump-tariffs-canadian-steel",
     "source": "NPR Economy",
     "title": "Trump's tariffs are costing this Michigan couple. They still hope they'll pay off",
@@ -2680,23 +2698,5 @@
     "link": "https://www.npr.org/2026/09/17/nx-s1-5971226/the-federal-reserve-raises-interest-rates-by-a-quarter-percentage-point",
     "published": "Thu, 17 Sep 2026 06:45:30 -0400",
     "collected_at": "2026-09-17T23:11:07.237206+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-    "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 08:22:12 GMT",
-    "collected_at": "2026-09-17T23:11:06.736129+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
-    "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler.",
-    "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 17 Sep 2026 16:59:43 GMT",
-    "collected_at": "2026-09-17T23:11:06.736121+00:00"
   }
 ]
