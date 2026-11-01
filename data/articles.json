@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+    "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+    "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 13:11:37 GMT",
+    "collected_at": "2026-11-01T23:59:35.865432+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+    "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 00:17:05 GMT",
+    "collected_at": "2026-11-01T23:59:35.865426+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Thousands of jobs at Virgin Media O2 to be cut",
+    "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 16:57:14 GMT",
+    "collected_at": "2026-11-01T23:59:35.865420+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Don't get caught out by new Buy Now Pay Later rules",
+    "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+    "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 01 Nov 2026 23:34:49 GMT",
+    "collected_at": "2026-11-01T23:59:35.865398+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
     "source": "NPR Economy",
     "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
@@ -2662,41 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 18 Sep 2026 17:10:58 GMT",
     "collected_at": "2026-09-18T22:53:46.163846+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Flight chaos caused by 'millisecond' software defect, report says",
-    "summary": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-    "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 15:48:58 GMT",
-    "collected_at": "2026-09-18T22:53:46.163839+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-    "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 18 Sep 2026 17:57:30 GMT",
-    "collected_at": "2026-09-18T22:53:46.163821+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/17/nx-s1-5971197/economist-explains-the-feds-decision-to-raise-interest-rates",
-    "source": "NPR Economy",
-    "title": "Economist explains the Fed's decision to raise interest rates",
-    "summary": "NPR's A Martinez speaks with economist Claudia Sahm about why the Federal Reserve chose to raise interest rates after months of keeping them steady.",
-    "link": "https://www.npr.org/2026/09/17/nx-s1-5971197/economist-explains-the-feds-decision-to-raise-interest-rates",
-    "published": "Thu, 17 Sep 2026 06:44:23 -0400",
-    "collected_at": "2026-09-17T23:11:07.237220+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/17/nx-s1-5971226/the-federal-reserve-raises-interest-rates-by-a-quarter-percentage-point",
-    "source": "NPR Economy",
-    "title": "The Federal Reserve raises interest rates by a quarter percentage point",
-    "summary": "The Federal Reserve raised interest rates for the first time in more than three years Wednesday.",
-    "link": "https://www.npr.org/2026/09/17/nx-s1-5971226/the-federal-reserve-raises-interest-rates-by-a-quarter-percentage-point",
-    "published": "Thu, 17 Sep 2026 06:45:30 -0400",
-    "collected_at": "2026-09-17T23:11:07.237206+00:00"
   }
 ]
