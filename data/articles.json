@@ -1,5 +1,113 @@
 [
   {
+    "id": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
+    "source": "NPR Economy",
+    "title": "As budgets tighten, people are breaking out their library cards",
+    "summary": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
+    "published": "Thu, 05 Nov 2026 05:00:00 -0500",
+    "collected_at": "2026-11-06T01:14:02.177751+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+    "source": "NPR Economy",
+    "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+    "summary": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+    "published": "Thu, 05 Nov 2026 10:00:00 -0500",
+    "collected_at": "2026-11-06T01:14:02.177746+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/11/05/nx-s1-6029335/voters-are-fed-up-with-high-prices-heres-what-the-new-congress-could-do-to-help",
+    "source": "NPR Economy",
+    "title": "Voters are fed up with high prices. Here's what the new Congress could do to help",
+    "summary": "Democrats achieved stunning midterm victories. The party will take control of Congress next year. What does it mean for the economy?",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6029335/voters-are-fed-up-with-high-prices-heres-what-the-new-congress-could-do-to-help",
+    "published": "Thu, 05 Nov 2026 18:06:15 -0500",
+    "collected_at": "2026-11-06T01:14:02.177740+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/11/05/nx-s1-6030828/ai-shares-sink-after-blue-wave",
+    "source": "NPR Economy",
+    "title": "AI shares sink after blue wave",
+    "summary": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress -- and states across the country -- would crack down on AI data centers.",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6030828/ai-shares-sink-after-blue-wave",
+    "published": "Thu, 05 Nov 2026 18:06:25 -0500",
+    "collected_at": "2026-11-06T01:14:02.177734+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/11/05/nx-s1-6026480/with-stubbornly-high-interest-rates-some-are-reconsidering-adjustable-rate-mortgages",
+    "source": "NPR Economy",
+    "title": "With stubbornly high interest rates, some are reconsidering adjustable-rate mortgages",
+    "summary": "With the rates for 30-year fixed-rate mortgages at 7% or more, is it time to reconsider the far less popular adjustable-rate mortgage? New analysis shows that ARMs have paid off for borrowers.",
+    "link": "https://www.npr.org/2026/11/05/nx-s1-6026480/with-stubbornly-high-interest-rates-some-are-reconsidering-adjustable-rate-mortgages",
+    "published": "Thu, 05 Nov 2026 18:09:10 -0500",
+    "collected_at": "2026-11-06T01:14:02.177719+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+    "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+    "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 15:27:09 GMT",
+    "collected_at": "2026-11-06T01:14:02.111043+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Three ways the interest rate rise could affect you",
+    "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+    "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 13:08:30 GMT",
+    "collected_at": "2026-11-06T01:14:02.111035+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The engine parts that 'fight the laws of the universe'",
+    "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 00:06:06 GMT",
+    "collected_at": "2026-11-06T01:14:02.111030+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Faisal Islam: How high will interest rates go?",
+    "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 13:17:10 GMT",
+    "collected_at": "2026-11-06T01:14:02.111025+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+    "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+    "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 00:02:52 GMT",
+    "collected_at": "2026-11-06T01:14:02.111015+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Firms told to publish salaries in job adverts ahead of new law",
+    "summary": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 05 Nov 2026 22:32:02 GMT",
+    "collected_at": "2026-11-06T01:14:02.111009+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+    "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 06 Nov 2026 01:02:17 GMT",
+    "collected_at": "2026-11-06T01:14:02.110990+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Australia's oldest department store David Jones collapses after 188 years",
@@ -2590,113 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
     "published": "Tue, 22 Sep 2026 08:52:12 GMT",
     "collected_at": "2026-09-22T23:20:42.376052+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'We screwed up': Doordash admits underpaying New York workers",
-    "summary": "The food delivery giant will pay a $131.5m settlement following a city probe into wage violations.",
-    "link": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 16:50:24 GMT",
-    "collected_at": "2026-09-22T23:20:42.376043+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Will a switch to light speed cut power use at data centres?",
-    "summary": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
-    "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 23:03:48 GMT",
-    "collected_at": "2026-09-22T23:20:42.376038+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "New EU industry rules would damage UK, warns Burnham",
-    "summary": "The prime minister met the European Commission President during his visit to the United Nations General Assembly.",
-    "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 21:18:40 GMT",
-    "collected_at": "2026-09-22T23:20:42.376033+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-    "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 15:43:14 GMT",
-    "collected_at": "2026-09-22T23:20:42.376027+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump says he would back ban on diesel exports",
-    "summary": "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
-    "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 20:41:13 GMT",
-    "collected_at": "2026-09-22T23:20:42.376021+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
-    "summary": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
-    "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 23:01:28 GMT",
-    "collected_at": "2026-09-22T23:20:42.376015+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 22 Sep 2026 23:11:33 GMT",
-    "collected_at": "2026-09-22T23:20:42.375997+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
-    "source": "NPR Economy",
-    "title": "How a national farm leader is dealing with record diesel prices",
-    "summary": "John Boyd Jr., president of the National Black Farmers Association, says soaring diesel costs are deepening a farm crisis as farmers face sharply higher fuel costs in the middle of harvest season.",
-    "link": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
-    "published": "Mon, 21 Sep 2026 04:40:54 -0400",
-    "collected_at": "2026-09-21T23:42:12.766470+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
-    "source": "NPR Economy",
-    "title": "This farm raised thousands of pigs for slaughter. Now it's growing mushrooms instead",
-    "summary": "The U.S. gets nearly a third of its pork from Iowa. One family is making the switch from pigs to more sustainable specialty mushrooms and trying to show other pig farmers how they did it.",
-    "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
-    "published": "Mon, 21 Sep 2026 05:00:00 -0400",
-    "collected_at": "2026-09-21T23:42:12.766458+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-    "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 04:00:38 GMT",
-    "collected_at": "2026-09-21T23:42:12.590267+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-    "summary": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-    "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 20:21:18 GMT",
-    "collected_at": "2026-09-21T23:42:12.590259+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Flights at major US airports delayed after cable cut by construction workers",
-    "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-    "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 21 Sep 2026 23:25:28 GMT",
-    "collected_at": "2026-09-21T23:42:12.590256+00:00"
   }
 ]
