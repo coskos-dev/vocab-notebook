@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.npr.org/2026/11/07/nx-s1-6030646/can-congress-fix-affordability-mits-daron-acemoglu-weighs-in",
+    "source": "NPR Economy",
+    "title": "Can Congress fix affordability? MIT's Daron Acemoglu weighs in",
+    "summary": "NPR's Scott Simon asks MIT economics professor Daron Acemoglu what, if anything, the coming Democratic majority in Congress can do about affordability. AI could be a big part of the equation.",
+    "link": "https://www.npr.org/2026/11/07/nx-s1-6030646/can-congress-fix-affordability-mits-daron-acemoglu-weighs-in",
+    "published": "Sat, 07 Nov 2026 07:41:05 -0500",
+    "collected_at": "2026-11-08T00:03:27.349707+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/11/06/nx-s1-6030881/economist-on-the-midterm-results-and-the-u-s-economy",
     "source": "NPR Economy",
     "title": "Economist on the midterm results and the U.S. economy",
@@ -2689,14 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 24 Sep 2026 23:00:45 GMT",
     "collected_at": "2026-09-24T23:36:47.013133+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
-    "source": "NPR Economy",
-    "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
-    "summary": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time.",
-    "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
-    "published": "Wed, 23 Sep 2026 10:09:10 -0400",
-    "collected_at": "2026-09-23T23:15:47.074368+00:00"
   }
 ]
