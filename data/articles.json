@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.npr.org/2026/11/09/nx-s1-6032701/economist-discusses-taxing-the-ultra-wealthy-and-their-impact-on-the-economy",
+    "source": "NPR Economy",
+    "title": "Economist discusses taxing the ultra wealthy and their impact on the economy",
+    "summary": "NPR's Steve Inskeep speaks with economist and wealth tax expert Gabriel Zucman about millionaire and billionaire taxes and their impact on the economy.",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6032701/economist-discusses-taxing-the-ultra-wealthy-and-their-impact-on-the-economy",
+    "published": "Mon, 09 Nov 2026 04:43:14 -0500",
+    "collected_at": "2026-11-10T03:01:17.227608+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 23:51:22 GMT",
+    "collected_at": "2026-11-10T03:01:16.999401+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+    "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+    "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 01:55:22 GMT",
+    "collected_at": "2026-11-10T03:01:16.999395+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Poundland unable to buy new stock as fears over collapse grow",
+    "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 16:46:40 GMT",
+    "collected_at": "2026-11-10T03:01:16.999391+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How a civil servant got away with juggling five jobs for so long",
+    "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+    "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 18:40:31 GMT",
+    "collected_at": "2026-11-10T03:01:16.999387+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Civil servant who secretly held five jobs found guilty of fraud",
+    "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+    "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 17:17:16 GMT",
+    "collected_at": "2026-11-10T03:01:16.999383+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+    "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 21:52:28 GMT",
+    "collected_at": "2026-11-10T03:01:16.999379+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+    "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 09 Nov 2026 19:58:01 GMT",
+    "collected_at": "2026-11-10T03:01:16.999373+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 10 Nov 2026 01:44:53 GMT",
+    "collected_at": "2026-11-10T03:01:16.999356+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "He spent $50,000 on Labubus but now the craze is dying",
@@ -2617,86 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
     "published": "Sat, 26 Sep 2026 10:05:36 GMT",
     "collected_at": "2026-09-26T23:13:04.773530+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "OpenAI bots meddled with multiple US government agency sites",
-    "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 26 Sep 2026 02:50:56 GMT",
-    "collected_at": "2026-09-26T23:13:04.773514+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
-    "source": "NPR Economy",
-    "title": "American farmers are hurting -- and worried about their futures",
-    "summary": "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
-    "link": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
-    "published": "Fri, 25 Sep 2026 05:00:00 -0400",
-    "collected_at": "2026-09-25T23:40:06.310342+00:00"
-  },
-  {
-    "id": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
-    "source": "NPR Economy",
-    "title": "Why this Pokémon set is dropping in value",
-    "summary": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
-    "link": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
-    "published": "Fri, 25 Sep 2026 07:00:00 -0400",
-    "collected_at": "2026-09-25T23:40:06.310333+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Farmers down 240 million litres of milk after heat",
-    "summary": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-    "link": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 05:30:13 GMT",
-    "collected_at": "2026-09-25T23:40:06.144676+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Special agents' blood and urine test results stolen in FBI hack",
-    "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 13:56:16 GMT",
-    "collected_at": "2026-09-25T23:40:06.144664+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-    "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 09:48:33 GMT",
-    "collected_at": "2026-09-25T23:40:06.144658+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Man City found guilty of breaking financial rules",
-    "summary": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 20:11:12 GMT",
-    "collected_at": "2026-09-25T23:40:06.144654+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-    "summary": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
-    "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 25 Sep 2026 16:00:44 GMT",
-    "collected_at": "2026-09-25T23:40:06.144640+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/24/nx-s1-5978716/farmers-face-big-expenses-and-an-uncertain-bottom-line-during-fall-harvest-season",
-    "source": "NPR Economy",
-    "title": "Farmers face big expenses and an uncertain bottom line during fall harvest season",
-    "summary": "As the fall harvest gets underway, many farmers are in the red. While crop prices have improved somewhat since last year, operating costs have increased, led by record high diesel prices.",
-    "link": "https://www.npr.org/2026/09/24/nx-s1-5978716/farmers-face-big-expenses-and-an-uncertain-bottom-line-during-fall-harvest-season",
-    "published": "Thu, 24 Sep 2026 04:45:32 -0400",
-    "collected_at": "2026-09-24T23:36:47.255716+00:00"
   }
 ]
