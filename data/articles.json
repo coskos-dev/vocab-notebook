@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+    "source": "NPR Economy",
+    "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+    "summary": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+    "published": "Thu, 12 Nov 2026 13:44:00 -0500",
+    "collected_at": "2026-11-13T01:33:21.244773+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK economy grows at fastest rate for more than two years",
+    "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 11:20:25 GMT",
+    "collected_at": "2026-11-13T01:33:21.176334+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "summary": "The UK is seeing impressive growth, but will it last?",
+    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 13:27:09 GMT",
+    "collected_at": "2026-11-13T01:33:21.176331+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+    "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 15:10:32 GMT",
+    "collected_at": "2026-11-13T01:33:21.176327+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+    "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 00:13:35 GMT",
+    "collected_at": "2026-11-13T01:33:21.176324+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "summary": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 20:25:29 GMT",
+    "collected_at": "2026-11-13T01:33:21.176320+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+    "collected_at": "2026-11-13T01:33:21.176300+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
     "source": "NPR Economy",
     "title": "Why is gasoline suddenly under $4 a gallon?",
@@ -2635,68 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
     "published": "Tue, 29 Sep 2026 23:06:50 GMT",
     "collected_at": "2026-09-29T23:59:06.138433+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Chinese AI tool told researchers how to make bioweapons",
-    "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-    "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 23:15:29 GMT",
-    "collected_at": "2026-09-29T23:59:06.138428+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Huel ad banned for suggesting its products could replace all conventional food",
-    "summary": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
-    "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 23:06:06 GMT",
-    "collected_at": "2026-09-29T23:59:06.138423+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'I like proving people wrong': The women taking up DIY and plumbing",
-    "summary": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-    "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 23:06:14 GMT",
-    "collected_at": "2026-09-29T23:59:06.138417+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
-    "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that.",
-    "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 16:43:39 GMT",
-    "collected_at": "2026-09-29T23:59:06.138410+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Household energy bills forecast to see biggest rise in four years",
-    "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 23:03:13 GMT",
-    "collected_at": "2026-09-29T23:59:06.138392+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/09/28/nx-s1-5978908/the-poverty-rate-among-older-americans-is-rising-survey-shows",
-    "source": "NPR Economy",
-    "title": "The poverty rate among older Americans is rising, survey shows",
-    "summary": "Bucking the national trend, poverty has been steadily rising among seniors and older adults. A new survey sheds light on how low-income people are struggling in the crucial years before retirement.",
-    "link": "https://www.npr.org/2026/09/28/nx-s1-5978908/the-poverty-rate-among-older-americans-is-rising-survey-shows",
-    "published": "Mon, 28 Sep 2026 18:21:04 -0400",
-    "collected_at": "2026-09-29T00:41:20.810476+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "What is the Budget and what could be in it?",
-    "summary": "Chancellor John Healey will set out his plans for UK taxes in October.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 28 Sep 2026 17:14:16 GMT",
-    "collected_at": "2026-09-29T00:41:20.449687+00:00"
   }
 ]
