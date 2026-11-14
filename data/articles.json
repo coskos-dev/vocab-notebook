@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+    "source": "NPR Economy",
+    "title": "Does Europe regret its bet on U.S. defense?",
+    "summary": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+    "published": "Fri, 13 Nov 2026 11:17:43 -0500",
+    "collected_at": "2026-11-14T01:06:00.025958+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 01:17:58 GMT",
+    "collected_at": "2026-11-14T01:05:59.799693+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Heat pumps: How much heat does your home really need?",
+    "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 09:29:25 GMT",
+    "collected_at": "2026-11-14T01:05:59.799681+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+    "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 19:53:57 GMT",
+    "collected_at": "2026-11-14T01:05:59.799673+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 12:22:30 GMT",
+    "collected_at": "2026-11-14T01:05:59.799668+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+    "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 18:36:57 GMT",
+    "collected_at": "2026-11-14T01:05:59.799662+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 21:14:22 GMT",
+    "collected_at": "2026-11-14T01:05:59.799644+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
     "source": "NPR Economy",
     "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
@@ -2635,68 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 30 Sep 2026 23:02:21 GMT",
     "collected_at": "2026-10-01T00:13:35.235121+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Greggs to shut four factories and cut 740 jobs",
-    "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 30 Sep 2026 15:03:22 GMT",
-    "collected_at": "2026-10-01T00:13:35.235116+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Regulating AI 'not the right place to start' says Bailey",
-    "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-    "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 30 Sep 2026 14:00:33 GMT",
-    "collected_at": "2026-10-01T00:13:35.235110+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Energy bills are going up - here's what you can do about it",
-    "summary": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
-    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 30 Sep 2026 23:01:32 GMT",
-    "collected_at": "2026-10-01T00:13:35.235098+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Vape prices to rise as new tax takes effect",
-    "summary": "Vaping is about to becoming more expensive due to a new tax on products.",
-    "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 30 Sep 2026 23:02:11 GMT",
-    "collected_at": "2026-10-01T00:13:35.235080+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-    "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 23:47:10 GMT",
-    "collected_at": "2026-09-29T23:59:06.138446+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Soho House venue under investigation for food safety",
-    "summary": "A former chef contacted Hackney Council after complaining to managers at the members' club.",
-    "link": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 19:10:06 GMT",
-    "collected_at": "2026-09-29T23:59:06.138438+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The start-ups hoping to return battery making to the US",
-    "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 29 Sep 2026 23:06:50 GMT",
-    "collected_at": "2026-09-29T23:59:06.138433+00:00"
   }
 ]
