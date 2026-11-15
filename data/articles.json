@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 13 Nov 2026 23:00:31 GMT",
+    "collected_at": "2026-11-15T00:27:50.114455+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+    "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+    "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 00:01:07 GMT",
+    "collected_at": "2026-11-15T00:27:50.114435+00:00"
+  },
+  {
     "id": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
     "source": "NPR Economy",
     "title": "Does Europe regret its bet on U.S. defense?",
@@ -2680,23 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 01 Oct 2026 22:21:16 GMT",
     "collected_at": "2026-10-02T00:17:08.078314+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-    "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-    "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 30 Sep 2026 04:01:52 GMT",
-    "collected_at": "2026-10-01T00:13:35.235127+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The AI telling farmers when to harvest",
-    "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-    "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 30 Sep 2026 23:02:21 GMT",
-    "collected_at": "2026-10-01T00:13:35.235121+00:00"
   }
 ]
