@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Minister backs legal right to job support for young people",
+    "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+    "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 13:06:15 GMT",
+    "collected_at": "2026-11-16T00:29:31.169387+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 22:24:20 GMT",
+    "collected_at": "2026-11-16T00:29:31.169381+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+    "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 22:30:03 GMT",
+    "collected_at": "2026-11-16T00:29:31.169375+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+    "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 15 Nov 2026 22:00:24 GMT",
+    "collected_at": "2026-11-16T00:29:31.169355+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
@@ -2662,41 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 01 Oct 2026 18:38:22 GMT",
     "collected_at": "2026-10-02T00:17:08.078353+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "HMRC urged to scrutinise tax implications of Man City case",
-    "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 18:21:22 GMT",
-    "collected_at": "2026-10-02T00:17:08.078347+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-    "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-    "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 23:32:59 GMT",
-    "collected_at": "2026-10-02T00:17:08.078341+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-    "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-    "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 23:00:06 GMT",
-    "collected_at": "2026-10-02T00:17:08.078335+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
-    "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 01 Oct 2026 22:21:16 GMT",
-    "collected_at": "2026-10-02T00:17:08.078314+00:00"
   }
 ]
