@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+    "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+    "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 23:47:46 GMT",
+    "collected_at": "2026-11-19T02:05:25.149061+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 23:01:09 GMT",
+    "collected_at": "2026-11-19T02:05:25.149055+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 19 Nov 2026 00:00:59 GMT",
+    "collected_at": "2026-11-19T02:05:25.149049+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+    "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 19 Nov 2026 01:56:28 GMT",
+    "collected_at": "2026-11-19T02:05:25.149046+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The seven Anthropic founders who are about to become multi-billionaires",
+    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 23:42:07 GMT",
+    "collected_at": "2026-11-19T02:05:25.149042+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+    "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 21:28:08 GMT",
+    "collected_at": "2026-11-19T02:05:25.149038+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+    "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 18 Nov 2026 23:44:27 GMT",
+    "collected_at": "2026-11-19T02:05:25.149015+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
     "source": "NPR Economy",
     "title": "She went to college to become a social worker. Now she's joined the skilled trades",
@@ -2635,68 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 05 Oct 2026 23:13:11 GMT",
     "collected_at": "2026-10-06T01:34:41.658527+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-    "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-    "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 16:13:21 GMT",
-    "collected_at": "2026-10-06T01:34:41.658521+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Average five-year mortgage rate hits 6% for first time in three years",
-    "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-    "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 09:54:57 GMT",
-    "collected_at": "2026-10-06T01:34:41.658514+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
-    "summary": "A growing number of parents are opening retirement funds for their children.",
-    "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 05 Oct 2026 23:00:41 GMT",
-    "collected_at": "2026-10-06T01:34:41.658496+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "The job interview question you don't have to answer",
-    "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
-    "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 04 Oct 2026 23:22:07 GMT",
-    "collected_at": "2026-10-04T23:39:51.926651+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-    "source": "NPR Economy",
-    "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-    "summary": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.<br />",
-    "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-    "published": "Sat, 03 Oct 2026 07:47:09 -0400",
-    "collected_at": "2026-10-03T23:24:57.027942+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Suppliers pile pressure on government over energy bills",
-    "summary": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-    "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 03 Oct 2026 08:58:44 GMT",
-    "collected_at": "2026-10-03T23:24:56.935466+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/10/02/nx-s1-5987794/economist-discusses-high-bond-yields-and-the-september-jobs-report",
-    "source": "NPR Economy",
-    "title": "Economist discusses high bond yields and the September jobs report",
-    "summary": "NPR's Michel Martin speaks to Mark Zandi, chief economist at Moody's Analytics, about high bond yields and the September jobs report.",
-    "link": "https://www.npr.org/2026/10/02/nx-s1-5987794/economist-discusses-high-bond-yields-and-the-september-jobs-report",
-    "published": "Fri, 02 Oct 2026 06:46:57 -0400",
-    "collected_at": "2026-10-03T00:02:32.999267+00:00"
   }
 ]
