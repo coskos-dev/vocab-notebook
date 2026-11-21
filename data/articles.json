@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
+    "source": "NPR Economy",
+    "title": "Just how vulnerable are we to cyberattacks?",
+    "summary": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
+    "published": "Fri, 20 Nov 2026 07:00:00 -0500",
+    "collected_at": "2026-11-21T01:50:56.212281+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 09:44:56 GMT",
+    "collected_at": "2026-11-21T01:50:55.880577+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Should AI be judging our credit worthiness?",
+    "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+    "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 07:32:19 GMT",
+    "collected_at": "2026-11-21T01:50:55.880572+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+    "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 22:53:24 GMT",
+    "collected_at": "2026-11-21T01:50:55.880567+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 20:54:12 GMT",
+    "collected_at": "2026-11-21T01:50:55.880561+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+    "collected_at": "2026-11-21T01:50:55.880556+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+    "collected_at": "2026-11-21T01:50:55.880549+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+    "collected_at": "2026-11-21T01:50:55.880529+00:00"
+  },
+  {
     "id": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Business",
     "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
@@ -2626,77 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
     "published": "Wed, 07 Oct 2026 23:01:30 GMT",
     "collected_at": "2026-10-08T00:30:52.804699+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-    "summary": "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
-    "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 07 Oct 2026 23:00:55 GMT",
-    "collected_at": "2026-10-08T00:30:52.804680+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-    "source": "NPR Economy",
-    "title": "What voters in 6 key states could tell us about the 2026 midterms",
-    "summary": "<em>Morning Edition</em> is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
-    "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-    "published": "Tue, 06 Oct 2026 07:00:00 -0400",
-    "collected_at": "2026-10-07T00:12:40.059891+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-    "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-    "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 18:42:58 GMT",
-    "collected_at": "2026-10-07T00:12:39.788299+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Amazon wins global rights to stream Emmys in six-year deal",
-    "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming.",
-    "link": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 19:08:21 GMT",
-    "collected_at": "2026-10-07T00:12:39.788291+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "What can I do to protect myself after 'Asos hacked' message?",
-    "summary": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 19:17:23 GMT",
-    "collected_at": "2026-10-07T00:12:39.788285+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-    "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-    "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 17:50:19 GMT",
-    "collected_at": "2026-10-07T00:12:39.788280+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-    "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
-    "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 23:01:22 GMT",
-    "collected_at": "2026-10-07T00:12:39.788274+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Froyo's made a comeback. But at £12 a tub will it last?",
-    "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
-    "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 06 Oct 2026 23:01:31 GMT",
-    "collected_at": "2026-10-07T00:12:39.788268+00:00"
   }
 ]
