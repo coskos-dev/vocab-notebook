@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://www.npr.org/2026/11/23/nx-s1-6048624/ai-is-making-it-hard-for-young-people-to-find-work-report-says",
+    "source": "NPR Economy",
+    "title": "AI is making it hard for young people to find work, report says",
+    "summary": "NPR's Steve Inskeep speaks with Matt Sigelman, president of the Burning Glass Institute, about a new report indicating that AI is already squeezing the job market for young jobseekers.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6048624/ai-is-making-it-hard-for-young-people-to-find-work-report-says",
+    "published": "Mon, 23 Nov 2026 04:42:40 -0500",
+    "collected_at": "2026-11-24T05:02:32.740923+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/11/23/nx-s1-6048611/chief-economist-for-moodys-analytics-on-why-anthropics-ipo-caused-market-volatility",
+    "source": "NPR Economy",
+    "title": "Chief economist for Moody's Analytics on why Anthropic's IPO caused market volatility",
+    "summary": "NPR's Michel Martin speaks with Mark Zandi, chief economist for Moody's Analytics, about Anthropic's Wall Street debut and why it seems to have triggered recent market volatility.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6048611/chief-economist-for-moodys-analytics-on-why-anthropics-ipo-caused-market-volatility",
+    "published": "Mon, 23 Nov 2026 06:46:24 -0500",
+    "collected_at": "2026-11-24T05:02:32.740919+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/11/23/nx-s1-6048690/from-wall-street-to-main-street-how-artificial-intelligence-is-affecting-the-economy",
+    "source": "NPR Economy",
+    "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
+    "summary": "Artificial intelligence is sending shock waves through the stock market, as investors try to predict how their big bets will pay off.  Meanwhile some real businesses are putting AI to work, with mixed results.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6048690/from-wall-street-to-main-street-how-artificial-intelligence-is-affecting-the-economy",
+    "published": "Mon, 23 Nov 2026 06:46:29 -0500",
+    "collected_at": "2026-11-24T05:02:32.740908+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Next data accessed in cyber breach",
+    "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 23 Nov 2026 12:34:07 GMT",
+    "collected_at": "2026-11-24T05:02:32.558875+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+    "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+    "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 23 Nov 2026 11:24:37 GMT",
+    "collected_at": "2026-11-24T05:02:32.558870+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+    "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+    "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 24 Nov 2026 00:01:04 GMT",
+    "collected_at": "2026-11-24T05:02:32.558867+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "The rise and fall and rise again of Jensen Huang",
+    "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 23 Nov 2026 15:49:52 GMT",
+    "collected_at": "2026-11-24T05:02:32.558864+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "How important are Nvidia and Jensen Huang to the US economy?",
+    "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+    "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 23 Nov 2026 16:12:35 GMT",
+    "collected_at": "2026-11-24T05:02:32.558861+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+    "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 23 Nov 2026 21:23:42 GMT",
+    "collected_at": "2026-11-24T05:02:32.558858+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+    "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 23 Nov 2026 17:11:58 GMT",
+    "collected_at": "2026-11-24T05:02:32.558854+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 24 Nov 2026 04:36:31 GMT",
+    "collected_at": "2026-11-24T05:02:32.558841+00:00"
+  },
+  {
     "id": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
     "source": "NPR Economy",
     "title": "He expected a small-business loan. He got a 7-year nightmare",
@@ -2599,104 +2698,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
     "published": "Fri, 09 Oct 2026 12:34:27 GMT",
     "collected_at": "2026-10-10T00:22:16.872451+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-    "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
-    "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 14:36:35 GMT",
-    "collected_at": "2026-10-10T00:22:16.872441+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Burnham promises to curb non-compete rules in job contracts",
-    "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-    "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 16:15:30 GMT",
-    "collected_at": "2026-10-10T00:22:16.872436+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Boots has a new owner: Three ways it could affect you",
-    "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
-    "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 23:01:14 GMT",
-    "collected_at": "2026-10-10T00:22:16.872430+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-    "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 09 Oct 2026 22:30:22 GMT",
-    "collected_at": "2026-10-10T00:22:16.872423+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 10 Oct 2026 00:19:26 GMT",
-    "collected_at": "2026-10-10T00:22:16.872407+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Plans to shut Marston's Brewery in Burton revealed",
-    "summary": "Burton-upon-Trent's links with beer and brewing date back centuries.",
-    "link": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 17:09:16 GMT",
-    "collected_at": "2026-10-09T00:45:28.441637+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Adidas sues Australian label White Fox over four stripes design",
-    "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-    "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 18:17:28 GMT",
-    "collected_at": "2026-10-09T00:45:28.441623+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Why are more roofs not made of solar tiles?",
-    "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-    "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 23:09:56 GMT",
-    "collected_at": "2026-10-09T00:45:28.441613+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Asos hackers took more personal details than first revealed, BBC finds",
-    "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-    "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 16:29:33 GMT",
-    "collected_at": "2026-10-09T00:45:28.441603+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "White House blocks Microsoft from foreign worker hiring program",
-    "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 21:37:35 GMT",
-    "collected_at": "2026-10-09T00:45:28.441592+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
-    "summary": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
-    "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 08 Oct 2026 23:01:16 GMT",
-    "collected_at": "2026-10-09T00:45:28.441581+00:00"
   }
 ]
