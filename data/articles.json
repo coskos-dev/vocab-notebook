@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+    "source": "NPR Economy",
+    "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+    "summary": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+    "published": "Wed, 25 Nov 2026 05:00:00 -0500",
+    "collected_at": "2026-11-26T03:15:22.838172+00:00"
+  },
+  {
+    "id": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
+    "source": "NPR Economy",
+    "title": "Inflation is still hot, fueled in part by the AI boom",
+    "summary": "The U.S. economy grew at a rapid clip during the summer and early fall, due in part to the artificial intelligence boom. That boom is also fueling higher inflation and rattling the stock market.",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
+    "published": "Wed, 25 Nov 2026 17:04:36 -0500",
+    "collected_at": "2026-11-26T03:15:22.838162+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+    "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+    "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 26 Nov 2026 00:01:37 GMT",
+    "collected_at": "2026-11-26T03:15:22.490069+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US stocks fall further as fears over AI intensify",
+    "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 25 Nov 2026 21:43:18 GMT",
+    "collected_at": "2026-11-26T03:15:22.490066+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "US approves SpaceX plan to send a million data satellites to space",
+    "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 26 Nov 2026 00:07:51 GMT",
+    "collected_at": "2026-11-26T03:15:22.490063+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "Poundland collapses putting 11,000 jobs at risk",
+    "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 25 Nov 2026 21:31:10 GMT",
+    "collected_at": "2026-11-26T03:15:22.490054+00:00"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "title": "UK government set to publish new treaties agreed with EU",
+    "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+    "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 26 Nov 2026 02:13:00 GMT",
+    "collected_at": "2026-11-26T03:15:22.490038+00:00"
+  },
+  {
     "id": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
     "source": "NPR Economy",
     "title": "What should it cost to insure a home in wildfire country?",
@@ -2635,68 +2698,5 @@
     "link": "https://www.npr.org/2026/10/12/nx-s1-5998739/two-americans-win-nobel-for-economics",
     "published": "Mon, 12 Oct 2026 17:43:46 -0400",
     "collected_at": "2026-10-13T02:17:31.480369+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Fridges in French supermarkets hit by cyber attack",
-    "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-    "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 12 Oct 2026 18:31:32 GMT",
-    "collected_at": "2026-10-13T02:17:31.124022+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-    "summary": "Meeting travellers' expectations could be challenging, experts warn.",
-    "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 12 Oct 2026 23:37:00 GMT",
-    "collected_at": "2026-10-13T02:17:31.124007+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-    "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 01:50:47 GMT",
-    "collected_at": "2026-10-13T02:17:31.124003+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "Heating oil customers face tough winter despite shake-up promise",
-    "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 12 Oct 2026 23:02:24 GMT",
-    "collected_at": "2026-10-13T02:17:31.123999+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "I earn £120,000 a year making social media videos go viral",
-    "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
-    "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 12 Oct 2026 23:01:45 GMT",
-    "collected_at": "2026-10-13T02:17:31.123993+00:00"
-  },
-  {
-    "id": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "title": "UK growth upgraded but energy prices and rates to bite in 2027",
-    "summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
-    "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 13 Oct 2026 02:00:35 GMT",
-    "collected_at": "2026-10-13T02:17:31.123977+00:00"
-  },
-  {
-    "id": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
-    "source": "NPR Economy",
-    "title": "It's taking longer to find a new job after losing one",
-    "summary": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
-    "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
-    "published": "Sun, 11 Oct 2026 05:00:00 -0400",
-    "collected_at": "2026-10-12T00:02:59.498909+00:00"
   }
 ]
